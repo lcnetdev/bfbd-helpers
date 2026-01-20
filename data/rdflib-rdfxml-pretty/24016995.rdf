@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://id.loc.gov/vocabulary/mnotetype/"
+  xmlns:ns2="http://id.loc.gov/ontologies/lclocal/"
+  xmlns:ns3="http://id.loc.gov/ontologies/bibframe/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:ns4="http://id.loc.gov/ontologies/bflc/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:ns5="http://id.loc.gov/vocabulary/resourceComponents/"
+  xmlns:ns6="http://id.loc.gov/vocabulary/vartitletype/"
+>
+  <ns3:DescriptionConventions rdf:about="http://id.loc.gov/vocabulary/descriptionConventions/isbd">
+    <rdfs:label>ISBD: International standard bibliographic description</rdfs:label>
+    <ns3:code>isbd</ns3:code>
+  </ns3:DescriptionConventions>
+  <ns3:Work rdf:about="http://id.loc.gov/resources/works/24016995">
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Text"/>
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Monograph"/>
+    <ns4:aap>Hippocrates. Hippocrates. Volume III</ns4:aap>
+    <ns4:aap-normalized>hippocrateshippocratesvolumeiii</ns4:aap-normalized>
+    <ns3:language>
+      <ns3:Language rdf:about="http://id.loc.gov/vocabulary/languages/eng">
+        <rdfs:label xml:lang="en">English</rdfs:label>
+        <ns3:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eng</ns3:code>
+      </ns3:Language>
+    </ns3:language>
+    <ns3:language>
+      <ns3:Language rdf:about="http://id.loc.gov/vocabulary/languages/grc">
+        <rdfs:label xml:lang="en">Greek, Ancient (to 1453)</rdfs:label>
+        <ns3:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">grc</ns3:code>
+      </ns3:Language>
+    </ns3:language>
+    <ns3:accompaniedBy>
+      <ns3:Work rdf:nodeID="Nb44c19a97f5841d794169ed2959160ab">
+        <rdf:type rdf:resource="http://id.loc.gov/vocabulary/resourceComponents/amt"/>
+        <ns3:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      </ns3:Work>
+    </ns3:accompaniedBy>
+    <ns3:note>
+      <ns3:Note rdf:nodeID="Ne806807821aa4350874d9f8fdd070208">
+        <rdf:type rdf:resource="http://id.loc.gov/vocabulary/resourceComponents/otx"/>
+        <ns3:language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+      </ns3:Note>
+    </ns3:note>
+    <ns3:note>
+      <ns3:Note rdf:nodeID="N8b47bd74bad44e568378f7c0667dc4d8">
+        <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/lang"/>
+        <rdfs:label>Text in Greek with English translation on facing pages ; introduction and notes in English.</rdfs:label>
+      </ns3:Note>
+    </ns3:note>
+    <ns3:classification>
+      <ns3:ClassificationLcc rdf:nodeID="Nb9b93944b02e4f4cbcc0b397217ae1d9">
+        <ns3:classificationPortion>R126</ns3:classificationPortion>
+        <ns3:itemPortion>.H4 2025</ns3:itemPortion>
+        <ns3:assigner rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+        <ns3:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/uba"/>
+      </ns3:ClassificationLcc>
+    </ns3:classification>
+    <ns3:classification>
+      <ns3:ClassificationDdc rdf:nodeID="Nb30fa3fad4284d81aee305138c47b50b">
+        <ns3:classificationPortion>610.938</ns3:classificationPortion>
+        <ns3:source>
+          <ns3:Source rdf:nodeID="N9dc72967c31a466298ad043f6fa77ed7">
+            <ns3:code>23/eng/20250716</ns3:code>
+          </ns3:Source>
+        </ns3:source>
+        <ns3:edition>full</ns3:edition>
+        <ns3:assigner rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+      </ns3:ClassificationDdc>
+    </ns3:classification>
+    <ns3:contribution>
+      <ns3:Contribution rdf:nodeID="N6cc7853ba7854f7ab5f70eae281f52d8">
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+        <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n79005643"/>
+        <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/aut"/>
+      </ns3:Contribution>
+    </ns3:contribution>
+    <ns3:contribution>
+      <ns3:Contribution rdf:nodeID="N61360cf0858d45ffb3dd68c8c8c6c497">
+        <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n81031783"/>
+        <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/edt"/>
+        <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/trl"/>
+      </ns3:Contribution>
+    </ns3:contribution>
+    <ns3:title>
+      <ns3:Title rdf:nodeID="N37355d38ec15446cafff0cf6a5d026bc">
+        <ns3:mainTitle>Hippocrates</ns3:mainTitle>
+        <ns3:partNumber>Volume III</ns3:partNumber>
+      </ns3:Title>
+    </ns3:title>
+    <ns3:title>
+      <ns3:VariantTitle rdf:nodeID="Nc5e24d1cedff4901947df4df2e85f48c">
+        <ns3:mainTitle>Hippocrates</ns3:mainTitle>
+        <ns3:partNumber>Volume 3</ns3:partNumber>
+      </ns3:VariantTitle>
+    </ns3:title>
+    <ns3:title>
+      <ns3:VariantTitle rdf:nodeID="N9cfb750430c74338a9efc4e271f73f55">
+        <ns3:mainTitle>Hippocrates</ns3:mainTitle>
+        <ns3:partNumber>Volume three</ns3:partNumber>
+      </ns3:VariantTitle>
+    </ns3:title>
+    <ns3:content>
+      <ns3:Content rdf:about="http://id.loc.gov/vocabulary/contentTypes/txt">
+        <rdfs:label>text</rdfs:label>
+        <ns3:code>txt</ns3:code>
+      </ns3:Content>
+    </ns3:content>
+    <ns3:supplementaryContent>
+      <ns3:SupplementaryContent rdf:about="http://id.loc.gov/vocabulary/msupplcont/bibliography">
+        <rdfs:label>bibliography</rdfs:label>
+        <ns3:code>bibliography</ns3:code>
+      </ns3:SupplementaryContent>
+    </ns3:supplementaryContent>
+    <ns3:supplementaryContent>
+      <ns3:SupplementaryContent rdf:about="http://id.loc.gov/vocabulary/msupplcont/index">
+        <rdfs:label>index</rdfs:label>
+        <ns3:code>index</ns3:code>
+      </ns3:SupplementaryContent>
+    </ns3:supplementaryContent>
+    <ns3:tableOfContents>
+      <ns3:TableOfContents rdf:nodeID="N396f8921566d4064b779a223b39574da">
+        <rdfs:label>Wounds in the head -- In the surgery -- Fractures -- Joints -- Instruments of reduction.</rdfs:label>
+      </ns3:TableOfContents>
+    </ns3:tableOfContents>
+    <ns3:summary>
+      <ns3:Summary rdf:nodeID="Nd0aeea6c367147699793e227193f6468">
+        <rdfs:label>"This is the third volume in the Loeb Classical Library's complete edition of Hippocrates' invaluable texts, which provide essential information about the practice of medicine in antiquity and about Greek theories concerning the human body. The five treatises in this volume, integral parts of the Hippocratic collection, are devoted to the art of surgery in treating injuries or disorders of the bones and their articulations. Wounds in the Head includes an anatomical introduction and many methods useful in diagnosis, prognosis, and management; In the Surgery surveys the surgeon's office, staff, equipment, and general practice; Fractures and Joints deliver technical information with rhetorical flair; and Instruments of Reduction is a head-to-toe account of human bones, their injuries, and applicable treatments. This Loeb edition replaces the original by E. T. Withington"-- Provided by publisher.</rdfs:label>
+      </ns3:Summary>
+    </ns3:summary>
+    <ns3:subject>
+      <ns3:Hub rdf:about="http://id.loc.gov/resources/hubs/77d24ae8-b3a9-5163-2123-acf0f0463f5b">
+        <rdfs:label>Hippocrates. De capitis vulneribus</rdfs:label>
+        <ns4:marcKey>1000 $aHippocrates.$tDe capitis vulneribus</ns4:marcKey>
+        <ns4:marcKey xml:lang="zxx-grek">1000 $aHippocrates.$tΠερὶ τῶν ἐν κεφαλῇ τρωμάτων</ns4:marcKey>
+        <ns3:contribution>
+          <ns3:Contribution rdf:nodeID="N69bafeed3304449997e0aef7cf4266b2">
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+            <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n79005643"/>
+            <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/ctb"/>
+          </ns3:Contribution>
+        </ns3:contribution>
+        <ns3:title>
+          <ns3:Title rdf:nodeID="Nb7bed91f1cc0424f875d87a4ef7380cb">
+            <ns3:mainTitle>De capitis vulneribus</ns3:mainTitle>
+          </ns3:Title>
+        </ns3:title>
+        <ns3:title>
+          <ns3:VariantTitle rdf:nodeID="N6b618ca2bbe34ef28da7dfd61255e09c">
+            <ns3:mainTitle xml:lang="zxx-grek">Περὶ τῶν ἐν κεφαλῇ τρωμάτων</ns3:mainTitle>
+          </ns3:VariantTitle>
+        </ns3:title>
+        <ns3:title>
+          <ns3:VariantTitle rdf:nodeID="N09ef6a9149c247e2b76e62e46fe52608">
+            <ns3:mainTitle xml:lang="zxx-latn">Peri tōn en kephalē trōmatōn</ns3:mainTitle>
+          </ns3:VariantTitle>
+        </ns3:title>
+      </ns3:Hub>
+    </ns3:subject>
+    <ns3:subject>
+      <ns3:Hub rdf:about="http://id.loc.gov/resources/hubs/9133ee33-05f7-3e34-95d8-fb2b3e2f32d8">
+        <rdfs:label>Hippocrates. De officina medici</rdfs:label>
+        <ns4:marcKey>1000 $aHippocrates.$tDe officina medici</ns4:marcKey>
+        <ns4:marcKey xml:lang="zxx-grek">1000 $aHippocrates.$tΚατ' ἰητρεῖον</ns4:marcKey>
+        <ns3:contribution>
+          <ns3:Contribution rdf:nodeID="N4d3128b2282c474db0bc45c65a2ae173">
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+            <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n79005643"/>
+            <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/ctb"/>
+          </ns3:Contribution>
+        </ns3:contribution>
+        <ns3:title>
+          <ns3:Title rdf:nodeID="N41be64cd10314fab86cd4eeffd2c4a77">
+            <ns3:mainTitle>De officina medici</ns3:mainTitle>
+          </ns3:Title>
+        </ns3:title>
+        <ns3:title>
+          <ns3:VariantTitle rdf:nodeID="N8f9b941b36044e98b6deec0c4a0f893e">
+            <ns3:mainTitle xml:lang="zxx-grek">Κατ' ἰητρεῖον</ns3:mainTitle>
+          </ns3:VariantTitle>
+        </ns3:title>
+        <ns3:title>
+          <ns3:VariantTitle rdf:nodeID="N5b202466a84d4b45bf08887139926eff">
+            <ns3:mainTitle xml:lang="zxx-latn">Kat' iētreion</ns3:mainTitle>
+          </ns3:VariantTitle>
+        </ns3:title>
+      </ns3:Hub>
+    </ns3:subject>
+    <ns3:subject>
+      <ns3:Hub rdf:about="http://id.loc.gov/resources/hubs/8d4d6d18-8a5e-9e06-2391-155d51603b81">
+        <rdfs:label>Hippocrates. De fracturis</rdfs:label>
+        <ns4:marcKey>1000 $aHippocrates.$tDe fracturis</ns4:marcKey>
+        <ns4:marcKey xml:lang="zxx-grek">1000 $aHippocrates.$tΠερὶ ἀγμῶν</ns4:marcKey>
+        <ns3:contribution>
+          <ns3:Contribution rdf:nodeID="N7cd3ebe33b7a4120bb1251e39c36a4d4">
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+            <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n79005643"/>
+            <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/ctb"/>
+          </ns3:Contribution>
+        </ns3:contribution>
+        <ns3:title>
+          <ns3:Title rdf:nodeID="Na3a2fc1bab5843dfa1df55416225cd96">
+            <ns3:mainTitle>De fracturis</ns3:mainTitle>
+          </ns3:Title>
+        </ns3:title>
+        <ns3:title>
+          <ns3:VariantTitle rdf:nodeID="Nad7bc69875f444c684da8528601b7b37">
+            <ns3:mainTitle xml:lang="zxx-grek">Περὶ ἀγμῶν</ns3:mainTitle>
+          </ns3:VariantTitle>
+        </ns3:title>
+        <ns3:title>
+          <ns3:VariantTitle rdf:nodeID="N3494ea2dea7b4a32b9fd751611e477bd">
+            <ns3:mainTitle xml:lang="zxx-latn">Peri agmōn</ns3:mainTitle>
+          </ns3:VariantTitle>
+        </ns3:title>
+      </ns3:Hub>
+    </ns3:subject>
+    <ns3:subject>
+      <ns3:Hub rdf:about="http://id.loc.gov/resources/hubs/7dcf0d3c-6514-1475-3416-ff47a9197e18">
+        <rdfs:label>Hippocrates. De articulis</rdfs:label>
+        <ns4:marcKey>1000 $aHippocrates.$tDe articulis</ns4:marcKey>
+        <ns4:marcKey xml:lang="zxx-grek">1000 $aHippocrates.$tΠερὶ ἄρθρων</ns4:marcKey>
+        <ns3:contribution>
+          <ns3:Contribution rdf:nodeID="N516cb308f1c8411797414bef224c233c">
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+            <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n79005643"/>
+            <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/ctb"/>
+          </ns3:Contribution>
+        </ns3:contribution>
+        <ns3:title>
+          <ns3:Title rdf:nodeID="Nae40b496281449979c53a3f85b8d8950">
+            <ns3:mainTitle>De articulis</ns3:mainTitle>
+          </ns3:Title>
+        </ns3:title>
+        <ns3:title>
+          <ns3:VariantTitle rdf:nodeID="N9e201400890a48309be18a2266a77915">
+            <ns3:mainTitle xml:lang="zxx-grek">Περὶ ἄρθρων</ns3:mainTitle>
+          </ns3:VariantTitle>
+        </ns3:title>
+        <ns3:title>
+          <ns3:VariantTitle rdf:nodeID="N97475369fdd44f40b01c2b862b6968c3">
+            <ns3:mainTitle xml:lang="zxx-latn">Peri arthrōn</ns3:mainTitle>
+          </ns3:VariantTitle>
+        </ns3:title>
+      </ns3:Hub>
+    </ns3:subject>
+    <ns3:subject>
+      <ns3:Hub rdf:about="http://id.loc.gov/resources/hubs/137b9ceb-6692-6169-12b8-88e97177c059">
+        <rdfs:label>Hippocrates. Vectiarius</rdfs:label>
+        <ns4:marcKey>1000 $aHippocrates.$tVectiarius</ns4:marcKey>
+        <ns4:marcKey xml:lang="zxx-grek">1000 $aHippocrates.$tΜοχλικόν</ns4:marcKey>
+        <ns3:contribution>
+          <ns3:Contribution rdf:nodeID="N88a047987b2b44fcad5ef46b9f989eaa">
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+            <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n79005643"/>
+            <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/ctb"/>
+          </ns3:Contribution>
+        </ns3:contribution>
+        <ns3:title>
+          <ns3:Title rdf:nodeID="Nf39a8fc56b0c4ecf967d62512177c698">
+            <ns3:mainTitle>Vectiarius</ns3:mainTitle>
+          </ns3:Title>
+        </ns3:title>
+        <ns3:title>
+          <ns3:VariantTitle rdf:nodeID="N5605e27ab6394a04b2125d7394c3ac04">
+            <ns3:mainTitle xml:lang="zxx-grek">Μοχλικόν</ns3:mainTitle>
+          </ns3:VariantTitle>
+        </ns3:title>
+        <ns3:title>
+          <ns3:VariantTitle rdf:nodeID="N4d05617880a3440fbd1f63eff3b6cd9c">
+            <ns3:mainTitle xml:lang="zxx-latn">Mochlikon</ns3:mainTitle>
+          </ns3:VariantTitle>
+        </ns3:title>
+        <ns3:title>
+          <ns3:VariantTitle rdf:nodeID="N576285c69a5b47baa31e849d002ddef5">
+            <ns3:mainTitle xml:lang="zxx-grek">Μοχλικός</ns3:mainTitle>
+          </ns3:VariantTitle>
+        </ns3:title>
+        <ns3:title>
+          <ns3:VariantTitle rdf:nodeID="N92a6aa52bb5a46ac9e565d171dd553c6">
+            <ns3:mainTitle xml:lang="zxx-latn">Mochlikos</ns3:mainTitle>
+          </ns3:VariantTitle>
+        </ns3:title>
+      </ns3:Hub>
+    </ns3:subject>
+    <ns3:subject>
+      <ns3:Topic rdf:about="http://id.loc.gov/authorities/subjects/sh85083142">
+        <rdfs:label xml:lang="en">Medicine, Greek and Roman</rdfs:label>
+        <ns4:marcKey>150 $aMedicine, Greek and Roman</ns4:marcKey>
+      </ns3:Topic>
+    </ns3:subject>
+    <dcterms:isPartOf rdf:resource="http://id.loc.gov/resources/works"/>
+    <ns3:relation>
+      <ns3:Relation rdf:nodeID="N99be3dbb7c2e4ff09150978f271f1931">
+        <ns3:relationship rdf:resource="http://id.loc.gov/vocabulary/relationship/series"/>
+        <ns3:seriesEnumeration>LCL 149</ns3:seriesEnumeration>
+        <ns3:associatedResource>
+          <ns3:Series rdf:nodeID="Ndf0ad6ced0364ad3b9cdd057de2ff963">
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bflc/Uncontrolled"/>
+            <ns3:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/t"/>
+            <ns3:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/tr"/>
+            <ns3:title>
+              <ns3:Title rdf:nodeID="N6092819f1bbe4c599b0d2ac34794f3c1">
+                <ns3:mainTitle>Loeb classical library</ns3:mainTitle>
+              </ns3:Title>
+            </ns3:title>
+          </ns3:Series>
+        </ns3:associatedResource>
+      </ns3:Relation>
+    </ns3:relation>
+    <ns3:relation>
+      <ns3:Relation rdf:nodeID="N04c80a481b404edda3be668e33ec419f">
+        <ns3:relationship rdf:resource="http://id.loc.gov/vocabulary/relationship/part"/>
+        <ns3:associatedResource rdf:resource="http://id.loc.gov/resources/hubs/c671f6eb-cfd8-8e4a-1322-f57bdd450eaa"/>
+      </ns3:Relation>
+    </ns3:relation>
+    <ns3:relation>
+      <ns3:Relation rdf:nodeID="Ne119d7a5f49345e1bf15c41392c62928">
+        <ns3:relationship rdf:resource="http://id.loc.gov/vocabulary/relationship/part"/>
+        <ns3:associatedResource rdf:resource="http://id.loc.gov/resources/hubs/2bf88010-0a30-ca61-28ce-5c17687e5037"/>
+      </ns3:Relation>
+    </ns3:relation>
+    <ns3:relation>
+      <ns3:Relation rdf:nodeID="Ne4b401f13d764686afed8c1e42564f26">
+        <ns3:relationship rdf:resource="http://id.loc.gov/vocabulary/relationship/part"/>
+        <ns3:associatedResource rdf:resource="http://id.loc.gov/resources/hubs/3d71a023-0b4b-8cd1-59d7-4e71f138512d"/>
+      </ns3:Relation>
+    </ns3:relation>
+    <ns3:relation>
+      <ns3:Relation rdf:nodeID="Nee0ef1ead102484f937362c4d2620fbb">
+        <ns3:relationship rdf:resource="http://id.loc.gov/vocabulary/relationship/part"/>
+        <ns3:associatedResource rdf:resource="http://id.loc.gov/resources/hubs/bc147f6e-05d3-502a-e44d-fd69ceb14aa9"/>
+      </ns3:Relation>
+    </ns3:relation>
+    <ns3:relation>
+      <ns3:Relation rdf:nodeID="Na84cb6c9dc06400c862d9b41e1eb9e75">
+        <ns3:relationship rdf:resource="http://id.loc.gov/vocabulary/relationship/part"/>
+        <ns3:associatedResource rdf:resource="http://id.loc.gov/resources/hubs/aca07120-1ea2-28ea-cfaf-20d0e34f3a8f"/>
+      </ns3:Relation>
+    </ns3:relation>
+    <ns3:relation>
+      <ns3:Relation rdf:nodeID="N08e7317a54a040c891bfa7c613e6aea4">
+        <ns3:relationship rdf:resource="http://id.loc.gov/vocabulary/relationship/part"/>
+        <ns3:associatedResource rdf:resource="http://id.loc.gov/resources/hubs/85560d44-f135-4adf-beaa-b50de09c36f6"/>
+      </ns3:Relation>
+    </ns3:relation>
+    <ns3:relation>
+      <ns3:Relation rdf:nodeID="N2727b16b8fde45c5a709c4210130bfc9">
+        <ns3:relationship rdf:resource="http://id.loc.gov/vocabulary/relationship/part"/>
+        <ns3:associatedResource rdf:resource="http://id.loc.gov/resources/hubs/7b7d0271-ef28-7ee2-e984-a6c8a122a6c3"/>
+      </ns3:Relation>
+    </ns3:relation>
+    <ns3:relation>
+      <ns3:Relation rdf:nodeID="N30489b5bfc1e4a41a133ae25e92d4756">
+        <ns3:relationship rdf:resource="http://id.loc.gov/vocabulary/relationship/part"/>
+        <ns3:associatedResource rdf:resource="http://id.loc.gov/resources/hubs/96cd1e73-936c-34f2-8953-08653a4d1708"/>
+      </ns3:Relation>
+    </ns3:relation>
+    <ns3:relation>
+      <ns3:Relation rdf:nodeID="N2dd11ad2efa248619912c438292ad174">
+        <ns3:relationship rdf:resource="http://id.loc.gov/vocabulary/relationship/part"/>
+        <ns3:associatedResource rdf:resource="http://id.loc.gov/resources/hubs/54af79a7-6618-1cd7-bbed-131aa0492326"/>
+      </ns3:Relation>
+    </ns3:relation>
+    <ns3:relation>
+      <ns3:Relation rdf:nodeID="N66f4c0faf4d74ccaa8b882b85c1001dd">
+        <ns3:relationship rdf:resource="http://id.loc.gov/vocabulary/relationship/part"/>
+        <ns3:associatedResource rdf:resource="http://id.loc.gov/resources/hubs/a270b380-a170-4a00-f74f-087c11306dba"/>
+      </ns3:Relation>
+    </ns3:relation>
+    <ns3:relation>
+      <ns3:Relation rdf:nodeID="N87918c0f86de428db454a5ae92a2e673">
+        <ns3:relationship rdf:resource="http://id.loc.gov/vocabulary/relationship/series"/>
+        <ns3:seriesEnumeration>3.</ns3:seriesEnumeration>
+        <ns3:associatedResource rdf:resource="http://id.loc.gov/resources/hubs/3f355dee-1688-9f31-7254-9b9e824f3bb4"/>
+      </ns3:Relation>
+    </ns3:relation>
+    <ns3:relation>
+      <ns3:Relation rdf:nodeID="N0d38752477384c2d99fdb102625703ac">
+        <ns3:relationship rdf:resource="http://id.loc.gov/vocabulary/relationship/series"/>
+        <ns3:seriesEnumeration>3.</ns3:seriesEnumeration>
+        <ns3:associatedResource rdf:resource="http://id.loc.gov/resources/hubs/f7464f84-25a1-cea2-ff15-4bfea263bdc2"/>
+      </ns3:Relation>
+    </ns3:relation>
+    <ns3:relation>
+      <ns3:Relation rdf:nodeID="N5ea0fab85bd3478e94d783ad3f43d839">
+        <ns3:relationship rdf:resource="http://id.loc.gov/vocabulary/relationship/series"/>
+        <ns3:seriesEnumeration>149.</ns3:seriesEnumeration>
+        <ns3:associatedResource rdf:resource="http://id.loc.gov/resources/hubs/25604025-cbfd-534f-0bcf-9493ff0f5e8a"/>
+      </ns3:Relation>
+    </ns3:relation>
+    <ns3:hasInstance>
+      <ns3:Instance rdf:about="http://id.loc.gov/resources/instances/24016995">
+        <ns3:provisionActivity>
+          <ns3:ProvisionActivity rdf:nodeID="N7b37f45fd9fd4e46a3cf724be11d74c7">
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Publication"/>
+            <ns3:date rdf:datatype="http://id.loc.gov/datatypes/edtf">2025</ns3:date>
+            <ns3:place rdf:resource="http://id.loc.gov/vocabulary/countries/mau"/>
+            <ns4:simplePlace>Cambridge, Massachusetts</ns4:simplePlace>
+            <ns4:simplePlace>London, England</ns4:simplePlace>
+            <ns4:simpleAgent>Harvard University Press</ns4:simpleAgent>
+            <ns4:simpleDate>2025</ns4:simpleDate>
+          </ns3:ProvisionActivity>
+        </ns3:provisionActivity>
+        <ns3:publicationStatement>Cambridge, Massachusetts; London, England: Harvard University Press, 2025</ns3:publicationStatement>
+        <ns3:identifiedBy>
+          <ns3:Lccn rdf:nodeID="Nda9adf0a22c54bbcac5410b59a6d9412">
+            <rdf:value> 2025000795</rdf:value>
+          </ns3:Lccn>
+        </ns3:identifiedBy>
+        <ns3:identifiedBy>
+          <ns3:Isbn rdf:nodeID="N40ad60717dc345b48d462b35a65326a9">
+            <rdf:value>9780674997684</rdf:value>
+            <ns3:qualifier>cloth</ns3:qualifier>
+          </ns3:Isbn>
+        </ns3:identifiedBy>
+        <ns3:responsibilityStatement>edited and translated by Paul Potter</ns3:responsibilityStatement>
+        <ns3:title>
+          <ns3:Title rdf:nodeID="N6726bce2fc87423b9302498c6e6dbd89">
+            <ns3:mainTitle>Hippocrates</ns3:mainTitle>
+            <ns3:partNumber>Volume III</ns3:partNumber>
+          </ns3:Title>
+        </ns3:title>
+        <ns3:title>
+          <ns3:VariantTitle rdf:nodeID="N045eb214f8dd48b98427a57aa95f4d81">
+            <rdf:type rdf:resource="http://id.loc.gov/vocabulary/vartitletype/spi"/>
+            <ns3:mainTitle>Hippocrates</ns3:mainTitle>
+            <ns3:partNumber>III</ns3:partNumber>
+          </ns3:VariantTitle>
+        </ns3:title>
+        <ns4:projectedProvisionDate>2508</ns4:projectedProvisionDate>
+        <ns3:extent>
+          <ns3:Extent rdf:nodeID="N4dfd727c1395426cbfdf188a57c34560">
+            <rdfs:label>pages cm</rdfs:label>
+          </ns3:Extent>
+        </ns3:extent>
+        <ns3:issuance rdf:resource="http://id.loc.gov/vocabulary/issuance/mono"/>
+        <ns3:media rdf:resource="http://id.loc.gov/vocabulary/mediaTypes/n"/>
+        <ns3:carrier rdf:resource="http://id.loc.gov/vocabulary/carriers/nc"/>
+        <ns3:note>
+          <ns3:Note rdf:nodeID="N43cbe9367a66476d94a750a73143f898">
+            <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/biblio"/>
+            <rdfs:label>Includes bibliographical references and index.</rdfs:label>
+          </ns3:Note>
+        </ns3:note>
+        <dcterms:isPartOf rdf:resource="http://id.loc.gov/resources/instances"/>
+        <ns3:instanceOf rdf:resource="http://id.loc.gov/resources/works/24016995"/>
+        <ns3:adminMetadata>
+          <ns3:AdminMetadata rdf:nodeID="N325c601df13743408afbefd7017bdf81">
+            <ns3:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/n"/>
+            <ns3:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-02-03</ns3:date>
+            <ns3:agent>
+              <ns3:Agent rdf:nodeID="Nce714c2d9f364554af3a25a6b3c7b11e">
+                <ns3:code>UPB/DLC</ns3:code>
+              </ns3:Agent>
+            </ns3:agent>
+          </ns3:AdminMetadata>
+        </ns3:adminMetadata>
+        <ns3:adminMetadata>
+          <ns3:AdminMetadata rdf:nodeID="N3cbba9ed9f7d461198944bfc062707a1">
+            <ns3:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/c"/>
+            <ns3:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T10:11:11</ns3:date>
+            <ns3:descriptionModifier>
+              <ns3:Agent rdf:nodeID="N2d46662492cd4e0190dbf50b343bd819">
+                <ns3:code>UPB/DLC</ns3:code>
+              </ns3:Agent>
+            </ns3:descriptionModifier>
+          </ns3:AdminMetadata>
+        </ns3:adminMetadata>
+        <ns3:adminMetadata>
+          <ns3:AdminMetadata rdf:nodeID="N3a0af372f5d245efa4be44391359d848">
+            <ns3:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/c"/>
+            <ns3:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T00:00:00</ns3:date>
+            <ns3:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+            <ns3:generationProcess rdf:resource="https://github.com/lcnetdev/bibframe2marc/releases/tag/v2.10-dev"/>
+          </ns3:AdminMetadata>
+        </ns3:adminMetadata>
+        <ns3:adminMetadata>
+          <ns3:AdminMetadata rdf:nodeID="Neb66ef735d1f410ba1aee60179965714">
+            <ns3:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/c"/>
+            <ns3:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlcmrc"/>
+            <ns3:generationProcess rdf:resource="https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.10.0"/>
+            <ns3:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-16T04:57:01.168961-04:00</ns3:date>
+          </ns3:AdminMetadata>
+        </ns3:adminMetadata>
+        <ns3:adminMetadata>
+          <ns3:AdminMetadata rdf:nodeID="N1484a41a7e9c454fa7d8c0604d9e544c">
+            <ns3:descriptionLevel rdf:resource="http://id.loc.gov/ontologies/bibframe-2-6-0/"/>
+            <ns4:encodingLevel rdf:resource="http://id.loc.gov/vocabulary/menclvl/8"/>
+            <ns3:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/isbd"/>
+            <ns3:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/rda"/>
+            <ns3:identifiedBy>
+              <ns3:Local rdf:nodeID="N1a2f159df2854ca687c611f187e93adf">
+                <rdf:value>24016995</rdf:value>
+                <ns3:assigner rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+              </ns3:Local>
+            </ns3:identifiedBy>
+            <ns4:marcKey>906 $a7$bcbc$corignew$d1$eecip$f20$gy-gencatlg</ns4:marcKey>
+            <ns4:marcKey>9250 $aacquire$b1 shelf copy$xpolicy default</ns4:marcKey>
+            <ns4:marcKey>955 $bUPB 2025-02-03$erp05 2025-02-06 to Dewey$wxm08 2025-07-16 Telework</ns4:marcKey>
+            <ns2:d906>=906 $a 7 $b cbc $c orignew $d 1 $e ecip $f 20 $g y-gencatlg</ns2:d906>
+            <ns2:d925>=925 0 $a acquire $b 1 shelf copy $x policy default</ns2:d925>
+            <ns2:d955>=955 $b UPB 2025-02-03 $e rp05 2025-02-06 to Dewey $w xm08 2025-07-16 Telework</ns2:d955>
+            <ns3:descriptionLanguage rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+            <ns3:note>
+              <ns3:Note rdf:nodeID="N52309a11df0641b798f26d1f74f0140f">
+                <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/internal"/>
+                <rdfs:label>040 $aUPB/DLC$beng$erda$cDLC$dUPB/DLC$dDLC-MRC$dUPB/DLC</rdfs:label>
+              </ns3:Note>
+            </ns3:note>
+            <ns3:descriptionAuthentication rdf:resource="http://id.loc.gov/vocabulary/marcauthen/pcc"/>
+            <ns2:d985>=985 $e BIBFRAME $d 2025-07-16T10:09:43</ns2:d985>
+          </ns3:AdminMetadata>
+        </ns3:adminMetadata>
+      </ns3:Instance>
+    </ns3:hasInstance>
+    <ns3:adminMetadata>
+      <ns3:AdminMetadata rdf:nodeID="N054b6e0d80774443bb2269abfae6c21c">
+        <ns3:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/n"/>
+        <ns3:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-02-03</ns3:date>
+        <ns3:agent>
+          <ns3:Agent rdf:nodeID="Nc8dad37299164952a236e9648b997723">
+            <ns3:code>UPB/DLC</ns3:code>
+          </ns3:Agent>
+        </ns3:agent>
+      </ns3:AdminMetadata>
+    </ns3:adminMetadata>
+    <ns3:adminMetadata>
+      <ns3:AdminMetadata rdf:nodeID="N0baa73e2e7c84131850ea4e189ea1ba1">
+        <ns3:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/c"/>
+        <ns3:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T10:11:11</ns3:date>
+        <ns3:descriptionModifier>
+          <ns3:Agent rdf:nodeID="N040358ad8cd04b91bde2756981925cfe">
+            <ns3:code>UPB/DLC</ns3:code>
+          </ns3:Agent>
+        </ns3:descriptionModifier>
+      </ns3:AdminMetadata>
+    </ns3:adminMetadata>
+    <ns3:adminMetadata>
+      <ns3:AdminMetadata rdf:nodeID="Ndbe1acda9860429a97e6921d253de022">
+        <ns3:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/c"/>
+        <ns3:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T00:00:00</ns3:date>
+        <ns3:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+        <ns3:generationProcess rdf:resource="https://github.com/lcnetdev/bibframe2marc/releases/tag/v2.10-dev"/>
+      </ns3:AdminMetadata>
+    </ns3:adminMetadata>
+    <ns3:adminMetadata>
+      <ns3:AdminMetadata rdf:nodeID="N625fc1143329425a9beab8e60e350f78">
+        <ns3:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/c"/>
+        <ns3:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlcmrc"/>
+        <ns3:generationProcess rdf:resource="https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.10.0"/>
+        <ns3:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-16T04:57:01.168961-04:00</ns3:date>
+      </ns3:AdminMetadata>
+    </ns3:adminMetadata>
+    <ns3:adminMetadata>
+      <ns3:AdminMetadata rdf:nodeID="Nd7db98e1415346dfa42f669db58c58cd">
+        <ns3:descriptionLevel rdf:resource="http://id.loc.gov/ontologies/bibframe-2-6-0/"/>
+        <ns4:encodingLevel rdf:resource="http://id.loc.gov/vocabulary/menclvl/8"/>
+        <ns3:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/isbd"/>
+        <ns3:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/rda"/>
+        <ns3:identifiedBy>
+          <ns3:Local rdf:nodeID="N97bcd980f06a4496aaa4f4d0f34f64bf">
+            <rdf:value>24016995</rdf:value>
+            <ns3:assigner rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+          </ns3:Local>
+        </ns3:identifiedBy>
+        <ns4:marcKey>906 $a7$bcbc$corignew$d1$eecip$f20$gy-gencatlg</ns4:marcKey>
+        <ns4:marcKey>9250 $aacquire$b1 shelf copy$xpolicy default</ns4:marcKey>
+        <ns4:marcKey>955 $bUPB 2025-02-03$erp05 2025-02-06 to Dewey$wxm08 2025-07-16 Telework</ns4:marcKey>
+        <ns2:d906>=906 $a 7 $b cbc $c orignew $d 1 $e ecip $f 20 $g y-gencatlg</ns2:d906>
+        <ns2:d925>=925 0 $a acquire $b 1 shelf copy $x policy default</ns2:d925>
+        <ns2:d955>=955 $b UPB 2025-02-03 $e rp05 2025-02-06 to Dewey $w xm08 2025-07-16 Telework</ns2:d955>
+        <ns3:descriptionLanguage rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+        <ns3:note>
+          <ns3:Note rdf:nodeID="Nb3e6c037fdf14d67a33d3ed4d1d718cf">
+            <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/internal"/>
+            <rdfs:label>040 $aUPB/DLC$beng$erda$cDLC$dUPB/DLC$dDLC-MRC$dUPB/DLC</rdfs:label>
+          </ns3:Note>
+        </ns3:note>
+        <ns3:descriptionAuthentication rdf:resource="http://id.loc.gov/vocabulary/marcauthen/pcc"/>
+        <ns2:d985>=985 $e BIBFRAME $d 2025-07-16T10:09:43</ns2:d985>
+      </ns3:AdminMetadata>
+    </ns3:adminMetadata>
+  </ns3:Work>
+  <ns3:Hub rdf:about="http://id.loc.gov/resources/hubs/85560d44-f135-4adf-beaa-b50de09c36f6">
+    <rdfs:label>Hippocrates. De fracturis. Greek</rdfs:label>
+    <ns4:marcKey>1000 $aHippocrates.$tDe fracturis.$lGreek.</ns4:marcKey>
+    <ns3:contribution>
+      <ns3:Contribution rdf:nodeID="N0a901ca4c117453db25b8a67bce888b7">
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+        <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n79005643"/>
+        <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/ctb"/>
+      </ns3:Contribution>
+    </ns3:contribution>
+    <ns3:title>
+      <ns3:Title rdf:nodeID="N85c76cb86b5a428ea4f22eb3cf67810d">
+        <ns3:mainTitle>De fracturis. Greek.</ns3:mainTitle>
+      </ns3:Title>
+    </ns3:title>
+    <ns3:language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+  </ns3:Hub>
+  <ns3:Hub rdf:about="http://id.loc.gov/resources/hubs/bc147f6e-05d3-502a-e44d-fd69ceb14aa9">
+    <rdfs:label>Hippocrates. De officina medici. Greek</rdfs:label>
+    <ns4:marcKey>1000 $aHippocrates.$tDe officina medici.$lGreek.</ns4:marcKey>
+    <ns4:marcKey xml:lang="zxx-grek">1000 $aHippocrates.$tἹπποκράτους Κατ' ἰητρεῖον</ns4:marcKey>
+    <ns3:contribution>
+      <ns3:Contribution rdf:nodeID="Nfc57020276b94bb89f3849f00dbd2bd6">
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+        <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n79005643"/>
+        <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/ctb"/>
+      </ns3:Contribution>
+    </ns3:contribution>
+    <ns3:title>
+      <ns3:Title rdf:nodeID="N73c1131a0a3b47c89fbfffd28f69e998">
+        <ns3:mainTitle>De officina medici. Greek.</ns3:mainTitle>
+      </ns3:Title>
+    </ns3:title>
+    <ns3:title>
+      <ns3:VariantTitle rdf:nodeID="N0b8ce39ac5bb4450922a0dd0fc223bcc">
+        <ns3:mainTitle xml:lang="zxx-grek">Ἱπποκράτους Κατ' ἰητρεῖον</ns3:mainTitle>
+      </ns3:VariantTitle>
+    </ns3:title>
+    <ns3:title>
+      <ns3:VariantTitle rdf:nodeID="N3f9dfe8d2cf44565b46f99567ed80e32">
+        <ns3:mainTitle xml:lang="zxx-latn">Hippokratous Kat' iētreion</ns3:mainTitle>
+      </ns3:VariantTitle>
+    </ns3:title>
+    <ns3:title>
+      <ns3:VariantTitle rdf:nodeID="N91816c8e89584001a25c08c13331b254">
+        <ns3:mainTitle xml:lang="zxx-grek">Κατ' ἰητρεῖον</ns3:mainTitle>
+      </ns3:VariantTitle>
+    </ns3:title>
+    <ns3:title>
+      <ns3:VariantTitle rdf:nodeID="N864578b392b348629e20428920d67dd7">
+        <ns3:mainTitle xml:lang="zxx-latn">Kat' iētreion</ns3:mainTitle>
+      </ns3:VariantTitle>
+    </ns3:title>
+    <ns3:language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+  </ns3:Hub>
+  <ns3:Role rdf:about="http://id.loc.gov/vocabulary/relators/trl">
+    <rdfs:label>translator</rdfs:label>
+    <ns3:code>trl</ns3:code>
+  </ns3:Role>
+  <ns3:DescriptionConventions rdf:about="http://id.loc.gov/vocabulary/descriptionConventions/rda">
+    <rdfs:label>Resource description and access</rdfs:label>
+    <ns3:code>rda</ns3:code>
+  </ns3:DescriptionConventions>
+  <ns3:Role rdf:about="http://id.loc.gov/vocabulary/relators/aut">
+    <rdfs:label>author</rdfs:label>
+    <ns3:code>aut</ns3:code>
+  </ns3:Role>
+  <ns3:Hub rdf:about="http://id.loc.gov/resources/hubs/2bf88010-0a30-ca61-28ce-5c17687e5037">
+    <rdfs:label>Hippocrates. De capitis vulneribus. Greek</rdfs:label>
+    <ns4:marcKey>1000 $aHippocrates.$tDe capitis vulneribus.$lGreek.</ns4:marcKey>
+    <ns4:marcKey xml:lang="zxx-grek">1000 $aHippocrates.$tΠερὶ τῶν ἐν κεφαλῇ τρωμάτων</ns4:marcKey>
+    <ns3:contribution>
+      <ns3:Contribution rdf:nodeID="Nae19f2d224bc40b48da32317f6295da2">
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+        <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n79005643"/>
+        <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/ctb"/>
+      </ns3:Contribution>
+    </ns3:contribution>
+    <ns3:title>
+      <ns3:Title rdf:nodeID="Nf7e207a3eb6248c49a2b7caac5c3ccce">
+        <ns3:mainTitle>De capitis vulneribus. Greek.</ns3:mainTitle>
+      </ns3:Title>
+    </ns3:title>
+    <ns3:title>
+      <ns3:VariantTitle rdf:nodeID="Nea758aa9c8624166a50bf21f29de37ac">
+        <ns3:mainTitle xml:lang="zxx-grek">Περὶ τῶν ἐν κεφαλῇ τρωμάτων</ns3:mainTitle>
+      </ns3:VariantTitle>
+    </ns3:title>
+    <ns3:title>
+      <ns3:VariantTitle rdf:nodeID="Na17a57775c03477fbfce904d4210eeea">
+        <ns3:mainTitle xml:lang="zxx-latn">Peri tōn en kephalē trōmatōn</ns3:mainTitle>
+      </ns3:VariantTitle>
+    </ns3:title>
+    <ns3:language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+  </ns3:Hub>
+  <ns3:Hub rdf:about="http://id.loc.gov/resources/hubs/f7464f84-25a1-cea2-ff15-4bfea263bdc2">
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Series"/>
+    <rdfs:label>Hippocrates. Works. Greek</rdfs:label>
+    <ns4:marcKey>1000 $aHippocrates.$tWorks.$lGreek.</ns4:marcKey>
+    <ns3:contribution>
+      <ns3:Contribution rdf:nodeID="N68d4b7a3b24f4831b143e6c5a407ddac">
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+        <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n79005643"/>
+        <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/ctb"/>
+      </ns3:Contribution>
+    </ns3:contribution>
+    <ns3:title>
+      <ns3:Title rdf:nodeID="N95d79a530c85485b824b69e8082c2438">
+        <ns3:mainTitle>Works. Greek.</ns3:mainTitle>
+      </ns3:Title>
+    </ns3:title>
+    <ns3:title>
+      <ns3:VariantTitle rdf:nodeID="Nd26dabb96ef34604974559d2f51acc0a">
+        <ns3:mainTitle xml:lang="zxx-latn">Hippocrates</ns3:mainTitle>
+      </ns3:VariantTitle>
+    </ns3:title>
+    <ns3:language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+  </ns3:Hub>
+  <ns3:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlcmrc">
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Organization"/>
+    <rdfs:label>United States, Library of Congress, Network Development and MARC Standards Office</rdfs:label>
+    <ns3:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC-MRC</ns3:code>
+    <ns3:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlcmrc</ns3:code>
+    <ns3:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlcmrc</ns3:code>
+  </ns3:Agent>
+  <ns3:Media rdf:about="http://id.loc.gov/vocabulary/mediaTypes/n">
+    <rdfs:label>unmediated</rdfs:label>
+    <ns3:code>n</ns3:code>
+  </ns3:Media>
+  <ns3:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/uba">
+    <rdfs:label>used by assigner</rdfs:label>
+    <ns3:code>uba</ns3:code>
+  </ns3:Status>
+  <ns3:Hub rdf:about="http://id.loc.gov/resources/hubs/7b7d0271-ef28-7ee2-e984-a6c8a122a6c3">
+    <rdfs:label>Hippocrates. De articulis. English</rdfs:label>
+    <ns4:marcKey>1000 $aHippocrates.$tDe articulis.$lEnglish.</ns4:marcKey>
+    <ns3:contribution>
+      <ns3:Contribution rdf:nodeID="N6eb29b5c1da449f09a8cac92de6b4a13">
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+        <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n79005643"/>
+        <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/ctb"/>
+      </ns3:Contribution>
+    </ns3:contribution>
+    <ns3:title>
+      <ns3:Title rdf:nodeID="N4575232a60b64858bd791c0a33d31d22">
+        <ns3:mainTitle>De articulis. English.</ns3:mainTitle>
+      </ns3:Title>
+    </ns3:title>
+    <ns3:title>
+      <ns3:VariantTitle rdf:nodeID="N1badf497e987404fad46347c372f0f6b">
+        <ns3:mainTitle xml:lang="zxx-latn">On joints</ns3:mainTitle>
+      </ns3:VariantTitle>
+    </ns3:title>
+    <ns3:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+  </ns3:Hub>
+  <ns3:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/t">
+    <rdfs:label>transcribed</rdfs:label>
+    <ns3:code>t</ns3:code>
+  </ns3:Status>
+  <ns3:Hub rdf:about="http://id.loc.gov/resources/hubs/3f355dee-1688-9f31-7254-9b9e824f3bb4">
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Series"/>
+    <rdfs:label>Hippocrates. Works. English</rdfs:label>
+    <ns4:marcKey>1000 $aHippocrates.$tWorks.$lEnglish.</ns4:marcKey>
+    <ns3:contribution>
+      <ns3:Contribution rdf:nodeID="N1740e40ac7344792a61bae9d122c95b6">
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+        <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n79005643"/>
+        <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/ctb"/>
+      </ns3:Contribution>
+    </ns3:contribution>
+    <ns3:title>
+      <ns3:Title rdf:nodeID="N8f3819721d824369b1d15de91f95130c">
+        <ns3:mainTitle>Works. English.</ns3:mainTitle>
+      </ns3:Title>
+    </ns3:title>
+    <ns3:title>
+      <ns3:VariantTitle rdf:nodeID="Na448f10dde7e46a9898bf9d2702ba94b">
+        <ns3:mainTitle xml:lang="zxx-latn">Hippocrates</ns3:mainTitle>
+      </ns3:VariantTitle>
+    </ns3:title>
+    <ns3:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+  </ns3:Hub>
+  <ns3:Relationship rdf:about="http://id.loc.gov/vocabulary/relationship/part">
+    <rdfs:label>part</rdfs:label>
+    <ns3:code>part</ns3:code>
+  </ns3:Relationship>
+  <ns3:Hub rdf:about="http://id.loc.gov/resources/hubs/aca07120-1ea2-28ea-cfaf-20d0e34f3a8f">
+    <rdfs:label>Hippocrates. De fracturis. English</rdfs:label>
+    <ns4:marcKey>1000 $aHippocrates.$tDe fracturis.$lEnglish.</ns4:marcKey>
+    <ns3:contribution>
+      <ns3:Contribution rdf:nodeID="Nd2e76cdc2066499fb7c452fc03e0f365">
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+        <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n79005643"/>
+        <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/ctb"/>
+      </ns3:Contribution>
+    </ns3:contribution>
+    <ns3:title>
+      <ns3:Title rdf:nodeID="Nd07be6f08721407181c5960766c7bb03">
+        <ns3:mainTitle>De fracturis. English.</ns3:mainTitle>
+      </ns3:Title>
+    </ns3:title>
+    <ns3:title>
+      <ns3:VariantTitle rdf:nodeID="N349ab1d8530a4d0a876f52a419a2237c">
+        <ns3:mainTitle xml:lang="zxx-latn">Fractures</ns3:mainTitle>
+      </ns3:VariantTitle>
+    </ns3:title>
+    <ns3:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+  </ns3:Hub>
+  <ns3:Hub rdf:about="http://id.loc.gov/resources/hubs/3d71a023-0b4b-8cd1-59d7-4e71f138512d">
+    <rdfs:label>Hippocrates. De officina medici. English</rdfs:label>
+    <ns4:marcKey>1000 $aHippocrates.$tDe officina medici.$lEnglish.</ns4:marcKey>
+    <ns3:contribution>
+      <ns3:Contribution rdf:nodeID="N88003c7c10b34ddc8a866a4fc452bcac">
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+        <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n79005643"/>
+        <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/ctb"/>
+      </ns3:Contribution>
+    </ns3:contribution>
+    <ns3:title>
+      <ns3:Title rdf:nodeID="N3fad2a7132bf4340becf093e17ce95ed">
+        <ns3:mainTitle>De officina medici. English.</ns3:mainTitle>
+      </ns3:Title>
+    </ns3:title>
+    <ns3:title>
+      <ns3:VariantTitle rdf:nodeID="N1b03a37323634714842412c9f9381f17">
+        <ns3:mainTitle xml:lang="zxx-latn">In the surgery</ns3:mainTitle>
+      </ns3:VariantTitle>
+    </ns3:title>
+    <ns3:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+  </ns3:Hub>
+  <ns3:Hub rdf:about="http://id.loc.gov/resources/hubs/96cd1e73-936c-34f2-8953-08653a4d1708">
+    <rdfs:label>Hippocrates. De articulis. Greek</rdfs:label>
+    <ns4:marcKey>1000 $aHippocrates.$tDe articulis.$lGreek.</ns4:marcKey>
+    <ns4:marcKey xml:lang="zxx-grek">1000 $aHippocrates.$tΠερὶ ἄρθρων</ns4:marcKey>
+    <ns3:contribution>
+      <ns3:Contribution rdf:nodeID="N4cf6154df9e14da8af0f4c2a230216c5">
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+        <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n79005643"/>
+        <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/ctb"/>
+      </ns3:Contribution>
+    </ns3:contribution>
+    <ns3:title>
+      <ns3:Title rdf:nodeID="N65a2ed7ca85243159c901602fbaf79fa">
+        <ns3:mainTitle>De articulis. Greek.</ns3:mainTitle>
+      </ns3:Title>
+    </ns3:title>
+    <ns3:title>
+      <ns3:VariantTitle rdf:nodeID="N5d2bdbc80e794f4a88d9ecb7413d880f">
+        <ns3:mainTitle xml:lang="zxx-grek">Περὶ ἄρθρων</ns3:mainTitle>
+      </ns3:VariantTitle>
+    </ns3:title>
+    <ns3:title>
+      <ns3:VariantTitle rdf:nodeID="Nc4c8aec8615f40ad899261716217912a">
+        <ns3:mainTitle xml:lang="zxx-latn">Peri arthrōn</ns3:mainTitle>
+      </ns3:VariantTitle>
+    </ns3:title>
+    <ns3:language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+  </ns3:Hub>
+  <ns3:Carrier rdf:about="http://id.loc.gov/vocabulary/carriers/nc">
+    <rdfs:label>volume</rdfs:label>
+    <ns3:code>nc</ns3:code>
+  </ns3:Carrier>
+  <ns3:Hub rdf:about="http://id.loc.gov/resources/hubs/c671f6eb-cfd8-8e4a-1322-f57bdd450eaa">
+    <rdfs:label>Hippocrates. De capitis vulneribus. English</rdfs:label>
+    <ns4:marcKey>1000 $aHippocrates.$tDe capitis vulneribus.$lEnglish.</ns4:marcKey>
+    <ns3:contribution>
+      <ns3:Contribution rdf:nodeID="N35d718d21fd64b66bb28da97f68aa7cc">
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+        <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n79005643"/>
+        <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/ctb"/>
+      </ns3:Contribution>
+    </ns3:contribution>
+    <ns3:title>
+      <ns3:Title rdf:nodeID="N79eb91c499664489860cdd662575af11">
+        <ns3:mainTitle>De capitis vulneribus. English.</ns3:mainTitle>
+      </ns3:Title>
+    </ns3:title>
+    <ns3:title>
+      <ns3:VariantTitle rdf:nodeID="Nf3e2b39cc6ec4417a2e8e498a8e49e6a">
+        <ns3:mainTitle xml:lang="zxx-latn">On wounds in the head</ns3:mainTitle>
+      </ns3:VariantTitle>
+    </ns3:title>
+    <ns3:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+  </ns3:Hub>
+  <ns3:Hub rdf:about="http://id.loc.gov/resources/hubs/a270b380-a170-4a00-f74f-087c11306dba">
+    <rdfs:label>Hippocrates. Vectiarius. Greek</rdfs:label>
+    <ns4:marcKey>1000 $aHippocrates.$tVectiarius.$lGreek.</ns4:marcKey>
+    <ns3:contribution>
+      <ns3:Contribution rdf:nodeID="N36f2a6953779469c867405451230ab39">
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+        <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n79005643"/>
+        <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/ctb"/>
+      </ns3:Contribution>
+    </ns3:contribution>
+    <ns3:title>
+      <ns3:Title rdf:nodeID="Nfd1602b980364797bd7dbf5f1bfbf9a0">
+        <ns3:mainTitle>Vectiarius. Greek.</ns3:mainTitle>
+      </ns3:Title>
+    </ns3:title>
+    <ns3:language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+  </ns3:Hub>
+  <ns3:Issuance rdf:about="http://id.loc.gov/vocabulary/issuance/mono">
+    <rdfs:label>single unit</rdfs:label>
+    <ns3:code>mono</ns3:code>
+  </ns3:Issuance>
+  <ns3:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Organization"/>
+    <rdfs:label>United States, Library of Congress</rdfs:label>
+    <ns3:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC</ns3:code>
+    <ns3:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlc</ns3:code>
+    <ns3:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlc</ns3:code>
+  </ns3:Agent>
+  <ns3:Role rdf:about="http://id.loc.gov/vocabulary/relators/edt">
+    <rdfs:label>editor</rdfs:label>
+    <ns3:code>edt</ns3:code>
+  </ns3:Role>
+  <ns3:Hub rdf:about="http://id.loc.gov/resources/hubs/54af79a7-6618-1cd7-bbed-131aa0492326">
+    <rdfs:label>Hippocrates. Vectiarius. English</rdfs:label>
+    <ns4:marcKey>1000 $aHippocrates.$tVectiarius.$lEnglish.</ns4:marcKey>
+    <ns3:contribution>
+      <ns3:Contribution rdf:nodeID="Nd8d90cf9c79e4225a41cb1a7505cda07">
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+        <ns3:agent rdf:resource="http://id.loc.gov/rwo/agents/n79005643"/>
+        <ns3:role rdf:resource="http://id.loc.gov/vocabulary/relators/ctb"/>
+      </ns3:Contribution>
+    </ns3:contribution>
+    <ns3:title>
+      <ns3:Title rdf:nodeID="Nfb4f3f13beeb4819ad0a3f927d6045e2">
+        <ns3:mainTitle>Vectiarius. English.</ns3:mainTitle>
+      </ns3:Title>
+    </ns3:title>
+    <ns3:title>
+      <ns3:VariantTitle rdf:nodeID="N3c7661670bb74a5293d17c1b248de211">
+        <ns3:mainTitle xml:lang="zxx-latn">Instruments of reduction</ns3:mainTitle>
+      </ns3:VariantTitle>
+    </ns3:title>
+    <ns3:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+  </ns3:Hub>
+  <ns3:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/c">
+    <rdfs:label>changed</rdfs:label>
+    <ns3:code>c</ns3:code>
+  </ns3:Status>
+  <ns3:Agent rdf:about="http://id.loc.gov/rwo/agents/n81031783">
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+    <rdfs:label>Potter, Paul, 1944-</rdfs:label>
+    <ns4:marcKey>1001 $aPotter, Paul,$d1944-</ns4:marcKey>
+  </ns3:Agent>
+  <ns3:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+    <rdfs:label>Hippocrates</rdfs:label>
+    <ns4:marcKey>1000 $aHippocrates</ns4:marcKey>
+  </ns3:Agent>
+  <ns3:DescriptionAuthentication rdf:about="http://id.loc.gov/vocabulary/marcauthen/pcc">
+    <rdfs:label>Program for Cooperative Cataloging</rdfs:label>
+    <ns3:code>pcc</ns3:code>
+  </ns3:DescriptionAuthentication>
+  <ns3:Hub rdf:about="http://id.loc.gov/resources/hubs/25604025-cbfd-534f-0bcf-9493ff0f5e8a">
+    <rdfs:label>Loeb classical library</rdfs:label>
+    <ns4:marcKey>1300 $aLoeb classical library,</ns4:marcKey>
+    <ns3:title>
+      <ns3:Title rdf:nodeID="N5f88f7e3a971465c939200c1e1125efd">
+        <ns3:mainTitle>Loeb classical library</ns3:mainTitle>
+      </ns3:Title>
+    </ns3:title>
+  </ns3:Hub>
+  <ns3:Relationship rdf:about="http://id.loc.gov/vocabulary/relationship/series">
+    <rdfs:label>series</rdfs:label>
+    <ns3:code>series</ns3:code>
+  </ns3:Relationship>
+  <ns3:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+    <rdfs:label>contributor</rdfs:label>
+    <ns3:code>ctb</ns3:code>
+  </ns3:Role>
+  <ns3:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/n">
+    <rdfs:label>new</rdfs:label>
+    <ns3:code>n</ns3:code>
+  </ns3:Status>
+  <ns3:Place rdf:about="http://id.loc.gov/vocabulary/countries/mau">
+    <rdfs:label xml:lang="en">Massachusetts</rdfs:label>
+    <ns3:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mau</ns3:code>
+  </ns3:Place>
+  <ns3:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/tr">
+    <rdfs:label>traced</rdfs:label>
+    <ns3:code>tr</ns3:code>
+  </ns3:Status>
+  <ns4:EncodingLevel rdf:about="http://id.loc.gov/vocabulary/menclvl/8">
+    <rdfs:label>prepublication</rdfs:label>
+    <ns3:code>8</ns3:code>
+  </ns4:EncodingLevel>
+</rdf:RDF>

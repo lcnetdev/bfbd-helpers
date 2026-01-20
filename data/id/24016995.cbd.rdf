@@ -1,0 +1,1355 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:pmo="http://performedmusicontology.org/ontology/" xmlns:lclocal="http://id.loc.gov/ontologies/lclocal/" xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#">
+  <bf:Instance rdf:about="http://id.loc.gov/resources/instances/24016995">
+    <bf:provisionActivity>
+      <bf:ProvisionActivity>
+	<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Publication"/>
+	<bf:date rdf:datatype="http://id.loc.gov/datatypes/edtf">2025</bf:date>
+	<bf:place>
+	  <bf:Place rdf:about="http://id.loc.gov/vocabulary/countries/mau">
+	    <rdfs:label xml:lang="en">Massachusetts</rdfs:label>
+	    <bf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mau</bf:code>
+	  </bf:Place>
+	</bf:place>
+	<bflc:simplePlace>Cambridge, Massachusetts</bflc:simplePlace>
+	<bflc:simplePlace>London, England</bflc:simplePlace>
+	<bflc:simpleAgent>Harvard University Press</bflc:simpleAgent>
+	<bflc:simpleDate>2025</bflc:simpleDate>
+      </bf:ProvisionActivity>
+    </bf:provisionActivity>
+    <bf:publicationStatement>Cambridge, Massachusetts; London, England: Harvard University Press, 2025</bf:publicationStatement>
+    <bf:identifiedBy>
+      <bf:Lccn>
+	<rdf:value>  2025000795</rdf:value>
+      </bf:Lccn>
+    </bf:identifiedBy>
+    <bf:identifiedBy>
+      <bf:Isbn>
+	<rdf:value>9780674997684</rdf:value>
+	<bf:qualifier>cloth</bf:qualifier>
+      </bf:Isbn>
+    </bf:identifiedBy>
+    <bf:responsibilityStatement>edited and translated by Paul Potter</bf:responsibilityStatement>
+    <bf:title>
+      <bf:Title>
+	<bf:mainTitle>Hippocrates</bf:mainTitle>
+	<bf:partNumber>Volume III</bf:partNumber>
+      </bf:Title>
+    </bf:title>
+    <bf:title>
+      <bf:VariantTitle>
+	<rdf:type rdf:resource="http://id.loc.gov/vocabulary/vartitletype/spi"/>
+	<bf:mainTitle>Hippocrates</bf:mainTitle>
+	<bf:partNumber>III</bf:partNumber>
+      </bf:VariantTitle>
+    </bf:title>
+    <bflc:projectedProvisionDate>2508</bflc:projectedProvisionDate>
+    <bf:extent>
+      <bf:Extent>
+	<rdfs:label>pages cm</rdfs:label>
+      </bf:Extent>
+    </bf:extent>
+    <bf:issuance>
+      <bf:Issuance rdf:about="http://id.loc.gov/vocabulary/issuance/mono">
+	<rdfs:label>single unit</rdfs:label>
+	<bf:code>mono</bf:code>
+      </bf:Issuance>
+    </bf:issuance>
+    <bf:media>
+      <bf:Media rdf:about="http://id.loc.gov/vocabulary/mediaTypes/n">
+	<rdfs:label>unmediated</rdfs:label>
+	<bf:code>n</bf:code>
+      </bf:Media>
+    </bf:media>
+    <bf:carrier>
+      <bf:Carrier rdf:about="http://id.loc.gov/vocabulary/carriers/nc">
+	<rdfs:label>volume</rdfs:label>
+	<bf:code>nc</bf:code>
+      </bf:Carrier>
+    </bf:carrier>
+    <bf:note>
+      <bf:Note>
+	<rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/biblio"/>
+	<rdfs:label>Includes bibliographical references and index.</rdfs:label>
+      </bf:Note>
+    </bf:note>
+    <dcterms:isPartOf rdf:resource="http://id.loc.gov/resources/instances"/>
+    <bf:instanceOf rdf:resource="http://id.loc.gov/resources/works/24016995"/>
+    <bf:adminMetadata>
+      <bf:AdminMetadata>
+	<bf:status>
+	  <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/n">
+	    <rdfs:label>new</rdfs:label>
+	    <bf:code>n</bf:code>
+	  </bf:Status>
+	</bf:status>
+	<bf:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-02-03</bf:date>
+	<bf:agent>
+	  <bf:Agent>
+	    <bf:code>UPB/DLC</bf:code>
+	  </bf:Agent>
+	</bf:agent>
+      </bf:AdminMetadata>
+    </bf:adminMetadata>
+    <bf:adminMetadata>
+      <bf:AdminMetadata>
+	<bf:status>
+	  <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/c">
+	    <rdfs:label>changed</rdfs:label>
+	    <bf:code>c</bf:code>
+	  </bf:Status>
+	</bf:status>
+	<bf:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T10:11:11</bf:date>
+	<bf:descriptionModifier>
+	  <bf:Agent>
+	    <bf:code>UPB/DLC</bf:code>
+	  </bf:Agent>
+	</bf:descriptionModifier>
+      </bf:AdminMetadata>
+    </bf:adminMetadata>
+    <bf:adminMetadata>
+      <bf:AdminMetadata>
+	<bf:status>
+	  <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/c">
+	    <rdfs:label>changed</rdfs:label>
+	    <bf:code>c</bf:code>
+	  </bf:Status>
+	</bf:status>
+	<bf:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16</bf:date>
+	<bf:agent>
+	  <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Organization"/>
+	    <rdfs:label>United States, Library of Congress</rdfs:label>
+	    <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC</bf:code>
+	    <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlc</bf:code>
+	    <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlc</bf:code>
+	  </bf:Agent>
+	</bf:agent>
+	<bf:generationProcess rdf:resource="https://github.com/lcnetdev/bibframe2marc/releases/tag/v2.10-dev"/>
+      </bf:AdminMetadata>
+    </bf:adminMetadata>
+    <bf:adminMetadata>
+      <bf:AdminMetadata>
+	<bf:status>
+	  <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/c">
+	    <rdfs:label>changed</rdfs:label>
+	    <bf:code>c</bf:code>
+	  </bf:Status>
+	</bf:status>
+	<bf:agent>
+	  <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlcmrc">
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Organization"/>
+	    <rdfs:label>United States, Library of Congress, Network Development and MARC Standards Office</rdfs:label>
+	    <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC-MRC</bf:code>
+	    <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlcmrc</bf:code>
+	    <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlcmrc</bf:code>
+	  </bf:Agent>
+	</bf:agent>
+	<bf:generationProcess rdf:resource="https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.10.0"/>
+	<bf:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-16T04:57:01.168961-04:00</bf:date>
+      </bf:AdminMetadata>
+    </bf:adminMetadata>
+    <bf:adminMetadata>
+      <bf:AdminMetadata>
+	<bf:descriptionLevel rdf:resource="http://id.loc.gov/ontologies/bibframe-2-6-0/"/>
+	<bflc:encodingLevel>
+	  <bflc:EncodingLevel rdf:about="http://id.loc.gov/vocabulary/menclvl/8">
+	    <rdfs:label>prepublication</rdfs:label>
+	    <bf:code>8</bf:code>
+	  </bflc:EncodingLevel>
+	</bflc:encodingLevel>
+	<bf:descriptionConventions>
+	  <bf:DescriptionConventions rdf:about="http://id.loc.gov/vocabulary/descriptionConventions/isbd">
+	    <rdfs:label>ISBD: International standard bibliographic description</rdfs:label>
+	    <bf:code>isbd</bf:code>
+	  </bf:DescriptionConventions>
+	</bf:descriptionConventions>
+	<bf:identifiedBy>
+	  <bf:Local>
+	    <rdf:value>24016995</rdf:value>
+	    <bf:assigner>
+	      <bf:Organization rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+		<rdfs:label>United States, Library of Congress</rdfs:label>
+		<bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC</bf:code>
+		<bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlc</bf:code>
+		<bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlc</bf:code>
+	      </bf:Organization>
+	    </bf:assigner>
+	  </bf:Local>
+	</bf:identifiedBy>
+	<bflc:marcKey>906  $a7$bcbc$corignew$d1$eecip$f20$gy-gencatlg</bflc:marcKey>
+	<lclocal:d906>=906     $a 7 $b cbc $c orignew $d 1 $e ecip $f 20 $g y-gencatlg</lclocal:d906>
+	<bflc:marcKey>9250 $aacquire$b1 shelf copy$xpolicy default</bflc:marcKey>
+	<lclocal:d925>=925  0  $a acquire $b 1 shelf copy $x policy default</lclocal:d925>
+	<bflc:marcKey>955  $bUPB 2025-02-03$erp05 2025-02-06 to Dewey$wxm08 2025-07-16 Telework</bflc:marcKey>
+	<lclocal:d955>=955     $b UPB 2025-02-03 $e rp05 2025-02-06 to Dewey $w xm08 2025-07-16 Telework</lclocal:d955>
+	<bf:descriptionLanguage>
+	  <bf:Language rdf:about="http://id.loc.gov/vocabulary/languages/eng">
+	    <rdfs:label xml:lang="en">English</rdfs:label>
+	    <bf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eng</bf:code>
+	  </bf:Language>
+	</bf:descriptionLanguage>
+	<bf:descriptionConventions>
+	  <bf:DescriptionConventions rdf:about="http://id.loc.gov/vocabulary/descriptionConventions/rda">
+	    <rdfs:label>Resource description and access</rdfs:label>
+	    <bf:code>rda</bf:code>
+	  </bf:DescriptionConventions>
+	</bf:descriptionConventions>
+	<bf:note>
+	  <bf:Note>
+	    <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/internal"/>
+	    <rdfs:label>040  $aUPB/DLC$beng$erda$cDLC$dUPB/DLC$dDLC-MRC$dUPB/DLC</rdfs:label>
+	  </bf:Note>
+	</bf:note>
+	<bf:descriptionAuthentication>
+	  <bf:DescriptionAuthentication rdf:about="http://id.loc.gov/vocabulary/marcauthen/pcc">
+	    <rdfs:label>Program for Cooperative Cataloging</rdfs:label>
+	    <bf:code>pcc</bf:code>
+	  </bf:DescriptionAuthentication>
+	</bf:descriptionAuthentication>
+	<lclocal:d985>=985     $e BIBFRAME $d 2025-07-16T10:09:43</lclocal:d985>
+      </bf:AdminMetadata>
+    </bf:adminMetadata>
+  </bf:Instance>
+  <bf:Work rdf:about="http://id.loc.gov/resources/works/24016995">
+    <bflc:aap>Hippocrates. Hippocrates. Volume III</bflc:aap>
+    <bflc:aap-normalized>hippocrateshippocratesvolumeiii</bflc:aap-normalized>
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Text"/>
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Monograph"/>
+    <bf:language>
+      <bf:Language rdf:about="http://id.loc.gov/vocabulary/languages/eng">
+	<rdfs:label xml:lang="en">English</rdfs:label>
+	<bf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eng</bf:code>
+      </bf:Language>
+    </bf:language>
+    <bf:language>
+      <bf:Language rdf:about="http://id.loc.gov/vocabulary/languages/grc">
+	<rdfs:label xml:lang="en">Greek, Ancient (to 1453)</rdfs:label>
+	<bf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">grc</bf:code>
+      </bf:Language>
+    </bf:language>
+    <bf:accompaniedBy>
+      <bf:Work>
+	<rdf:type rdf:resource="http://id.loc.gov/vocabulary/resourceComponents/amt"/>
+	<bf:language>
+	  <bf:Language rdf:about="http://id.loc.gov/vocabulary/languages/eng">
+	    <rdfs:label xml:lang="en">English</rdfs:label>
+	    <bf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eng</bf:code>
+	  </bf:Language>
+	</bf:language>
+      </bf:Work>
+    </bf:accompaniedBy>
+    <bf:note>
+      <bf:Note>
+	<rdf:type rdf:resource="http://id.loc.gov/vocabulary/resourceComponents/otx"/>
+	<bf:language>
+	  <bf:Language rdf:about="http://id.loc.gov/vocabulary/languages/grc">
+	    <rdfs:label xml:lang="en">Greek, Ancient (to 1453)</rdfs:label>
+	    <bf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">grc</bf:code>
+	  </bf:Language>
+	</bf:language>
+      </bf:Note>
+    </bf:note>
+    <bf:classification>
+      <bf:ClassificationLcc>
+	<bf:classificationPortion>R126</bf:classificationPortion>
+	<bf:itemPortion>.H4 2025</bf:itemPortion>
+	<bf:assigner>
+	  <bf:Organization rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+	    <rdfs:label>United States, Library of Congress</rdfs:label>
+	    <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC</bf:code>
+	    <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlc</bf:code>
+	    <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlc</bf:code>
+	  </bf:Organization>
+	</bf:assigner>
+	<bf:status>
+	  <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/uba">
+	    <rdfs:label>used by assigner</rdfs:label>
+	    <bf:code>uba</bf:code>
+	  </bf:Status>
+	</bf:status>
+      </bf:ClassificationLcc>
+    </bf:classification>
+    <bf:classification>
+      <bf:ClassificationDdc>
+	<bf:classificationPortion>610.938</bf:classificationPortion>
+	<bf:source>
+	  <bf:Source>
+	    <bf:code>23/eng/20250716</bf:code>
+	  </bf:Source>
+	</bf:source>
+	<bf:edition>full</bf:edition>
+	<bf:assigner>
+	  <bf:Organization rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+	    <rdfs:label>United States, Library of Congress</rdfs:label>
+	    <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC</bf:code>
+	    <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlc</bf:code>
+	    <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlc</bf:code>
+	  </bf:Organization>
+	</bf:assigner>
+      </bf:ClassificationDdc>
+    </bf:classification>
+    <bf:contribution>
+      <bf:Contribution>
+	<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+	<bf:agent>
+	  <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+	    <rdfs:label>Hippocrates</rdfs:label>
+	    <bflc:marcKey>1000 $aHippocrates</bflc:marcKey>
+	  </bf:Agent>
+	</bf:agent>
+	<bf:role>
+	  <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/aut">
+	    <rdfs:label>author</rdfs:label>
+	    <bf:code>aut</bf:code>
+	  </bf:Role>
+	</bf:role>
+      </bf:Contribution>
+    </bf:contribution>
+    <bf:title>
+      <bf:Title>
+	<bf:mainTitle>Hippocrates</bf:mainTitle>
+	<bf:partNumber>Volume III</bf:partNumber>
+      </bf:Title>
+    </bf:title>
+    <bf:title>
+      <bf:VariantTitle>
+	<bf:mainTitle>Hippocrates</bf:mainTitle>
+	<bf:partNumber>Volume 3</bf:partNumber>
+      </bf:VariantTitle>
+    </bf:title>
+    <bf:title>
+      <bf:VariantTitle>
+	<bf:mainTitle>Hippocrates</bf:mainTitle>
+	<bf:partNumber>Volume three</bf:partNumber>
+      </bf:VariantTitle>
+    </bf:title>
+    <bf:content>
+      <bf:Content rdf:about="http://id.loc.gov/vocabulary/contentTypes/txt">
+	<rdfs:label>text</rdfs:label>
+	<bf:code>txt</bf:code>
+      </bf:Content>
+    </bf:content>
+    <bf:supplementaryContent>
+      <bf:SupplementaryContent rdf:about="http://id.loc.gov/vocabulary/msupplcont/bibliography">
+	<rdfs:label>bibliography</rdfs:label>
+	<bf:code>bibliography</bf:code>
+      </bf:SupplementaryContent>
+    </bf:supplementaryContent>
+    <bf:supplementaryContent>
+      <bf:SupplementaryContent rdf:about="http://id.loc.gov/vocabulary/msupplcont/index">
+	<rdfs:label>index</rdfs:label>
+	<bf:code>index</bf:code>
+      </bf:SupplementaryContent>
+    </bf:supplementaryContent>
+    <bf:tableOfContents>
+      <bf:TableOfContents>
+	<rdfs:label>Wounds in the head -- In the surgery -- Fractures -- Joints -- Instruments of reduction.</rdfs:label>
+      </bf:TableOfContents>
+    </bf:tableOfContents>
+    <bf:summary>
+      <bf:Summary>
+	<rdfs:label>"This is the third volume in the Loeb Classical Library's complete edition of Hippocrates' invaluable texts, which provide essential information about the practice of medicine in antiquity and about Greek theories concerning the human body. The five treatises in this volume, integral parts of the Hippocratic collection, are devoted to the art of surgery in treating injuries or disorders of the bones and their articulations. Wounds in the Head includes an anatomical introduction and many methods useful in diagnosis, prognosis, and management; In the Surgery surveys the surgeon's office, staff, equipment, and general practice; Fractures and Joints deliver technical information with rhetorical flair; and Instruments of Reduction is a head-to-toe account of human bones, their injuries, and applicable treatments. This Loeb edition replaces the original by E. T. Withington"-- Provided by publisher.</rdfs:label>
+      </bf:Summary>
+    </bf:summary>
+    <bf:note>
+      <bf:Note>
+	<rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/lang"/>
+	<rdfs:label>Text in Greek with English translation on facing pages ; introduction and notes in English.</rdfs:label>
+      </bf:Note>
+    </bf:note>
+    <bf:subject>
+      <bf:Hub rdf:about="http://id.loc.gov/resources/hubs/77d24ae8-b3a9-5163-2123-acf0f0463f5b">
+	<rdfs:label>Hippocrates. De capitis vulneribus</rdfs:label>
+	<bflc:marcKey>1000 $aHippocrates.$tDe capitis vulneribus</bflc:marcKey>
+	<bflc:marcKey xml:lang="zxx-grek">1000 $aHippocrates.$tΠερὶ τῶν ἐν κεφαλῇ τρωμάτων</bflc:marcKey>
+	<bf:contribution>
+	  <bf:Contribution>
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+	    <bf:agent>
+	      <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+		<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+		<rdfs:label>Hippocrates</rdfs:label>
+		<bflc:marcKey>1000 $aHippocrates</bflc:marcKey>
+	      </bf:Agent>
+	    </bf:agent>
+	    <bf:role>
+	      <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+		<rdfs:label>contributor</rdfs:label>
+		<bf:code>ctb</bf:code>
+	      </bf:Role>
+	    </bf:role>
+	  </bf:Contribution>
+	</bf:contribution>
+	<bf:title>
+	  <bf:Title>
+	    <bf:mainTitle>De capitis vulneribus</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+	<bf:title>
+	  <bf:VariantTitle>
+	    <bf:mainTitle xml:lang="zxx-grek">Περὶ τῶν ἐν κεφαλῇ τρωμάτων</bf:mainTitle>
+	  </bf:VariantTitle>
+	</bf:title>
+	<bf:title>
+	  <bf:VariantTitle>
+	    <bf:mainTitle xml:lang="zxx-latn">Peri tōn en kephalē trōmatōn</bf:mainTitle>
+	  </bf:VariantTitle>
+	</bf:title>
+      </bf:Hub>
+    </bf:subject>
+    <bf:subject>
+      <bf:Hub rdf:about="http://id.loc.gov/resources/hubs/9133ee33-05f7-3e34-95d8-fb2b3e2f32d8">
+	<rdfs:label>Hippocrates. De officina medici</rdfs:label>
+	<bflc:marcKey>1000 $aHippocrates.$tDe officina medici</bflc:marcKey>
+	<bflc:marcKey xml:lang="zxx-grek">1000 $aHippocrates.$tΚατ' ἰητρεῖον</bflc:marcKey>
+	<bf:contribution>
+	  <bf:Contribution>
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+	    <bf:agent>
+	      <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+		<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+		<rdfs:label>Hippocrates</rdfs:label>
+		<bflc:marcKey>1000 $aHippocrates</bflc:marcKey>
+	      </bf:Agent>
+	    </bf:agent>
+	    <bf:role>
+	      <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+		<rdfs:label>contributor</rdfs:label>
+		<bf:code>ctb</bf:code>
+	      </bf:Role>
+	    </bf:role>
+	  </bf:Contribution>
+	</bf:contribution>
+	<bf:title>
+	  <bf:Title>
+	    <bf:mainTitle>De officina medici</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+	<bf:title>
+	  <bf:VariantTitle>
+	    <bf:mainTitle xml:lang="zxx-grek">Κατ' ἰητρεῖον</bf:mainTitle>
+	  </bf:VariantTitle>
+	</bf:title>
+	<bf:title>
+	  <bf:VariantTitle>
+	    <bf:mainTitle xml:lang="zxx-latn">Kat' iētreion</bf:mainTitle>
+	  </bf:VariantTitle>
+	</bf:title>
+      </bf:Hub>
+    </bf:subject>
+    <bf:subject>
+      <bf:Hub rdf:about="http://id.loc.gov/resources/hubs/8d4d6d18-8a5e-9e06-2391-155d51603b81">
+	<rdfs:label>Hippocrates. De fracturis</rdfs:label>
+	<bflc:marcKey>1000 $aHippocrates.$tDe fracturis</bflc:marcKey>
+	<bflc:marcKey xml:lang="zxx-grek">1000 $aHippocrates.$tΠερὶ ἀγμῶν</bflc:marcKey>
+	<bf:contribution>
+	  <bf:Contribution>
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+	    <bf:agent>
+	      <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+		<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+		<rdfs:label>Hippocrates</rdfs:label>
+		<bflc:marcKey>1000 $aHippocrates</bflc:marcKey>
+	      </bf:Agent>
+	    </bf:agent>
+	    <bf:role>
+	      <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+		<rdfs:label>contributor</rdfs:label>
+		<bf:code>ctb</bf:code>
+	      </bf:Role>
+	    </bf:role>
+	  </bf:Contribution>
+	</bf:contribution>
+	<bf:title>
+	  <bf:Title>
+	    <bf:mainTitle>De fracturis</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+	<bf:title>
+	  <bf:VariantTitle>
+	    <bf:mainTitle xml:lang="zxx-grek">Περὶ ἀγμῶν</bf:mainTitle>
+	  </bf:VariantTitle>
+	</bf:title>
+	<bf:title>
+	  <bf:VariantTitle>
+	    <bf:mainTitle xml:lang="zxx-latn">Peri agmōn</bf:mainTitle>
+	  </bf:VariantTitle>
+	</bf:title>
+      </bf:Hub>
+    </bf:subject>
+    <bf:subject>
+      <bf:Hub rdf:about="http://id.loc.gov/resources/hubs/7dcf0d3c-6514-1475-3416-ff47a9197e18">
+	<rdfs:label>Hippocrates. De articulis</rdfs:label>
+	<bflc:marcKey>1000 $aHippocrates.$tDe articulis</bflc:marcKey>
+	<bflc:marcKey xml:lang="zxx-grek">1000 $aHippocrates.$tΠερὶ ἄρθρων</bflc:marcKey>
+	<bf:contribution>
+	  <bf:Contribution>
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+	    <bf:agent>
+	      <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+		<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+		<rdfs:label>Hippocrates</rdfs:label>
+		<bflc:marcKey>1000 $aHippocrates</bflc:marcKey>
+	      </bf:Agent>
+	    </bf:agent>
+	    <bf:role>
+	      <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+		<rdfs:label>contributor</rdfs:label>
+		<bf:code>ctb</bf:code>
+	      </bf:Role>
+	    </bf:role>
+	  </bf:Contribution>
+	</bf:contribution>
+	<bf:title>
+	  <bf:Title>
+	    <bf:mainTitle>De articulis</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+	<bf:title>
+	  <bf:VariantTitle>
+	    <bf:mainTitle xml:lang="zxx-grek">Περὶ ἄρθρων</bf:mainTitle>
+	  </bf:VariantTitle>
+	</bf:title>
+	<bf:title>
+	  <bf:VariantTitle>
+	    <bf:mainTitle xml:lang="zxx-latn">Peri arthrōn</bf:mainTitle>
+	  </bf:VariantTitle>
+	</bf:title>
+      </bf:Hub>
+    </bf:subject>
+    <bf:subject>
+      <bf:Hub rdf:about="http://id.loc.gov/resources/hubs/137b9ceb-6692-6169-12b8-88e97177c059">
+	<rdfs:label>Hippocrates. Vectiarius</rdfs:label>
+	<bflc:marcKey>1000 $aHippocrates.$tVectiarius</bflc:marcKey>
+	<bflc:marcKey xml:lang="zxx-grek">1000 $aHippocrates.$tΜοχλικόν</bflc:marcKey>
+	<bf:contribution>
+	  <bf:Contribution>
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+	    <bf:agent>
+	      <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+		<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+		<rdfs:label>Hippocrates</rdfs:label>
+		<bflc:marcKey>1000 $aHippocrates</bflc:marcKey>
+	      </bf:Agent>
+	    </bf:agent>
+	    <bf:role>
+	      <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+		<rdfs:label>contributor</rdfs:label>
+		<bf:code>ctb</bf:code>
+	      </bf:Role>
+	    </bf:role>
+	  </bf:Contribution>
+	</bf:contribution>
+	<bf:title>
+	  <bf:Title>
+	    <bf:mainTitle>Vectiarius</bf:mainTitle>
+	  </bf:Title>
+	</bf:title>
+	<bf:title>
+	  <bf:VariantTitle>
+	    <bf:mainTitle xml:lang="zxx-grek">Μοχλικόν</bf:mainTitle>
+	  </bf:VariantTitle>
+	</bf:title>
+	<bf:title>
+	  <bf:VariantTitle>
+	    <bf:mainTitle xml:lang="zxx-latn">Mochlikon</bf:mainTitle>
+	  </bf:VariantTitle>
+	</bf:title>
+	<bf:title>
+	  <bf:VariantTitle>
+	    <bf:mainTitle xml:lang="zxx-grek">Μοχλικός</bf:mainTitle>
+	  </bf:VariantTitle>
+	</bf:title>
+	<bf:title>
+	  <bf:VariantTitle>
+	    <bf:mainTitle xml:lang="zxx-latn">Mochlikos</bf:mainTitle>
+	  </bf:VariantTitle>
+	</bf:title>
+      </bf:Hub>
+    </bf:subject>
+    <bf:subject>
+      <bf:Topic rdf:about="http://id.loc.gov/authorities/subjects/sh85083142">
+	<rdfs:label xml:lang="en">Medicine, Greek and Roman</rdfs:label>
+	<bflc:marcKey>150  $aMedicine, Greek and Roman</bflc:marcKey>
+      </bf:Topic>
+    </bf:subject>
+    <bf:contribution>
+      <bf:Contribution>
+	<bf:agent>
+	  <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n81031783">
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+	    <rdfs:label>Potter, Paul, 1944-</rdfs:label>
+	    <bflc:marcKey>1001 $aPotter, Paul,$d1944-</bflc:marcKey>
+	  </bf:Agent>
+	</bf:agent>
+	<bf:role>
+	  <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/edt">
+	    <rdfs:label>editor</rdfs:label>
+	    <bf:code>edt</bf:code>
+	  </bf:Role>
+	</bf:role>
+	<bf:role>
+	  <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/trl">
+	    <rdfs:label>translator</rdfs:label>
+	    <bf:code>trl</bf:code>
+	  </bf:Role>
+	</bf:role>
+      </bf:Contribution>
+    </bf:contribution>
+    <dcterms:isPartOf rdf:resource="http://id.loc.gov/resources/works"/>
+    <bf:relation>
+      <bf:Relation>
+	<bf:relationship>
+	  <bf:Relationship rdf:about="http://id.loc.gov/vocabulary/relationship/series">
+	    <rdfs:label>series</rdfs:label>
+	    <bf:code>series</bf:code>
+	  </bf:Relationship>
+	</bf:relationship>
+	<bf:seriesEnumeration>LCL 149</bf:seriesEnumeration>
+	<bf:associatedResource>
+	  <bf:Series>
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bflc/Uncontrolled"/>
+	    <bf:status>
+	      <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/t">
+		<rdfs:label>transcribed</rdfs:label>
+		<bf:code>t</bf:code>
+	      </bf:Status>
+	    </bf:status>
+	    <bf:status>
+	      <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/tr">
+		<rdfs:label>traced</rdfs:label>
+		<bf:code>tr</bf:code>
+	      </bf:Status>
+	    </bf:status>
+	    <bf:title>
+	      <bf:Title>
+		<bf:mainTitle>Loeb classical library</bf:mainTitle>
+	      </bf:Title>
+	    </bf:title>
+	  </bf:Series>
+	</bf:associatedResource>
+      </bf:Relation>
+    </bf:relation>
+    <bf:relation>
+      <bf:Relation>
+	<bf:relationship>
+	  <bf:Relationship rdf:about="http://id.loc.gov/vocabulary/relationship/part">
+	    <rdfs:label>part</rdfs:label>
+	    <bf:code>part</bf:code>
+	  </bf:Relationship>
+	</bf:relationship>
+	<bf:associatedResource>
+	  <bf:Hub rdf:about="http://id.loc.gov/resources/hubs/c671f6eb-cfd8-8e4a-1322-f57bdd450eaa">
+	    <rdfs:label>Hippocrates. De capitis vulneribus. English</rdfs:label>
+	    <bflc:marcKey>1000 $aHippocrates.$tDe capitis vulneribus.$lEnglish.</bflc:marcKey>
+	    <bf:contribution>
+	      <bf:Contribution>
+		<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+		<bf:agent>
+		  <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+		    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+		    <rdfs:label>Hippocrates</rdfs:label>
+		    <bflc:marcKey>1000 $aHippocrates</bflc:marcKey>
+		  </bf:Agent>
+		</bf:agent>
+		<bf:role>
+		  <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+		    <rdfs:label>contributor</rdfs:label>
+		    <bf:code>ctb</bf:code>
+		  </bf:Role>
+		</bf:role>
+	      </bf:Contribution>
+	    </bf:contribution>
+	    <bf:title>
+	      <bf:Title>
+		<bf:mainTitle>De capitis vulneribus. English.</bf:mainTitle>
+	      </bf:Title>
+	    </bf:title>
+	    <bf:title>
+	      <bf:VariantTitle>
+		<bf:mainTitle xml:lang="zxx-latn">On wounds in the head</bf:mainTitle>
+	      </bf:VariantTitle>
+	    </bf:title>
+	    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+	  </bf:Hub>
+	</bf:associatedResource>
+      </bf:Relation>
+    </bf:relation>
+    <bf:relation>
+      <bf:Relation>
+	<bf:relationship>
+	  <bf:Relationship rdf:about="http://id.loc.gov/vocabulary/relationship/part">
+	    <rdfs:label>part</rdfs:label>
+	    <bf:code>part</bf:code>
+	  </bf:Relationship>
+	</bf:relationship>
+	<bf:associatedResource>
+	  <bf:Hub rdf:about="http://id.loc.gov/resources/hubs/2bf88010-0a30-ca61-28ce-5c17687e5037">
+	    <rdfs:label>Hippocrates. De capitis vulneribus. Greek</rdfs:label>
+	    <bflc:marcKey>1000 $aHippocrates.$tDe capitis vulneribus.$lGreek.</bflc:marcKey>
+	    <bflc:marcKey xml:lang="zxx-grek">1000 $aHippocrates.$tΠερὶ τῶν ἐν κεφαλῇ τρωμάτων</bflc:marcKey>
+	    <bf:contribution>
+	      <bf:Contribution>
+		<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+		<bf:agent>
+		  <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+		    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+		    <rdfs:label>Hippocrates</rdfs:label>
+		    <bflc:marcKey>1000 $aHippocrates</bflc:marcKey>
+		  </bf:Agent>
+		</bf:agent>
+		<bf:role>
+		  <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+		    <rdfs:label>contributor</rdfs:label>
+		    <bf:code>ctb</bf:code>
+		  </bf:Role>
+		</bf:role>
+	      </bf:Contribution>
+	    </bf:contribution>
+	    <bf:title>
+	      <bf:Title>
+		<bf:mainTitle>De capitis vulneribus. Greek.</bf:mainTitle>
+	      </bf:Title>
+	    </bf:title>
+	    <bf:title>
+	      <bf:VariantTitle>
+		<bf:mainTitle xml:lang="zxx-grek">Περὶ τῶν ἐν κεφαλῇ τρωμάτων</bf:mainTitle>
+	      </bf:VariantTitle>
+	    </bf:title>
+	    <bf:title>
+	      <bf:VariantTitle>
+		<bf:mainTitle xml:lang="zxx-latn">Peri tōn en kephalē trōmatōn</bf:mainTitle>
+	      </bf:VariantTitle>
+	    </bf:title>
+	    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+	  </bf:Hub>
+	</bf:associatedResource>
+      </bf:Relation>
+    </bf:relation>
+    <bf:relation>
+      <bf:Relation>
+	<bf:relationship>
+	  <bf:Relationship rdf:about="http://id.loc.gov/vocabulary/relationship/part">
+	    <rdfs:label>part</rdfs:label>
+	    <bf:code>part</bf:code>
+	  </bf:Relationship>
+	</bf:relationship>
+	<bf:associatedResource>
+	  <bf:Hub rdf:about="http://id.loc.gov/resources/hubs/3d71a023-0b4b-8cd1-59d7-4e71f138512d">
+	    <rdfs:label>Hippocrates. De officina medici. English</rdfs:label>
+	    <bflc:marcKey>1000 $aHippocrates.$tDe officina medici.$lEnglish.</bflc:marcKey>
+	    <bf:contribution>
+	      <bf:Contribution>
+		<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+		<bf:agent>
+		  <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+		    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+		    <rdfs:label>Hippocrates</rdfs:label>
+		    <bflc:marcKey>1000 $aHippocrates</bflc:marcKey>
+		  </bf:Agent>
+		</bf:agent>
+		<bf:role>
+		  <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+		    <rdfs:label>contributor</rdfs:label>
+		    <bf:code>ctb</bf:code>
+		  </bf:Role>
+		</bf:role>
+	      </bf:Contribution>
+	    </bf:contribution>
+	    <bf:title>
+	      <bf:Title>
+		<bf:mainTitle>De officina medici. English.</bf:mainTitle>
+	      </bf:Title>
+	    </bf:title>
+	    <bf:title>
+	      <bf:VariantTitle>
+		<bf:mainTitle xml:lang="zxx-latn">In the surgery</bf:mainTitle>
+	      </bf:VariantTitle>
+	    </bf:title>
+	    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+	  </bf:Hub>
+	</bf:associatedResource>
+      </bf:Relation>
+    </bf:relation>
+    <bf:relation>
+      <bf:Relation>
+	<bf:relationship>
+	  <bf:Relationship rdf:about="http://id.loc.gov/vocabulary/relationship/part">
+	    <rdfs:label>part</rdfs:label>
+	    <bf:code>part</bf:code>
+	  </bf:Relationship>
+	</bf:relationship>
+	<bf:associatedResource>
+	  <bf:Hub rdf:about="http://id.loc.gov/resources/hubs/bc147f6e-05d3-502a-e44d-fd69ceb14aa9">
+	    <rdfs:label>Hippocrates. De officina medici. Greek</rdfs:label>
+	    <bflc:marcKey>1000 $aHippocrates.$tDe officina medici.$lGreek.</bflc:marcKey>
+	    <bflc:marcKey xml:lang="zxx-grek">1000 $aHippocrates.$tἹπποκράτους Κατ' ἰητρεῖον</bflc:marcKey>
+	    <bf:contribution>
+	      <bf:Contribution>
+		<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+		<bf:agent>
+		  <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+		    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+		    <rdfs:label>Hippocrates</rdfs:label>
+		    <bflc:marcKey>1000 $aHippocrates</bflc:marcKey>
+		  </bf:Agent>
+		</bf:agent>
+		<bf:role>
+		  <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+		    <rdfs:label>contributor</rdfs:label>
+		    <bf:code>ctb</bf:code>
+		  </bf:Role>
+		</bf:role>
+	      </bf:Contribution>
+	    </bf:contribution>
+	    <bf:title>
+	      <bf:Title>
+		<bf:mainTitle>De officina medici. Greek.</bf:mainTitle>
+	      </bf:Title>
+	    </bf:title>
+	    <bf:title>
+	      <bf:VariantTitle>
+		<bf:mainTitle xml:lang="zxx-grek">Ἱπποκράτους Κατ' ἰητρεῖον</bf:mainTitle>
+	      </bf:VariantTitle>
+	    </bf:title>
+	    <bf:title>
+	      <bf:VariantTitle>
+		<bf:mainTitle xml:lang="zxx-latn">Hippokratous Kat' iētreion</bf:mainTitle>
+	      </bf:VariantTitle>
+	    </bf:title>
+	    <bf:title>
+	      <bf:VariantTitle>
+		<bf:mainTitle xml:lang="zxx-grek">Κατ' ἰητρεῖον</bf:mainTitle>
+	      </bf:VariantTitle>
+	    </bf:title>
+	    <bf:title>
+	      <bf:VariantTitle>
+		<bf:mainTitle xml:lang="zxx-latn">Kat' iētreion</bf:mainTitle>
+	      </bf:VariantTitle>
+	    </bf:title>
+	    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+	  </bf:Hub>
+	</bf:associatedResource>
+      </bf:Relation>
+    </bf:relation>
+    <bf:relation>
+      <bf:Relation>
+	<bf:relationship>
+	  <bf:Relationship rdf:about="http://id.loc.gov/vocabulary/relationship/part">
+	    <rdfs:label>part</rdfs:label>
+	    <bf:code>part</bf:code>
+	  </bf:Relationship>
+	</bf:relationship>
+	<bf:associatedResource>
+	  <bf:Hub rdf:about="http://id.loc.gov/resources/hubs/aca07120-1ea2-28ea-cfaf-20d0e34f3a8f">
+	    <rdfs:label>Hippocrates. De fracturis. English</rdfs:label>
+	    <bflc:marcKey>1000 $aHippocrates.$tDe fracturis.$lEnglish.</bflc:marcKey>
+	    <bf:contribution>
+	      <bf:Contribution>
+		<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+		<bf:agent>
+		  <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+		    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+		    <rdfs:label>Hippocrates</rdfs:label>
+		    <bflc:marcKey>1000 $aHippocrates</bflc:marcKey>
+		  </bf:Agent>
+		</bf:agent>
+		<bf:role>
+		  <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+		    <rdfs:label>contributor</rdfs:label>
+		    <bf:code>ctb</bf:code>
+		  </bf:Role>
+		</bf:role>
+	      </bf:Contribution>
+	    </bf:contribution>
+	    <bf:title>
+	      <bf:Title>
+		<bf:mainTitle>De fracturis. English.</bf:mainTitle>
+	      </bf:Title>
+	    </bf:title>
+	    <bf:title>
+	      <bf:VariantTitle>
+		<bf:mainTitle xml:lang="zxx-latn">Fractures</bf:mainTitle>
+	      </bf:VariantTitle>
+	    </bf:title>
+	    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+	  </bf:Hub>
+	</bf:associatedResource>
+      </bf:Relation>
+    </bf:relation>
+    <bf:relation>
+      <bf:Relation>
+	<bf:relationship>
+	  <bf:Relationship rdf:about="http://id.loc.gov/vocabulary/relationship/part">
+	    <rdfs:label>part</rdfs:label>
+	    <bf:code>part</bf:code>
+	  </bf:Relationship>
+	</bf:relationship>
+	<bf:associatedResource>
+	  <bf:Hub rdf:about="http://id.loc.gov/resources/hubs/85560d44-f135-4adf-beaa-b50de09c36f6">
+	    <rdfs:label>Hippocrates. De fracturis. Greek</rdfs:label>
+	    <bflc:marcKey>1000 $aHippocrates.$tDe fracturis.$lGreek.</bflc:marcKey>
+	    <bf:contribution>
+	      <bf:Contribution>
+		<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+		<bf:agent>
+		  <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+		    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+		    <rdfs:label>Hippocrates</rdfs:label>
+		    <bflc:marcKey>1000 $aHippocrates</bflc:marcKey>
+		  </bf:Agent>
+		</bf:agent>
+		<bf:role>
+		  <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+		    <rdfs:label>contributor</rdfs:label>
+		    <bf:code>ctb</bf:code>
+		  </bf:Role>
+		</bf:role>
+	      </bf:Contribution>
+	    </bf:contribution>
+	    <bf:title>
+	      <bf:Title>
+		<bf:mainTitle>De fracturis. Greek.</bf:mainTitle>
+	      </bf:Title>
+	    </bf:title>
+	    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+	  </bf:Hub>
+	</bf:associatedResource>
+      </bf:Relation>
+    </bf:relation>
+    <bf:relation>
+      <bf:Relation>
+	<bf:relationship>
+	  <bf:Relationship rdf:about="http://id.loc.gov/vocabulary/relationship/part">
+	    <rdfs:label>part</rdfs:label>
+	    <bf:code>part</bf:code>
+	  </bf:Relationship>
+	</bf:relationship>
+	<bf:associatedResource>
+	  <bf:Hub rdf:about="http://id.loc.gov/resources/hubs/7b7d0271-ef28-7ee2-e984-a6c8a122a6c3">
+	    <rdfs:label>Hippocrates. De articulis. English</rdfs:label>
+	    <bflc:marcKey>1000 $aHippocrates.$tDe articulis.$lEnglish.</bflc:marcKey>
+	    <bf:contribution>
+	      <bf:Contribution>
+		<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+		<bf:agent>
+		  <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+		    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+		    <rdfs:label>Hippocrates</rdfs:label>
+		    <bflc:marcKey>1000 $aHippocrates</bflc:marcKey>
+		  </bf:Agent>
+		</bf:agent>
+		<bf:role>
+		  <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+		    <rdfs:label>contributor</rdfs:label>
+		    <bf:code>ctb</bf:code>
+		  </bf:Role>
+		</bf:role>
+	      </bf:Contribution>
+	    </bf:contribution>
+	    <bf:title>
+	      <bf:Title>
+		<bf:mainTitle>De articulis. English.</bf:mainTitle>
+	      </bf:Title>
+	    </bf:title>
+	    <bf:title>
+	      <bf:VariantTitle>
+		<bf:mainTitle xml:lang="zxx-latn">On joints</bf:mainTitle>
+	      </bf:VariantTitle>
+	    </bf:title>
+	    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+	  </bf:Hub>
+	</bf:associatedResource>
+      </bf:Relation>
+    </bf:relation>
+    <bf:relation>
+      <bf:Relation>
+	<bf:relationship>
+	  <bf:Relationship rdf:about="http://id.loc.gov/vocabulary/relationship/part">
+	    <rdfs:label>part</rdfs:label>
+	    <bf:code>part</bf:code>
+	  </bf:Relationship>
+	</bf:relationship>
+	<bf:associatedResource>
+	  <bf:Hub rdf:about="http://id.loc.gov/resources/hubs/96cd1e73-936c-34f2-8953-08653a4d1708">
+	    <rdfs:label>Hippocrates. De articulis. Greek</rdfs:label>
+	    <bflc:marcKey>1000 $aHippocrates.$tDe articulis.$lGreek.</bflc:marcKey>
+	    <bflc:marcKey xml:lang="zxx-grek">1000 $aHippocrates.$tΠερὶ ἄρθρων</bflc:marcKey>
+	    <bf:contribution>
+	      <bf:Contribution>
+		<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+		<bf:agent>
+		  <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+		    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+		    <rdfs:label>Hippocrates</rdfs:label>
+		    <bflc:marcKey>1000 $aHippocrates</bflc:marcKey>
+		  </bf:Agent>
+		</bf:agent>
+		<bf:role>
+		  <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+		    <rdfs:label>contributor</rdfs:label>
+		    <bf:code>ctb</bf:code>
+		  </bf:Role>
+		</bf:role>
+	      </bf:Contribution>
+	    </bf:contribution>
+	    <bf:title>
+	      <bf:Title>
+		<bf:mainTitle>De articulis. Greek.</bf:mainTitle>
+	      </bf:Title>
+	    </bf:title>
+	    <bf:title>
+	      <bf:VariantTitle>
+		<bf:mainTitle xml:lang="zxx-grek">Περὶ ἄρθρων</bf:mainTitle>
+	      </bf:VariantTitle>
+	    </bf:title>
+	    <bf:title>
+	      <bf:VariantTitle>
+		<bf:mainTitle xml:lang="zxx-latn">Peri arthrōn</bf:mainTitle>
+	      </bf:VariantTitle>
+	    </bf:title>
+	    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+	  </bf:Hub>
+	</bf:associatedResource>
+      </bf:Relation>
+    </bf:relation>
+    <bf:relation>
+      <bf:Relation>
+	<bf:relationship>
+	  <bf:Relationship rdf:about="http://id.loc.gov/vocabulary/relationship/part">
+	    <rdfs:label>part</rdfs:label>
+	    <bf:code>part</bf:code>
+	  </bf:Relationship>
+	</bf:relationship>
+	<bf:associatedResource>
+	  <bf:Hub rdf:about="http://id.loc.gov/resources/hubs/54af79a7-6618-1cd7-bbed-131aa0492326">
+	    <rdfs:label>Hippocrates. Vectiarius. English</rdfs:label>
+	    <bflc:marcKey>1000 $aHippocrates.$tVectiarius.$lEnglish.</bflc:marcKey>
+	    <bf:contribution>
+	      <bf:Contribution>
+		<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+		<bf:agent>
+		  <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+		    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+		    <rdfs:label>Hippocrates</rdfs:label>
+		    <bflc:marcKey>1000 $aHippocrates</bflc:marcKey>
+		  </bf:Agent>
+		</bf:agent>
+		<bf:role>
+		  <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+		    <rdfs:label>contributor</rdfs:label>
+		    <bf:code>ctb</bf:code>
+		  </bf:Role>
+		</bf:role>
+	      </bf:Contribution>
+	    </bf:contribution>
+	    <bf:title>
+	      <bf:Title>
+		<bf:mainTitle>Vectiarius. English.</bf:mainTitle>
+	      </bf:Title>
+	    </bf:title>
+	    <bf:title>
+	      <bf:VariantTitle>
+		<bf:mainTitle xml:lang="zxx-latn">Instruments of reduction</bf:mainTitle>
+	      </bf:VariantTitle>
+	    </bf:title>
+	    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+	  </bf:Hub>
+	</bf:associatedResource>
+      </bf:Relation>
+    </bf:relation>
+    <bf:relation>
+      <bf:Relation>
+	<bf:relationship>
+	  <bf:Relationship rdf:about="http://id.loc.gov/vocabulary/relationship/part">
+	    <rdfs:label>part</rdfs:label>
+	    <bf:code>part</bf:code>
+	  </bf:Relationship>
+	</bf:relationship>
+	<bf:associatedResource>
+	  <bf:Hub rdf:about="http://id.loc.gov/resources/hubs/a270b380-a170-4a00-f74f-087c11306dba">
+	    <rdfs:label>Hippocrates. Vectiarius. Greek</rdfs:label>
+	    <bflc:marcKey>1000 $aHippocrates.$tVectiarius.$lGreek.</bflc:marcKey>
+	    <bf:contribution>
+	      <bf:Contribution>
+		<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+		<bf:agent>
+		  <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+		    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+		    <rdfs:label>Hippocrates</rdfs:label>
+		    <bflc:marcKey>1000 $aHippocrates</bflc:marcKey>
+		  </bf:Agent>
+		</bf:agent>
+		<bf:role>
+		  <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+		    <rdfs:label>contributor</rdfs:label>
+		    <bf:code>ctb</bf:code>
+		  </bf:Role>
+		</bf:role>
+	      </bf:Contribution>
+	    </bf:contribution>
+	    <bf:title>
+	      <bf:Title>
+		<bf:mainTitle>Vectiarius. Greek.</bf:mainTitle>
+	      </bf:Title>
+	    </bf:title>
+	    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+	  </bf:Hub>
+	</bf:associatedResource>
+      </bf:Relation>
+    </bf:relation>
+    <bf:relation>
+      <bf:Relation>
+	<bf:relationship>
+	  <bf:Relationship rdf:about="http://id.loc.gov/vocabulary/relationship/series">
+	    <rdfs:label>series</rdfs:label>
+	    <bf:code>series</bf:code>
+	  </bf:Relationship>
+	</bf:relationship>
+	<bf:seriesEnumeration>3.</bf:seriesEnumeration>
+	<bf:associatedResource>
+	  <bf:Hub rdf:about="http://id.loc.gov/resources/hubs/3f355dee-1688-9f31-7254-9b9e824f3bb4">
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Series"/>
+	    <rdfs:label>Hippocrates. Works. English</rdfs:label>
+	    <bflc:marcKey>1000 $aHippocrates.$tWorks.$lEnglish.</bflc:marcKey>
+	    <bf:contribution>
+	      <bf:Contribution>
+		<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+		<bf:agent>
+		  <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+		    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+		    <rdfs:label>Hippocrates</rdfs:label>
+		    <bflc:marcKey>1000 $aHippocrates</bflc:marcKey>
+		  </bf:Agent>
+		</bf:agent>
+		<bf:role>
+		  <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+		    <rdfs:label>contributor</rdfs:label>
+		    <bf:code>ctb</bf:code>
+		  </bf:Role>
+		</bf:role>
+	      </bf:Contribution>
+	    </bf:contribution>
+	    <bf:title>
+	      <bf:Title>
+		<bf:mainTitle>Works. English.</bf:mainTitle>
+	      </bf:Title>
+	    </bf:title>
+	    <bf:title>
+	      <bf:VariantTitle>
+		<bf:mainTitle xml:lang="zxx-latn">Hippocrates</bf:mainTitle>
+	      </bf:VariantTitle>
+	    </bf:title>
+	    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+	  </bf:Hub>
+	</bf:associatedResource>
+      </bf:Relation>
+    </bf:relation>
+    <bf:relation>
+      <bf:Relation>
+	<bf:relationship>
+	  <bf:Relationship rdf:about="http://id.loc.gov/vocabulary/relationship/series">
+	    <rdfs:label>series</rdfs:label>
+	    <bf:code>series</bf:code>
+	  </bf:Relationship>
+	</bf:relationship>
+	<bf:seriesEnumeration>3.</bf:seriesEnumeration>
+	<bf:associatedResource>
+	  <bf:Hub rdf:about="http://id.loc.gov/resources/hubs/f7464f84-25a1-cea2-ff15-4bfea263bdc2">
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Series"/>
+	    <rdfs:label>Hippocrates. Works. Greek</rdfs:label>
+	    <bflc:marcKey>1000 $aHippocrates.$tWorks.$lGreek.</bflc:marcKey>
+	    <bf:contribution>
+	      <bf:Contribution>
+		<rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+		<bf:agent>
+		  <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79005643">
+		    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+		    <rdfs:label>Hippocrates</rdfs:label>
+		    <bflc:marcKey>1000 $aHippocrates</bflc:marcKey>
+		  </bf:Agent>
+		</bf:agent>
+		<bf:role>
+		  <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+		    <rdfs:label>contributor</rdfs:label>
+		    <bf:code>ctb</bf:code>
+		  </bf:Role>
+		</bf:role>
+	      </bf:Contribution>
+	    </bf:contribution>
+	    <bf:title>
+	      <bf:Title>
+		<bf:mainTitle>Works. Greek.</bf:mainTitle>
+	      </bf:Title>
+	    </bf:title>
+	    <bf:title>
+	      <bf:VariantTitle>
+		<bf:mainTitle xml:lang="zxx-latn">Hippocrates</bf:mainTitle>
+	      </bf:VariantTitle>
+	    </bf:title>
+	    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/grc"/>
+	  </bf:Hub>
+	</bf:associatedResource>
+      </bf:Relation>
+    </bf:relation>
+    <bf:relation>
+      <bf:Relation>
+	<bf:relationship>
+	  <bf:Relationship rdf:about="http://id.loc.gov/vocabulary/relationship/series">
+	    <rdfs:label>series</rdfs:label>
+	    <bf:code>series</bf:code>
+	  </bf:Relationship>
+	</bf:relationship>
+	<bf:seriesEnumeration>149.</bf:seriesEnumeration>
+	<bf:associatedResource>
+	  <bf:Hub rdf:about="http://id.loc.gov/resources/hubs/25604025-cbfd-534f-0bcf-9493ff0f5e8a">
+	    <rdfs:label>Loeb classical library</rdfs:label>
+	    <bflc:marcKey>1300 $aLoeb classical library,</bflc:marcKey>
+	    <bf:title>
+	      <bf:Title>
+		<bf:mainTitle>Loeb classical library</bf:mainTitle>
+	      </bf:Title>
+	    </bf:title>
+	  </bf:Hub>
+	</bf:associatedResource>
+      </bf:Relation>
+    </bf:relation>
+    <bf:hasInstance rdf:resource="http://id.loc.gov/resources/instances/24016995"/>
+    <bf:adminMetadata>
+      <bf:AdminMetadata>
+	<bf:status>
+	  <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/n">
+	    <rdfs:label>new</rdfs:label>
+	    <bf:code>n</bf:code>
+	  </bf:Status>
+	</bf:status>
+	<bf:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-02-03</bf:date>
+	<bf:agent>
+	  <bf:Agent>
+	    <bf:code>UPB/DLC</bf:code>
+	  </bf:Agent>
+	</bf:agent>
+      </bf:AdminMetadata>
+    </bf:adminMetadata>
+    <bf:adminMetadata>
+      <bf:AdminMetadata>
+	<bf:status>
+	  <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/c">
+	    <rdfs:label>changed</rdfs:label>
+	    <bf:code>c</bf:code>
+	  </bf:Status>
+	</bf:status>
+	<bf:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16T10:11:11</bf:date>
+	<bf:descriptionModifier>
+	  <bf:Agent>
+	    <bf:code>UPB/DLC</bf:code>
+	  </bf:Agent>
+	</bf:descriptionModifier>
+      </bf:AdminMetadata>
+    </bf:adminMetadata>
+    <bf:adminMetadata>
+      <bf:AdminMetadata>
+	<bf:status>
+	  <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/c">
+	    <rdfs:label>changed</rdfs:label>
+	    <bf:code>c</bf:code>
+	  </bf:Status>
+	</bf:status>
+	<bf:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-07-16</bf:date>
+	<bf:agent>
+	  <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Organization"/>
+	    <rdfs:label>United States, Library of Congress</rdfs:label>
+	    <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC</bf:code>
+	    <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlc</bf:code>
+	    <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlc</bf:code>
+	  </bf:Agent>
+	</bf:agent>
+	<bf:generationProcess rdf:resource="https://github.com/lcnetdev/bibframe2marc/releases/tag/v2.10-dev"/>
+      </bf:AdminMetadata>
+    </bf:adminMetadata>
+    <bf:adminMetadata>
+      <bf:AdminMetadata>
+	<bf:status>
+	  <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/c">
+	    <rdfs:label>changed</rdfs:label>
+	    <bf:code>c</bf:code>
+	  </bf:Status>
+	</bf:status>
+	<bf:agent>
+	  <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlcmrc">
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Organization"/>
+	    <rdfs:label>United States, Library of Congress, Network Development and MARC Standards Office</rdfs:label>
+	    <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC-MRC</bf:code>
+	    <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlcmrc</bf:code>
+	    <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlcmrc</bf:code>
+	  </bf:Agent>
+	</bf:agent>
+	<bf:generationProcess rdf:resource="https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.10.0"/>
+	<bf:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-16T04:57:01.168961-04:00</bf:date>
+      </bf:AdminMetadata>
+    </bf:adminMetadata>
+    <bf:adminMetadata>
+      <bf:AdminMetadata>
+	<bf:descriptionLevel rdf:resource="http://id.loc.gov/ontologies/bibframe-2-6-0/"/>
+	<bflc:encodingLevel>
+	  <bflc:EncodingLevel rdf:about="http://id.loc.gov/vocabulary/menclvl/8">
+	    <rdfs:label>prepublication</rdfs:label>
+	    <bf:code>8</bf:code>
+	  </bflc:EncodingLevel>
+	</bflc:encodingLevel>
+	<bf:descriptionConventions>
+	  <bf:DescriptionConventions rdf:about="http://id.loc.gov/vocabulary/descriptionConventions/isbd">
+	    <rdfs:label>ISBD: International standard bibliographic description</rdfs:label>
+	    <bf:code>isbd</bf:code>
+	  </bf:DescriptionConventions>
+	</bf:descriptionConventions>
+	<bf:identifiedBy>
+	  <bf:Local>
+	    <rdf:value>24016995</rdf:value>
+	    <bf:assigner>
+	      <bf:Organization rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+		<rdfs:label>United States, Library of Congress</rdfs:label>
+		<bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC</bf:code>
+		<bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlc</bf:code>
+		<bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlc</bf:code>
+	      </bf:Organization>
+	    </bf:assigner>
+	  </bf:Local>
+	</bf:identifiedBy>
+	<bflc:marcKey>906  $a7$bcbc$corignew$d1$eecip$f20$gy-gencatlg</bflc:marcKey>
+	<lclocal:d906>=906     $a 7 $b cbc $c orignew $d 1 $e ecip $f 20 $g y-gencatlg</lclocal:d906>
+	<bflc:marcKey>9250 $aacquire$b1 shelf copy$xpolicy default</bflc:marcKey>
+	<lclocal:d925>=925  0  $a acquire $b 1 shelf copy $x policy default</lclocal:d925>
+	<bflc:marcKey>955  $bUPB 2025-02-03$erp05 2025-02-06 to Dewey$wxm08 2025-07-16 Telework</bflc:marcKey>
+	<lclocal:d955>=955     $b UPB 2025-02-03 $e rp05 2025-02-06 to Dewey $w xm08 2025-07-16 Telework</lclocal:d955>
+	<bf:descriptionLanguage>
+	  <bf:Language rdf:about="http://id.loc.gov/vocabulary/languages/eng">
+	    <rdfs:label xml:lang="en">English</rdfs:label>
+	    <bf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eng</bf:code>
+	  </bf:Language>
+	</bf:descriptionLanguage>
+	<bf:descriptionConventions>
+	  <bf:DescriptionConventions rdf:about="http://id.loc.gov/vocabulary/descriptionConventions/rda">
+	    <rdfs:label>Resource description and access</rdfs:label>
+	    <bf:code>rda</bf:code>
+	  </bf:DescriptionConventions>
+	</bf:descriptionConventions>
+	<bf:note>
+	  <bf:Note>
+	    <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/internal"/>
+	    <rdfs:label>040  $aUPB/DLC$beng$erda$cDLC$dUPB/DLC$dDLC-MRC$dUPB/DLC</rdfs:label>
+	  </bf:Note>
+	</bf:note>
+	<bf:descriptionAuthentication>
+	  <bf:DescriptionAuthentication rdf:about="http://id.loc.gov/vocabulary/marcauthen/pcc">
+	    <rdfs:label>Program for Cooperative Cataloging</rdfs:label>
+	    <bf:code>pcc</bf:code>
+	  </bf:DescriptionAuthentication>
+	</bf:descriptionAuthentication>
+	<lclocal:d985>=985     $e BIBFRAME $d 2025-07-16T10:09:43</lclocal:d985>
+      </bf:AdminMetadata>
+    </bf:adminMetadata>
+  </bf:Work>
+</rdf:RDF>

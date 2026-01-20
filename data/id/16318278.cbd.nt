@@ -1,0 +1,1004 @@
+<http://id.loc.gov/resources/instances/16318278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Instance> .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/issuance> <http://id.loc.gov/vocabulary/issuance/mono> .
+<http://id.loc.gov/vocabulary/issuance/mono> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Issuance> .
+<http://id.loc.gov/vocabulary/issuance/mono> <http://www.w3.org/2000/01/rdf-schema#label> "single unit" .
+<http://id.loc.gov/vocabulary/issuance/mono> <http://id.loc.gov/ontologies/bibframe/code> "mono" .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/genreForm> <http://id.loc.gov/vocabulary/graphicMaterials/tgm007718> .
+<http://id.loc.gov/vocabulary/graphicMaterials/tgm007718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/GenreForm> .
+<http://id.loc.gov/vocabulary/graphicMaterials/tgm007718> <http://www.w3.org/2000/01/rdf-schema#label> "Photographic prints"@en .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/colorContent> <http://id.loc.gov/vocabulary/mcolor/blw> .
+<http://id.loc.gov/vocabulary/mcolor/blw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/ColorContent> .
+<http://id.loc.gov/vocabulary/mcolor/blw> <http://www.w3.org/2000/01/rdf-schema#label> "black and white" .
+<http://id.loc.gov/vocabulary/mcolor/blw> <http://id.loc.gov/ontologies/bibframe/code> "blw" .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/baseMaterial> <http://id.loc.gov/vocabulary/mmaterial/mtl> .
+<http://id.loc.gov/vocabulary/mmaterial/mtl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/BaseMaterial> .
+<http://id.loc.gov/vocabulary/mmaterial/mtl> <http://www.w3.org/2000/01/rdf-schema#label> "metal" .
+<http://id.loc.gov/vocabulary/mmaterial/mtl> <http://id.loc.gov/ontologies/bibframe/code> "mtl" .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/provisionActivity> _:b26iddOtlocdOtgovresourcesinstances16318278 .
+_:b26iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/ProvisionActivity> .
+_:b26iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Publication> .
+_:b26iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/date> "1861~/1865~"^^<http://id.loc.gov/datatypes/edtf> .
+_:b26iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/place> <http://id.loc.gov/vocabulary/countries/xxu> .
+<http://id.loc.gov/vocabulary/countries/xxu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Place> .
+<http://id.loc.gov/vocabulary/countries/xxu> <http://www.w3.org/2000/01/rdf-schema#label> "United States"@en .
+<http://id.loc.gov/vocabulary/countries/xxu> <http://id.loc.gov/ontologies/bibframe/code> "xxu"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b26iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bflc/simpleDate> "[between 1861 and 1865]" .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/publicationStatement> "[between 1861 and 1865]" .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/identifiedBy> _:b41iddOtlocdOtgovresourcesinstances16318278 .
+_:b41iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Lccn> .
+_:b41iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> " 2010650331" .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/acquisitionSource> _:b45iddOtlocdOtgovresourcesinstances16318278 .
+_:b45iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AcquisitionSource> .
+_:b45iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/identifiedBy> _:b47iddOtlocdOtgovresourcesinstances16318278 .
+_:b47iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/StockNumber> .
+_:b47iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "LC-DIG-ppmsca-27385" .
+_:b45iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/2000/01/rdf-schema#label> "DLC" .
+_:b45iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/acquisitionTerms> "(digital file from original item)" .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/title> _:b55iddOtlocdOtgovresourcesinstances16318278 .
+_:b55iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b55iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/mainTitle> "[Corporal Sidney S. Goodridge of Company K, 20th Massachusetts Infantry Regiment and Company B, 4th Massachusetts Heavy Artillery Regiment with bayoneted musket in front of shebang at Camp Benton, near Edwards Ferry, Maryland]" .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/extent> _:b59iddOtlocdOtgovresourcesinstances16318278 .
+_:b59iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Extent> .
+_:b59iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/2000/01/rdf-schema#label> "1 photograph" .
+_:b59iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/note> _:b63iddOtlocdOtgovresourcesinstances16318278 .
+_:b63iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b63iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/vocabulary/mnotetype/physical> .
+_:b63iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/2000/01/rdf-schema#label> "ninth-plate tintype, hand-colored" .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/dimensions> "7.6 x 6.6 cm (case)" .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/media> <http://id.loc.gov/vocabulary/mediaTypes/n> .
+<http://id.loc.gov/vocabulary/mediaTypes/n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Media> .
+<http://id.loc.gov/vocabulary/mediaTypes/n> <http://www.w3.org/2000/01/rdf-schema#label> "unmediated" .
+<http://id.loc.gov/vocabulary/mediaTypes/n> <http://id.loc.gov/ontologies/bibframe/code> "n" .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/media> <http://id.loc.gov/vocabulary/mediaTypes/c> .
+<http://id.loc.gov/vocabulary/mediaTypes/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Media> .
+<http://id.loc.gov/vocabulary/mediaTypes/c> <http://www.w3.org/2000/01/rdf-schema#label> "computer" .
+<http://id.loc.gov/vocabulary/mediaTypes/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/carrier> <http://id.loc.gov/vocabulary/carriers/nb> .
+<http://id.loc.gov/vocabulary/carriers/nb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Carrier> .
+<http://id.loc.gov/vocabulary/carriers/nb> <http://www.w3.org/2000/01/rdf-schema#label> "sheet" .
+<http://id.loc.gov/vocabulary/carriers/nb> <http://id.loc.gov/ontologies/bibframe/code> "nb" .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/carrier> <http://id.loc.gov/vocabulary/carriers/cr> .
+<http://id.loc.gov/vocabulary/carriers/cr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Carrier> .
+<http://id.loc.gov/vocabulary/carriers/cr> <http://www.w3.org/2000/01/rdf-schema#label> "online resource" .
+<http://id.loc.gov/vocabulary/carriers/cr> <http://id.loc.gov/ontologies/bibframe/code> "cr" .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/note> _:b94iddOtlocdOtgovresourcesinstances16318278 .
+_:b94iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b94iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Title devised by Library staff." .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/note> _:b98iddOtlocdOtgovresourcesinstances16318278 .
+_:b98iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b98iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Case: Berg, no. 3-273." .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/note> _:b102iddOtlocdOtgovresourcesinstances16318278 .
+_:b102iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b102iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Additional information in collections file." .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/note> _:b106iddOtlocdOtgovresourcesinstances16318278 .
+_:b106iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b106iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Digital photo with mat removed by Mike O'Donnell." .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/usageAndAccessPolicy> _:b110iddOtlocdOtgovresourcesinstances16318278 .
+_:b110iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AccessPolicy> .
+_:b110iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Use digital images. Original served only by appointment because material requires special handling. For more information see: (http://www.loc.gov/rr/print/info/617_apptonly.html)" .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/usageAndAccessPolicy> _:b114iddOtlocdOtgovresourcesinstances16318278 .
+_:b114iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/UsePolicy> .
+_:b114iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/2000/01/rdf-schema#label> "No known restrictions on publication." .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/note> _:b118iddOtlocdOtgovresourcesinstances16318278 .
+_:b118iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b118iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/2000/01/rdf-schema#label> "More information about this collection is available at" .
+_:b118iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/electronicLocator> <http://hdl.loc.gov/loc.pnp/pp.lilj> .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/custodialHistory> "Purchased from: The Horse Soldier, Cashtown, Pennsylvania, 2002." .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/note> _:b125iddOtlocdOtgovresourcesinstances16318278 .
+_:b125iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b125iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Published in: Military images. East Stroudsburg, Pa., March-April 1997 (XVIII, 5), cover." .
+_:b125iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/vocabulary/mnotetype/related> .
+<http://id.loc.gov/resources/instances/16318278> <http://purl.org/dc/terms/isPartOf> <http://id.loc.gov/resources/instances> .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/instanceOf> <http://id.loc.gov/resources/works/16318278> .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/hasItem> <http://id.loc.gov/resources/items/16318278> .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b133iddOtlocdOtgovresourcesinstances16318278 .
+_:b133iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b133iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/n> .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://www.w3.org/2000/01/rdf-schema#label> "new" .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://id.loc.gov/ontologies/bibframe/code> "n" .
+_:b133iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/date> "2010-07-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b133iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b154iddOtlocdOtgovresourcesinstances16318278 .
+_:b154iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b154iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/c> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/2000/01/rdf-schema#label> "changed" .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+_:b154iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/date> "2017-09-29T16:43:26"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b154iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b175iddOtlocdOtgovresourcesinstances16318278 .
+_:b175iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b175iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/c> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/2000/01/rdf-schema#label> "changed" .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+_:b175iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlcmrc> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress, Network Development and MARC Standards Office" .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "DLC-MRC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "dlcmrc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlcmrc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b175iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/generationProcess> <https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.10.0> .
+_:b175iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/date> "2025-08-17T01:31:30.199437-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b197iddOtlocdOtgovresourcesinstances16318278 .
+_:b197iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b197iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/descriptionLevel> <http://id.loc.gov/ontologies/bibframe-2-6-0/> .
+_:b197iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bflc/encodingLevel> <http://id.loc.gov/vocabulary/menclvl/7> .
+<http://id.loc.gov/vocabulary/menclvl/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bflc/EncodingLevel> .
+<http://id.loc.gov/vocabulary/menclvl/7> <http://www.w3.org/2000/01/rdf-schema#label> "minimal" .
+<http://id.loc.gov/vocabulary/menclvl/7> <http://id.loc.gov/ontologies/bibframe/code> "7" .
+_:b197iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/descriptionConventions> <http://id.loc.gov/vocabulary/descriptionConventions/aacr> .
+<http://id.loc.gov/vocabulary/descriptionConventions/aacr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/DescriptionConventions> .
+<http://id.loc.gov/vocabulary/descriptionConventions/aacr> <http://www.w3.org/2000/01/rdf-schema#label> "Anglo-American cataloguing rules" .
+<http://id.loc.gov/vocabulary/descriptionConventions/aacr> <http://id.loc.gov/ontologies/bibframe/code> "aacr" .
+_:b197iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/identifiedBy> _:b212iddOtlocdOtgovresourcesinstances16318278 .
+_:b212iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Local> .
+_:b212iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "16318278" .
+_:b212iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/assigner> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b197iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/descriptionConventions> <http://id.loc.gov/vocabulary/descriptionConventions/gihc> .
+<http://id.loc.gov/vocabulary/descriptionConventions/gihc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/DescriptionConventions> .
+<http://id.loc.gov/vocabulary/descriptionConventions/gihc> <http://www.w3.org/2000/01/rdf-schema#label> "Graphic materials" .
+<http://id.loc.gov/vocabulary/descriptionConventions/gihc> <http://id.loc.gov/ontologies/bibframe/code> "gihc" .
+_:b197iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bibframe/note> _:b232iddOtlocdOtgovresourcesinstances16318278 .
+_:b232iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b232iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/vocabulary/mnotetype/internal> .
+_:b232iddOtlocdOtgovresourcesinstances16318278 <http://www.w3.org/2000/01/rdf-schema#label> "040 $aDLC$egihc$cDLC" .
+_:b197iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bflc/marcKey> "906 $a7$bcbc$corignew$du$encip$f20$gy-printpho" .
+_:b197iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/lclocal/d906> "=906 $a 7 $b cbc $c orignew $d u $e ncip $f 20 $g y-printpho" .
+_:b197iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bflc/marcKey> "955 $aEL/MG 2010-07; qw09 2010-10 rev." .
+_:b197iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/lclocal/d955> "=955 $a EL/MG 2010-07; qw09 2010-10 rev." .
+_:b197iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/bflc/marcKey> "955 $aLCAP batch update 2025-06-01-04:00: LCAPM-861" .
+_:b197iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/lclocal/d955> "=955 $a LCAP batch update 2025-06-01-04:00: LCAPM-861" .
+_:b197iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/ambtin" .
+_:b197iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/lilj" .
+_:b197iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/flickrlilj" .
+_:b197iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/diof" .
+_:b197iddOtlocdOtgovresourcesinstances16318278 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/civwar" .
+<http://id.loc.gov/resources/works/16318278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Work> .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bflc/aap> "[Corporal Sidney S. Goodridge of Company K, 20th Massachusetts Infantry Regiment and Company B, 4th Massachusetts Heavy Artillery Regiment with bayoneted musket in front of shebang at Camp Benton, near Edwards Ferry, Maryland]" .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bflc/aap-normalized> "[corporalsidneysgoodridgeofcompanyk20thmassachusettsinfantryregimentandcompanyb4thmassachusettsheavyartilleryregimentwithbayonetedmusketinfrontofshebangatcampbentonnearedwardsferrymaryland]" .
+<http://id.loc.gov/resources/works/16318278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/StillImage> .
+<http://id.loc.gov/resources/works/16318278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Monograph> .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/eng> .
+<http://id.loc.gov/vocabulary/languages/eng> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Language> .
+<http://id.loc.gov/vocabulary/languages/eng> <http://www.w3.org/2000/01/rdf-schema#label> "English"@en .
+<http://id.loc.gov/vocabulary/languages/eng> <http://id.loc.gov/ontologies/bibframe/code> "eng"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/genreForm> <http://id.loc.gov/vocabulary/marcgt/gra> .
+<http://id.loc.gov/vocabulary/marcgt/gra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/GenreForm> .
+<http://id.loc.gov/vocabulary/marcgt/gra> <http://www.w3.org/2000/01/rdf-schema#label> "graphic" .
+<http://id.loc.gov/vocabulary/marcgt/gra> <http://id.loc.gov/ontologies/bibframe/code> "gra" .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/classification> _:b278iddOtlocdOtgovresourcesworks16318278 .
+_:b278iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/ClassificationLcc> .
+_:b278iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/classificationPortion> "AMB/TIN" .
+_:b278iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/itemPortion> "no. 2520" .
+_:b278iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/assigner> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b278iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/uba> .
+<http://id.loc.gov/vocabulary/mstatus/uba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/uba> <http://www.w3.org/2000/01/rdf-schema#label> "used by assigner" .
+<http://id.loc.gov/vocabulary/mstatus/uba> <http://id.loc.gov/ontologies/bibframe/code> "uba" .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/title> _:b300iddOtlocdOtgovresourcesworks16318278 .
+_:b300iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b300iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/mainTitle> "[Corporal Sidney S. Goodridge of Company K, 20th Massachusetts Infantry Regiment and Company B, 4th Massachusetts Heavy Artillery Regiment with bayoneted musket in front of shebang at Camp Benton, near Edwards Ferry, Maryland]" .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/content> <http://id.loc.gov/vocabulary/contentTypes/sti> .
+<http://id.loc.gov/vocabulary/contentTypes/sti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Content> .
+<http://id.loc.gov/vocabulary/contentTypes/sti> <http://www.w3.org/2000/01/rdf-schema#label> "still image" .
+<http://id.loc.gov/vocabulary/contentTypes/sti> <http://id.loc.gov/ontologies/bibframe/code> "sti" .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/summary> _:b310iddOtlocdOtgovresourcesworks16318278 .
+_:b310iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Summary> .
+_:b310iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Photo shows identified soldier in Union uniform." .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/note> _:b314iddOtlocdOtgovresourcesworks16318278 .
+_:b314iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b314iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/vocabulary/mnotetype/relnote> .
+_:b314iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Forms part of: Liljenquist Family Collection of Civil War Photographs (Library of Congress)." .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/subject> _:b319iddOtlocdOtgovresourcesworks16318278 .
+_:b319iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+_:b319iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+_:b319iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Goodridge, Sidney S., -1907" .
+_:b319iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/aap-normalized> "goodridgesidneys1907" .
+_:b319iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/marcKey> "60010$aGoodridge, Sidney S.,$d-1907." .
+_:b319iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/source> <http://id.loc.gov/authorities/subjects> .
+<http://id.loc.gov/authorities/subjects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Source> .
+<http://id.loc.gov/authorities/subjects> <http://www.w3.org/2000/01/rdf-schema#label> "Library of Congress Subject Headings"@en .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/subject> _:b332iddOtlocdOtgovresourcesworks16318278 .
+_:b332iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Topic> .
+_:b332iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> .
+_:b332iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "United States. Army. Massachusetts Infantry Regiment, 20th (1861-1865)--People--Maryland." .
+_:b332iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#componentList> _:b337iddOtlocdOtgovresourcesworks16318278 .
+_:b337iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/rwo/agents/n91028264> .
+_:b337iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0342 .
+<http://id.loc.gov/rwo/agents/n91028264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#CorporateName> .
+<http://id.loc.gov/rwo/agents/n91028264> <http://www.w3.org/2000/01/rdf-schema#label> "United States. Army. Massachusetts Infantry Regiment, 20th (1861-1865)" .
+<http://id.loc.gov/rwo/agents/n91028264> <http://id.loc.gov/ontologies/bflc/marcKey> "11010$aUnited States.$bArmy.$bMassachusetts Infantry Regiment, 20th (1861-1865)" .
+_:b0342 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b343iddOtlocdOtgovresourcesworks16318278 .
+_:b0342 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0345 .
+_:b343iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> .
+_:b343iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "People" .
+_:b0345 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/rwo/agents/n79029831-781> .
+_:b0345 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<http://id.loc.gov/rwo/agents/n79029831-781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> .
+<http://id.loc.gov/rwo/agents/n79029831-781> <http://www.w3.org/2000/01/rdf-schema#label> "Maryland" .
+<http://id.loc.gov/rwo/agents/n79029831-781> <http://id.loc.gov/ontologies/bflc/marcKey> "181 $zMaryland" .
+_:b332iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/aap-normalized> "unitedstatesarmymassachusettsinfantryregiment20th(18611865)peoplemaryland" .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/subject> _:b353iddOtlocdOtgovresourcesworks16318278 .
+_:b353iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Topic> .
+_:b353iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> .
+_:b353iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "United States. Army. Massachusetts Heavy Artillery Regiment, 4th (1864-1865)--People--Maryland." .
+_:b353iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#componentList> _:b358iddOtlocdOtgovresourcesworks16318278 .
+_:b358iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/rwo/agents/nr2003037032> .
+_:b358iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0363 .
+<http://id.loc.gov/rwo/agents/nr2003037032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#CorporateName> .
+<http://id.loc.gov/rwo/agents/nr2003037032> <http://www.w3.org/2000/01/rdf-schema#label> "United States. Army. Massachusetts Heavy Artillery Regiment, 4th (1864-1865)" .
+<http://id.loc.gov/rwo/agents/nr2003037032> <http://id.loc.gov/ontologies/bflc/marcKey> "1101 $aUnited States.$bArmy.$bMassachusetts Heavy Artillery Regiment, 4th (1864-1865)" .
+_:b0363 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b364iddOtlocdOtgovresourcesworks16318278 .
+_:b0363 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0366 .
+_:b364iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> .
+_:b364iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "People" .
+_:b0366 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/rwo/agents/n79029831-781> .
+_:b0366 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<http://id.loc.gov/rwo/agents/n79029831-781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> .
+<http://id.loc.gov/rwo/agents/n79029831-781> <http://www.w3.org/2000/01/rdf-schema#label> "Maryland" .
+<http://id.loc.gov/rwo/agents/n79029831-781> <http://id.loc.gov/ontologies/bflc/marcKey> "181 $zMaryland" .
+_:b353iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/aap-normalized> "unitedstatesarmymassachusettsheavyartilleryregiment4th(18641865)peoplemaryland" .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/subject> _:b374iddOtlocdOtgovresourcesworks16318278 .
+_:b374iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Topic> .
+_:b374iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> .
+_:b374iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Soldiers--Union--Maryland--1860-1870" .
+_:b374iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Soldiers--Union--Maryland--1860-1870" .
+_:b374iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#componentList> _:b381iddOtlocdOtgovresourcesworks16318278 .
+_:b381iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/vocabulary/graphicMaterials/tgm009848> .
+_:b381iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0384 .
+<http://id.loc.gov/vocabulary/graphicMaterials/tgm009848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> .
+<http://id.loc.gov/vocabulary/graphicMaterials/tgm009848> <http://www.w3.org/2000/01/rdf-schema#label> "Soldiers"@en .
+_:b0384 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b385iddOtlocdOtgovresourcesworks16318278 .
+_:b0384 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0387 .
+_:b385iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> .
+_:b385iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Union" .
+_:b0387 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/rwo/agents/n79029831-781> .
+_:b0387 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0392 .
+<http://id.loc.gov/rwo/agents/n79029831-781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> .
+<http://id.loc.gov/rwo/agents/n79029831-781> <http://www.w3.org/2000/01/rdf-schema#label> "Maryland" .
+<http://id.loc.gov/rwo/agents/n79029831-781> <http://id.loc.gov/ontologies/bflc/marcKey> "181 $zMaryland" .
+_:b0392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b393iddOtlocdOtgovresourcesworks16318278 .
+_:b0392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b393iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Temporal> .
+_:b393iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "1860-1870" .
+_:b374iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/aap-normalized> "soldiersunionmaryland18601870" .
+_:b374iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/subjectSchemes/lctgm> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/2000/01/rdf-schema#label> "Thesaurus for graphic materials: TGM I, Subject terms" .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://id.loc.gov/ontologies/bibframe/code> "lctgm" .
+_:b374iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/source> <http://id.loc.gov/vocabulary/subjectSchemes/lctgm> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Source> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/2000/01/rdf-schema#label> "Thesaurus for graphic materials: TGM I, Subject terms" .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://id.loc.gov/ontologies/bibframe/code> "lctgm" .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/subject> _:b410iddOtlocdOtgovresourcesworks16318278 .
+_:b410iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Topic> .
+_:b410iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> .
+_:b410iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Military uniforms--Union--1860-1870" .
+_:b410iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Military uniforms--Union--1860-1870" .
+_:b410iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#componentList> _:b417iddOtlocdOtgovresourcesworks16318278 .
+_:b417iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/vocabulary/graphicMaterials/tgm006582> .
+_:b417iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0420 .
+<http://id.loc.gov/vocabulary/graphicMaterials/tgm006582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> .
+<http://id.loc.gov/vocabulary/graphicMaterials/tgm006582> <http://www.w3.org/2000/01/rdf-schema#label> "Military uniforms"@en .
+_:b0420 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b421iddOtlocdOtgovresourcesworks16318278 .
+_:b0420 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0423 .
+_:b421iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> .
+_:b421iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Union" .
+_:b0423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b424iddOtlocdOtgovresourcesworks16318278 .
+_:b0423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b424iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Temporal> .
+_:b424iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "1860-1870" .
+_:b410iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/aap-normalized> "militaryuniformsunion18601870" .
+_:b410iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/subjectSchemes/lctgm> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/2000/01/rdf-schema#label> "Thesaurus for graphic materials: TGM I, Subject terms" .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://id.loc.gov/ontologies/bibframe/code> "lctgm" .
+_:b410iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/source> <http://id.loc.gov/vocabulary/subjectSchemes/lctgm> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Source> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/2000/01/rdf-schema#label> "Thesaurus for graphic materials: TGM I, Subject terms" .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://id.loc.gov/ontologies/bibframe/code> "lctgm" .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/subject> _:b441iddOtlocdOtgovresourcesworks16318278 .
+_:b441iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Topic> .
+_:b441iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> .
+_:b441iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Huts--Maryland--1860-1870" .
+_:b441iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Huts--Maryland--1860-1870" .
+_:b441iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#componentList> _:b448iddOtlocdOtgovresourcesworks16318278 .
+_:b448iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/vocabulary/graphicMaterials/tgm005233> .
+_:b448iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0451 .
+<http://id.loc.gov/vocabulary/graphicMaterials/tgm005233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> .
+<http://id.loc.gov/vocabulary/graphicMaterials/tgm005233> <http://www.w3.org/2000/01/rdf-schema#label> "Huts"@en .
+_:b0451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/rwo/agents/n79029831-781> .
+_:b0451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0456 .
+<http://id.loc.gov/rwo/agents/n79029831-781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> .
+<http://id.loc.gov/rwo/agents/n79029831-781> <http://www.w3.org/2000/01/rdf-schema#label> "Maryland" .
+<http://id.loc.gov/rwo/agents/n79029831-781> <http://id.loc.gov/ontologies/bflc/marcKey> "181 $zMaryland" .
+_:b0456 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b457iddOtlocdOtgovresourcesworks16318278 .
+_:b0456 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b457iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Temporal> .
+_:b457iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "1860-1870" .
+_:b441iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/aap-normalized> "hutsmaryland18601870" .
+_:b441iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/subjectSchemes/lctgm> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/2000/01/rdf-schema#label> "Thesaurus for graphic materials: TGM I, Subject terms" .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://id.loc.gov/ontologies/bibframe/code> "lctgm" .
+_:b441iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/source> <http://id.loc.gov/vocabulary/subjectSchemes/lctgm> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Source> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/2000/01/rdf-schema#label> "Thesaurus for graphic materials: TGM I, Subject terms" .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://id.loc.gov/ontologies/bibframe/code> "lctgm" .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/subject> _:b474iddOtlocdOtgovresourcesworks16318278 .
+_:b474iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Topic> .
+_:b474iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> .
+_:b474iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Rifles--1860-1870" .
+_:b474iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rifles--1860-1870" .
+_:b474iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#componentList> _:b481iddOtlocdOtgovresourcesworks16318278 .
+_:b481iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/vocabulary/graphicMaterials/tgm008914> .
+_:b481iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0484 .
+<http://id.loc.gov/vocabulary/graphicMaterials/tgm008914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> .
+<http://id.loc.gov/vocabulary/graphicMaterials/tgm008914> <http://www.w3.org/2000/01/rdf-schema#label> "Rifles"@en .
+_:b0484 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b485iddOtlocdOtgovresourcesworks16318278 .
+_:b0484 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b485iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Temporal> .
+_:b485iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "1860-1870" .
+_:b474iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/aap-normalized> "rifles18601870" .
+_:b474iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/subjectSchemes/lctgm> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/2000/01/rdf-schema#label> "Thesaurus for graphic materials: TGM I, Subject terms" .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://id.loc.gov/ontologies/bibframe/code> "lctgm" .
+_:b474iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/source> <http://id.loc.gov/vocabulary/subjectSchemes/lctgm> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Source> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/2000/01/rdf-schema#label> "Thesaurus for graphic materials: TGM I, Subject terms" .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://id.loc.gov/ontologies/bibframe/code> "lctgm" .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/subject> _:b502iddOtlocdOtgovresourcesworks16318278 .
+_:b502iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Topic> .
+_:b502iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> .
+_:b502iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Bayonets--1860-1870" .
+_:b502iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bayonets--1860-1870" .
+_:b502iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#componentList> _:b509iddOtlocdOtgovresourcesworks16318278 .
+_:b509iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/vocabulary/graphicMaterials/tgm000884> .
+_:b509iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0512 .
+<http://id.loc.gov/vocabulary/graphicMaterials/tgm000884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> .
+<http://id.loc.gov/vocabulary/graphicMaterials/tgm000884> <http://www.w3.org/2000/01/rdf-schema#label> "Bayonets"@en .
+_:b0512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b513iddOtlocdOtgovresourcesworks16318278 .
+_:b0512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b513iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Temporal> .
+_:b513iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "1860-1870" .
+_:b502iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/aap-normalized> "bayonets18601870" .
+_:b502iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/subjectSchemes/lctgm> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/2000/01/rdf-schema#label> "Thesaurus for graphic materials: TGM I, Subject terms" .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://id.loc.gov/ontologies/bibframe/code> "lctgm" .
+_:b502iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/source> <http://id.loc.gov/vocabulary/subjectSchemes/lctgm> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Source> .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://www.w3.org/2000/01/rdf-schema#label> "Thesaurus for graphic materials: TGM I, Subject terms" .
+<http://id.loc.gov/vocabulary/subjectSchemes/lctgm> <http://id.loc.gov/ontologies/bibframe/code> "lctgm" .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/subject> _:b530iddOtlocdOtgovresourcesworks16318278 .
+_:b530iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Topic> .
+_:b530iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> .
+_:b530iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "United States--History--Civil War, 1861-1865--Military personnel--Union" .
+_:b530iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "United States--History--Civil War, 1861-1865--Military personnel--Union" .
+_:b530iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#componentList> _:b537iddOtlocdOtgovresourcesworks16318278 .
+_:b537iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/rwo/agents/n78095330> .
+_:b537iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0544 .
+<http://id.loc.gov/rwo/agents/n78095330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> .
+<http://id.loc.gov/rwo/agents/n78095330> <http://www.w3.org/2000/01/rdf-schema#label> "United States" .
+<http://id.loc.gov/rwo/agents/n78095330> <http://id.loc.gov/ontologies/bflc/marcKey> "151 $aUnited States" .
+<http://id.loc.gov/rwo/agents/n78095330> <http://id.loc.gov/ontologies/bibframe/code> "n-us---"^^<http://id.loc.gov/datatypes/codes/gac> .
+_:b0544 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b545iddOtlocdOtgovresourcesworks16318278 .
+_:b0544 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0547 .
+_:b545iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> .
+_:b545iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "History" .
+_:b0547 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b548iddOtlocdOtgovresourcesworks16318278 .
+_:b0547 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0550 .
+_:b548iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Temporal> .
+_:b548iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Civil War, 1861-1865" .
+_:b0550 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b551iddOtlocdOtgovresourcesworks16318278 .
+_:b0550 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0553 .
+_:b551iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> .
+_:b551iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Military personnel" .
+_:b0553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b554iddOtlocdOtgovresourcesworks16318278 .
+_:b0553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b554iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> .
+_:b554iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Union" .
+_:b530iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/aap-normalized> "unitedstateshistorycivilwar18611865militarypersonnelunion" .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/subject> _:b559iddOtlocdOtgovresourcesworks16318278 .
+_:b559iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Topic> .
+_:b559iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> .
+_:b559iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Portrait photographs--1860-1870" .
+_:b559iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Portrait photographs--1860-1870" .
+_:b559iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#componentList> _:b566iddOtlocdOtgovresourcesworks16318278 .
+_:b566iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b567iddOtlocdOtgovresourcesworks16318278 .
+_:b566iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0569 .
+_:b567iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GenreForm> .
+_:b567iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Portrait photographs" .
+_:b0569 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b570iddOtlocdOtgovresourcesworks16318278 .
+_:b0569 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b570iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Temporal> .
+_:b570iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "1860-1870" .
+_:b559iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/aap-normalized> "portraitphotographs18601870" .
+_:b559iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc> .
+<http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc> <http://www.w3.org/2000/01/rdf-schema#label> "Thesaurus for graphic materials: TGM II, Genre and physical characteristic terms" .
+<http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc> <http://id.loc.gov/ontologies/bibframe/code> "gmgpc" .
+_:b559iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/source> <http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc> .
+<http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Source> .
+<http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc> <http://www.w3.org/2000/01/rdf-schema#label> "Thesaurus for graphic materials: TGM II, Genre and physical characteristic terms" .
+<http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc> <http://id.loc.gov/ontologies/bibframe/code> "gmgpc" .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/subject> _:b587iddOtlocdOtgovresourcesworks16318278 .
+_:b587iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Topic> .
+_:b587iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> .
+_:b587iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Tintypes--1860-1870" .
+_:b587iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tintypes--1860-1870" .
+_:b587iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#componentList> _:b594iddOtlocdOtgovresourcesworks16318278 .
+_:b594iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b595iddOtlocdOtgovresourcesworks16318278 .
+_:b594iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:b0597 .
+_:b595iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GenreForm> .
+_:b595iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tintypes" .
+_:b0597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:b598iddOtlocdOtgovresourcesworks16318278 .
+_:b0597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:b598iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Temporal> .
+_:b598iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "1860-1870" .
+_:b587iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/aap-normalized> "tintypes18601870" .
+_:b587iddOtlocdOtgovresourcesworks16318278 <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc> .
+<http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> .
+<http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc> <http://www.w3.org/2000/01/rdf-schema#label> "Thesaurus for graphic materials: TGM II, Genre and physical characteristic terms" .
+<http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc> <http://id.loc.gov/ontologies/bibframe/code> "gmgpc" .
+_:b587iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/source> <http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc> .
+<http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Source> .
+<http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc> <http://www.w3.org/2000/01/rdf-schema#label> "Thesaurus for graphic materials: TGM II, Genre and physical characteristic terms" .
+<http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc> <http://id.loc.gov/ontologies/bibframe/code> "gmgpc" .
+<http://id.loc.gov/resources/works/16318278> <http://purl.org/dc/terms/isPartOf> <http://id.loc.gov/resources/works> .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/relation> _:b616iddOtlocdOtgovresourcesworks16318278 .
+_:b616iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relation> .
+_:b616iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/relationship> <http://id.loc.gov/vocabulary/relationship/partof> .
+<http://id.loc.gov/vocabulary/relationship/partof> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relationship> .
+<http://id.loc.gov/vocabulary/relationship/partof> <http://www.w3.org/2000/01/rdf-schema#label> "part of" .
+<http://id.loc.gov/vocabulary/relationship/partof> <http://id.loc.gov/ontologies/bibframe/code> "partof" .
+_:b616iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/associatedResource> <http://id.loc.gov/resources/works/16341670> .
+<http://id.loc.gov/resources/works/16341670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Work> .
+<http://id.loc.gov/resources/works/16341670> <http://www.w3.org/2000/01/rdf-schema#label> "Ambrotype/Tintype photograph filing series (Library of Congress)" .
+<http://id.loc.gov/resources/works/16341670> <http://id.loc.gov/ontologies/bibframe/classification> _:b628iddOtlocdOtgovresourcesworks16318278 .
+_:b628iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/ClassificationLcc> .
+_:b628iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/classificationPortion> "Guide Record (Filing series: AMB/TIN)" .
+_:b628iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/assigner> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b628iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/uba> .
+<http://id.loc.gov/vocabulary/mstatus/uba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/uba> <http://www.w3.org/2000/01/rdf-schema#label> "used by assigner" .
+<http://id.loc.gov/vocabulary/mstatus/uba> <http://id.loc.gov/ontologies/bibframe/code> "uba" .
+<http://id.loc.gov/resources/works/16341670> <http://id.loc.gov/ontologies/bibframe/title> _:b648iddOtlocdOtgovresourcesworks16318278 .
+_:b648iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b648iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Ambrotype/Tintype photograph filing series (Library of Congress)" .
+<http://id.loc.gov/resources/works/16341670> <http://id.loc.gov/ontologies/bibframe/title> _:b652iddOtlocdOtgovresourcesworks16318278 .
+_:b652iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b652iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Ambrotype/Tintype collection (Library of Congress)" .
+<http://id.loc.gov/resources/works/16341670> <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/eng> .
+<http://id.loc.gov/resources/works/16341670> <http://id.loc.gov/ontologies/bibframe/hasInstance> <http://id.loc.gov/resources/instances/16341670> .
+<http://id.loc.gov/resources/instances/16341670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Instance> .
+<http://id.loc.gov/resources/instances/16341670> <http://id.loc.gov/ontologies/bibframe/title> _:b659iddOtlocdOtgovresourcesworks16318278 .
+_:b659iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b659iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Ambrotype/Tintype photograph filing series (Library of Congress)" .
+<http://id.loc.gov/resources/instances/16341670> <http://id.loc.gov/ontologies/bibframe/identifiedBy> _:b663iddOtlocdOtgovresourcesworks16318278 .
+_:b663iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Lccn> .
+_:b663iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> " 2010650518" .
+<http://id.loc.gov/resources/instances/16341670> <http://id.loc.gov/ontologies/bibframe/publicationStatement> "ca. 1851-1900." .
+<http://id.loc.gov/resources/instances/16341670> <http://id.loc.gov/ontologies/bibframe/extent> _:b669iddOtlocdOtgovresourcesworks16318278 .
+_:b669iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Extent> .
+_:b669iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "approximately 2,200 photographs" .
+_:b669iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/note> _:b673iddOtlocdOtgovresourcesworks16318278 .
+_:b673iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b673iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/vocabulary/mnotetype/physical> .
+_:b673iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "ambrotypes and tintypes, many with some hand-coloring." .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/relation> _:b678iddOtlocdOtgovresourcesworks16318278 .
+_:b678iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relation> .
+_:b678iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/relationship> <http://id.loc.gov/vocabulary/relationship/partof> .
+<http://id.loc.gov/vocabulary/relationship/partof> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relationship> .
+<http://id.loc.gov/vocabulary/relationship/partof> <http://www.w3.org/2000/01/rdf-schema#label> "part of" .
+<http://id.loc.gov/vocabulary/relationship/partof> <http://id.loc.gov/ontologies/bibframe/code> "partof" .
+_:b678iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/associatedResource> <http://id.loc.gov/resources/works/16341713> .
+<http://id.loc.gov/resources/works/16341713> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Work> .
+<http://id.loc.gov/resources/works/16341713> <http://www.w3.org/2000/01/rdf-schema#label> "Liljenquist, Thomas Richard, 1952-. [Liljenquist Family Collection (Library of Congress)]" .
+<http://id.loc.gov/resources/works/16341713> <http://id.loc.gov/ontologies/bibframe/contribution> _:b690iddOtlocdOtgovresourcesworks16318278 .
+_:b690iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b690iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b690iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/agent> _:b693iddOtlocdOtgovresourcesworks16318278 .
+_:b693iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+_:b693iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+_:b693iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Liljenquist, Thomas Richard, 1952-" .
+_:b693iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/marcKey> "1001 $aLiljenquist, Thomas Richard,$d1952-$ecollector." .
+_:b690iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/col> .
+<http://id.loc.gov/vocabulary/relators/col> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/col> <http://www.w3.org/2000/01/rdf-schema#label> "collector" .
+<http://id.loc.gov/vocabulary/relators/col> <http://id.loc.gov/ontologies/bibframe/code> "col" .
+<http://id.loc.gov/resources/works/16341713> <http://id.loc.gov/ontologies/bibframe/contribution> _:b706iddOtlocdOtgovresourcesworks16318278 .
+_:b706iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b706iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/agent> _:b708iddOtlocdOtgovresourcesworks16318278 .
+_:b708iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+_:b708iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+_:b708iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Liljenquist, Jason George, 1991-" .
+_:b708iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/marcKey> "7001 $aLiljenquist, Jason George,$d1991-$ecollector." .
+_:b706iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/col> .
+<http://id.loc.gov/vocabulary/relators/col> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/col> <http://www.w3.org/2000/01/rdf-schema#label> "collector" .
+<http://id.loc.gov/vocabulary/relators/col> <http://id.loc.gov/ontologies/bibframe/code> "col" .
+<http://id.loc.gov/resources/works/16341713> <http://id.loc.gov/ontologies/bibframe/contribution> _:b721iddOtlocdOtgovresourcesworks16318278 .
+_:b721iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b721iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/agent> _:b723iddOtlocdOtgovresourcesworks16318278 .
+_:b723iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+_:b723iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+_:b723iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Liljenquist, Brandon Paul, 1993-" .
+_:b723iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/marcKey> "7001 $aLiljenquist, Brandon Paul,$d1993-$ecollector." .
+_:b721iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/col> .
+<http://id.loc.gov/vocabulary/relators/col> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/col> <http://www.w3.org/2000/01/rdf-schema#label> "collector" .
+<http://id.loc.gov/vocabulary/relators/col> <http://id.loc.gov/ontologies/bibframe/code> "col" .
+<http://id.loc.gov/resources/works/16341713> <http://id.loc.gov/ontologies/bibframe/contribution> _:b736iddOtlocdOtgovresourcesworks16318278 .
+_:b736iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b736iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/agent> _:b738iddOtlocdOtgovresourcesworks16318278 .
+_:b738iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+_:b738iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+_:b738iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Liljenquist, Christian Blaine, 1997-" .
+_:b738iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/marcKey> "7001 $aLiljenquist, Christian Blaine,$d1997-$ecollector." .
+_:b736iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/col> .
+<http://id.loc.gov/vocabulary/relators/col> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/col> <http://www.w3.org/2000/01/rdf-schema#label> "collector" .
+<http://id.loc.gov/vocabulary/relators/col> <http://id.loc.gov/ontologies/bibframe/code> "col" .
+<http://id.loc.gov/resources/works/16341713> <http://id.loc.gov/ontologies/bibframe/classification> _:b751iddOtlocdOtgovresourcesworks16318278 .
+_:b751iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/ClassificationLcc> .
+_:b751iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/classificationPortion> "Guide Record" .
+_:b751iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/assigner> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b751iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/uba> .
+<http://id.loc.gov/vocabulary/mstatus/uba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/uba> <http://www.w3.org/2000/01/rdf-schema#label> "used by assigner" .
+<http://id.loc.gov/vocabulary/mstatus/uba> <http://id.loc.gov/ontologies/bibframe/code> "uba" .
+<http://id.loc.gov/resources/works/16341713> <http://id.loc.gov/ontologies/bibframe/title> _:b771iddOtlocdOtgovresourcesworks16318278 .
+_:b771iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b771iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/mainTitle> "[Liljenquist Family Collection (Library of Congress)]" .
+<http://id.loc.gov/resources/works/16341713> <http://id.loc.gov/ontologies/bibframe/title> _:b775iddOtlocdOtgovresourcesworks16318278 .
+_:b775iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b775iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Liljenquist Family Collection of Civil War Photographs (Library of Congress)" .
+<http://id.loc.gov/resources/works/16341713> <http://id.loc.gov/ontologies/bibframe/title> _:b779iddOtlocdOtgovresourcesworks16318278 .
+_:b779iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b779iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Liljenquist Family Collection of Civil War Ambrotypes and Tintypes (Library of Congress)" .
+<http://id.loc.gov/resources/works/16341713> <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/eng> .
+<http://id.loc.gov/resources/works/16341713> <http://id.loc.gov/ontologies/bibframe/hasInstance> <http://id.loc.gov/resources/instances/16341713> .
+<http://id.loc.gov/resources/instances/16341713> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Instance> .
+<http://id.loc.gov/resources/instances/16341713> <http://id.loc.gov/ontologies/bibframe/title> _:b786iddOtlocdOtgovresourcesworks16318278 .
+_:b786iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b786iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/mainTitle> "[Liljenquist Family Collection (Library of Congress)]" .
+<http://id.loc.gov/resources/instances/16341713> <http://id.loc.gov/ontologies/bibframe/identifiedBy> _:b790iddOtlocdOtgovresourcesworks16318278 .
+_:b790iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Lccn> .
+_:b790iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> " 2010650519" .
+<http://id.loc.gov/resources/instances/16341713> <http://id.loc.gov/ontologies/bibframe/identifiedBy> _:b794iddOtlocdOtgovresourcesworks16318278 .
+_:b794iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Lccn> .
+_:b794iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "mm2016086110" .
+_:b794iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/cancinv> .
+<http://id.loc.gov/vocabulary/mstatus/cancinv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/cancinv> <http://www.w3.org/2000/01/rdf-schema#label> "invalid" .
+<http://id.loc.gov/resources/instances/16341713> <http://id.loc.gov/ontologies/bibframe/publicationStatement> "[between ca. 1850 and ca. 1950, bulk between 1861 and 1865]" .
+<http://id.loc.gov/resources/instances/16341713> <http://id.loc.gov/ontologies/bibframe/extent> _:b804iddOtlocdOtgovresourcesworks16318278 .
+_:b804iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Extent> .
+_:b804iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "ca. 2,050 photographs" .
+_:b804iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/note> _:b808iddOtlocdOtgovresourcesworks16318278 .
+_:b808iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b808iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/vocabulary/mnotetype/physical> .
+_:b808iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "ambrotypes and tintypes, many hand-colored" .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/hasInstance> <http://id.loc.gov/resources/instances/16318278> .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b814iddOtlocdOtgovresourcesworks16318278 .
+_:b814iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b814iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/n> .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://www.w3.org/2000/01/rdf-schema#label> "new" .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://id.loc.gov/ontologies/bibframe/code> "n" .
+_:b814iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/date> "2010-07-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b814iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b835iddOtlocdOtgovresourcesworks16318278 .
+_:b835iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b835iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/c> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/2000/01/rdf-schema#label> "changed" .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+_:b835iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/date> "2017-09-29T16:43:26"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b835iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b856iddOtlocdOtgovresourcesworks16318278 .
+_:b856iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b856iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/c> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/2000/01/rdf-schema#label> "changed" .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+_:b856iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlcmrc> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress, Network Development and MARC Standards Office" .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "DLC-MRC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "dlcmrc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlcmrc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b856iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/generationProcess> <https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.10.0> .
+_:b856iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/date> "2025-08-17T01:31:30.199437-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://id.loc.gov/resources/works/16318278> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b878iddOtlocdOtgovresourcesworks16318278 .
+_:b878iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b878iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/descriptionLevel> <http://id.loc.gov/ontologies/bibframe-2-6-0/> .
+_:b878iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/encodingLevel> <http://id.loc.gov/vocabulary/menclvl/7> .
+<http://id.loc.gov/vocabulary/menclvl/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bflc/EncodingLevel> .
+<http://id.loc.gov/vocabulary/menclvl/7> <http://www.w3.org/2000/01/rdf-schema#label> "minimal" .
+<http://id.loc.gov/vocabulary/menclvl/7> <http://id.loc.gov/ontologies/bibframe/code> "7" .
+_:b878iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/descriptionConventions> <http://id.loc.gov/vocabulary/descriptionConventions/aacr> .
+<http://id.loc.gov/vocabulary/descriptionConventions/aacr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/DescriptionConventions> .
+<http://id.loc.gov/vocabulary/descriptionConventions/aacr> <http://www.w3.org/2000/01/rdf-schema#label> "Anglo-American cataloguing rules" .
+<http://id.loc.gov/vocabulary/descriptionConventions/aacr> <http://id.loc.gov/ontologies/bibframe/code> "aacr" .
+_:b878iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/identifiedBy> _:b893iddOtlocdOtgovresourcesworks16318278 .
+_:b893iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Local> .
+_:b893iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "16318278" .
+_:b893iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/assigner> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b878iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/descriptionConventions> <http://id.loc.gov/vocabulary/descriptionConventions/gihc> .
+<http://id.loc.gov/vocabulary/descriptionConventions/gihc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/DescriptionConventions> .
+<http://id.loc.gov/vocabulary/descriptionConventions/gihc> <http://www.w3.org/2000/01/rdf-schema#label> "Graphic materials" .
+<http://id.loc.gov/vocabulary/descriptionConventions/gihc> <http://id.loc.gov/ontologies/bibframe/code> "gihc" .
+_:b878iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bibframe/note> _:b913iddOtlocdOtgovresourcesworks16318278 .
+_:b913iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b913iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/vocabulary/mnotetype/internal> .
+_:b913iddOtlocdOtgovresourcesworks16318278 <http://www.w3.org/2000/01/rdf-schema#label> "040 $aDLC$egihc$cDLC" .
+_:b878iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/marcKey> "906 $a7$bcbc$corignew$du$encip$f20$gy-printpho" .
+_:b878iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/lclocal/d906> "=906 $a 7 $b cbc $c orignew $d u $e ncip $f 20 $g y-printpho" .
+_:b878iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/marcKey> "955 $aEL/MG 2010-07; qw09 2010-10 rev." .
+_:b878iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/lclocal/d955> "=955 $a EL/MG 2010-07; qw09 2010-10 rev." .
+_:b878iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/bflc/marcKey> "955 $aLCAP batch update 2025-06-01-04:00: LCAPM-861" .
+_:b878iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/lclocal/d955> "=955 $a LCAP batch update 2025-06-01-04:00: LCAPM-861" .
+_:b878iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/ambtin" .
+_:b878iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/lilj" .
+_:b878iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/flickrlilj" .
+_:b878iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/diof" .
+_:b878iddOtlocdOtgovresourcesworks16318278 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/civwar" .
+<http://id.loc.gov/resources/instances/16318278-85X-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Instance> .
+<http://id.loc.gov/resources/instances/16318278-85X-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bflc/SecondaryInstance> .
+<http://id.loc.gov/resources/instances/16318278-85X-2> <http://id.loc.gov/ontologies/bibframe/issuance> <http://id.loc.gov/vocabulary/issuance/mono> .
+<http://id.loc.gov/vocabulary/issuance/mono> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Issuance> .
+<http://id.loc.gov/vocabulary/issuance/mono> <http://www.w3.org/2000/01/rdf-schema#label> "single unit" .
+<http://id.loc.gov/vocabulary/issuance/mono> <http://id.loc.gov/ontologies/bibframe/code> "mono" .
+<http://id.loc.gov/resources/instances/16318278-85X-2> <http://id.loc.gov/ontologies/bibframe/media> <http://id.loc.gov/vocabulary/mediaTypes/c> .
+<http://id.loc.gov/vocabulary/mediaTypes/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Media> .
+<http://id.loc.gov/vocabulary/mediaTypes/c> <http://www.w3.org/2000/01/rdf-schema#label> "computer" .
+<http://id.loc.gov/vocabulary/mediaTypes/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+<http://id.loc.gov/resources/instances/16318278-85X-2> <http://id.loc.gov/ontologies/bibframe/carrier> <http://id.loc.gov/vocabulary/carriers/cr> .
+<http://id.loc.gov/vocabulary/carriers/cr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Carrier> .
+<http://id.loc.gov/vocabulary/carriers/cr> <http://www.w3.org/2000/01/rdf-schema#label> "online resource" .
+<http://id.loc.gov/vocabulary/carriers/cr> <http://id.loc.gov/ontologies/bibframe/code> "cr" .
+<http://id.loc.gov/resources/instances/16318278-85X-2> <http://id.loc.gov/ontologies/bibframe/title> _:b960iddOtlocdOtgovresourcesinstances16318278-85X-2 .
+_:b960iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b960iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bibframe/mainTitle> "digital file from original item, mat removed" .
+<http://id.loc.gov/resources/instances/16318278-85X-2> <http://id.loc.gov/ontologies/bibframe/electronicLocator> <http://hdl.loc.gov/loc.pnp/ppss.00352> .
+<http://id.loc.gov/resources/instances/16318278-85X-2> <http://purl.org/dc/terms/isPartOf> <http://id.loc.gov/resources/instances> .
+<http://id.loc.gov/resources/instances/16318278-85X-2> <http://id.loc.gov/ontologies/bibframe/instanceOf> <http://id.loc.gov/resources/works/16318278> .
+<http://id.loc.gov/resources/instances/16318278-85X-2> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b967iddOtlocdOtgovresourcesinstances16318278-85X-2 .
+_:b967iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b967iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/n> .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://www.w3.org/2000/01/rdf-schema#label> "new" .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://id.loc.gov/ontologies/bibframe/code> "n" .
+_:b967iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bibframe/date> "2010-07-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b967iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+<http://id.loc.gov/resources/instances/16318278-85X-2> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b988iddOtlocdOtgovresourcesinstances16318278-85X-2 .
+_:b988iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b988iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/c> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/2000/01/rdf-schema#label> "changed" .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+_:b988iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bibframe/date> "2017-09-29T16:43:26"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b988iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+<http://id.loc.gov/resources/instances/16318278-85X-2> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b1009iddOtlocdOtgovresourcesinstances16318278-85X-2 .
+_:b1009iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b1009iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/c> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/2000/01/rdf-schema#label> "changed" .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+_:b1009iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlcmrc> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress, Network Development and MARC Standards Office" .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "DLC-MRC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "dlcmrc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlcmrc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b1009iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bibframe/generationProcess> <https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.10.0> .
+_:b1009iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bibframe/date> "2025-08-17T01:31:30.199437-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://id.loc.gov/resources/instances/16318278-85X-2> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 .
+_:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bibframe/identifiedBy> _:b1033iddOtlocdOtgovresourcesinstances16318278-85X-2 .
+_:b1033iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Local> .
+_:b1033iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "16318278-85X-2" .
+_:b1033iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bibframe/assigner> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bibframe/descriptionLevel> <http://id.loc.gov/ontologies/bibframe-2-6-0/> .
+_:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bflc/encodingLevel> <http://id.loc.gov/vocabulary/menclvl/7> .
+<http://id.loc.gov/vocabulary/menclvl/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bflc/EncodingLevel> .
+<http://id.loc.gov/vocabulary/menclvl/7> <http://www.w3.org/2000/01/rdf-schema#label> "minimal" .
+<http://id.loc.gov/vocabulary/menclvl/7> <http://id.loc.gov/ontologies/bibframe/code> "7" .
+_:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bibframe/descriptionConventions> <http://id.loc.gov/vocabulary/descriptionConventions/aacr> .
+<http://id.loc.gov/vocabulary/descriptionConventions/aacr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/DescriptionConventions> .
+<http://id.loc.gov/vocabulary/descriptionConventions/aacr> <http://www.w3.org/2000/01/rdf-schema#label> "Anglo-American cataloguing rules" .
+<http://id.loc.gov/vocabulary/descriptionConventions/aacr> <http://id.loc.gov/ontologies/bibframe/code> "aacr" .
+_:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bibframe/descriptionConventions> <http://id.loc.gov/vocabulary/descriptionConventions/gihc> .
+<http://id.loc.gov/vocabulary/descriptionConventions/gihc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/DescriptionConventions> .
+<http://id.loc.gov/vocabulary/descriptionConventions/gihc> <http://www.w3.org/2000/01/rdf-schema#label> "Graphic materials" .
+<http://id.loc.gov/vocabulary/descriptionConventions/gihc> <http://id.loc.gov/ontologies/bibframe/code> "gihc" .
+_:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bibframe/note> _:b1066iddOtlocdOtgovresourcesinstances16318278-85X-2 .
+_:b1066iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b1066iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/vocabulary/mnotetype/internal> .
+_:b1066iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://www.w3.org/2000/01/rdf-schema#label> "040 $aDLC$egihc$cDLC" .
+_:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bflc/marcKey> "906 $a7$bcbc$corignew$du$encip$f20$gy-printpho" .
+_:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/lclocal/d906> "=906 $a 7 $b cbc $c orignew $d u $e ncip $f 20 $g y-printpho" .
+_:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bflc/marcKey> "955 $aEL/MG 2010-07; qw09 2010-10 rev." .
+_:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/lclocal/d955> "=955 $a EL/MG 2010-07; qw09 2010-10 rev." .
+_:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/bflc/marcKey> "955 $aLCAP batch update 2025-06-01-04:00: LCAPM-861" .
+_:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/lclocal/d955> "=955 $a LCAP batch update 2025-06-01-04:00: LCAPM-861" .
+_:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/ambtin" .
+_:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/lilj" .
+_:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/flickrlilj" .
+_:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/diof" .
+_:b1031iddOtlocdOtgovresourcesinstances16318278-85X-2 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/civwar" .
+<http://id.loc.gov/resources/instances/16318278-85X-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Instance> .
+<http://id.loc.gov/resources/instances/16318278-85X-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bflc/SecondaryInstance> .
+<http://id.loc.gov/resources/instances/16318278-85X-1> <http://id.loc.gov/ontologies/bibframe/issuance> <http://id.loc.gov/vocabulary/issuance/mono> .
+<http://id.loc.gov/vocabulary/issuance/mono> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Issuance> .
+<http://id.loc.gov/vocabulary/issuance/mono> <http://www.w3.org/2000/01/rdf-schema#label> "single unit" .
+<http://id.loc.gov/vocabulary/issuance/mono> <http://id.loc.gov/ontologies/bibframe/code> "mono" .
+<http://id.loc.gov/resources/instances/16318278-85X-1> <http://id.loc.gov/ontologies/bibframe/media> <http://id.loc.gov/vocabulary/mediaTypes/c> .
+<http://id.loc.gov/vocabulary/mediaTypes/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Media> .
+<http://id.loc.gov/vocabulary/mediaTypes/c> <http://www.w3.org/2000/01/rdf-schema#label> "computer" .
+<http://id.loc.gov/vocabulary/mediaTypes/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+<http://id.loc.gov/resources/instances/16318278-85X-1> <http://id.loc.gov/ontologies/bibframe/carrier> <http://id.loc.gov/vocabulary/carriers/cr> .
+<http://id.loc.gov/vocabulary/carriers/cr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Carrier> .
+<http://id.loc.gov/vocabulary/carriers/cr> <http://www.w3.org/2000/01/rdf-schema#label> "online resource" .
+<http://id.loc.gov/vocabulary/carriers/cr> <http://id.loc.gov/ontologies/bibframe/code> "cr" .
+<http://id.loc.gov/resources/instances/16318278-85X-1> <http://id.loc.gov/ontologies/bibframe/title> _:b1113iddOtlocdOtgovresourcesinstances16318278-85X-1 .
+_:b1113iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b1113iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bibframe/mainTitle> "digital file from original item" .
+<http://id.loc.gov/resources/instances/16318278-85X-1> <http://id.loc.gov/ontologies/bibframe/electronicLocator> <http://hdl.loc.gov/loc.pnp/ppmsca.27385> .
+<http://id.loc.gov/resources/instances/16318278-85X-1> <http://purl.org/dc/terms/isPartOf> <http://id.loc.gov/resources/instances> .
+<http://id.loc.gov/resources/instances/16318278-85X-1> <http://id.loc.gov/ontologies/bibframe/instanceOf> <http://id.loc.gov/resources/works/16318278> .
+<http://id.loc.gov/resources/instances/16318278-85X-1> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b1120iddOtlocdOtgovresourcesinstances16318278-85X-1 .
+_:b1120iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b1120iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/n> .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://www.w3.org/2000/01/rdf-schema#label> "new" .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://id.loc.gov/ontologies/bibframe/code> "n" .
+_:b1120iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bibframe/date> "2010-07-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b1120iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+<http://id.loc.gov/resources/instances/16318278-85X-1> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b1141iddOtlocdOtgovresourcesinstances16318278-85X-1 .
+_:b1141iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b1141iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/c> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/2000/01/rdf-schema#label> "changed" .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+_:b1141iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bibframe/date> "2017-09-29T16:43:26"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b1141iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+<http://id.loc.gov/resources/instances/16318278-85X-1> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b1162iddOtlocdOtgovresourcesinstances16318278-85X-1 .
+_:b1162iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b1162iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/c> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/2000/01/rdf-schema#label> "changed" .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+_:b1162iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlcmrc> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress, Network Development and MARC Standards Office" .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "DLC-MRC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "dlcmrc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlcmrc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b1162iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bibframe/generationProcess> <https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.10.0> .
+_:b1162iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bibframe/date> "2025-08-17T01:31:30.199437-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://id.loc.gov/resources/instances/16318278-85X-1> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 .
+_:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bibframe/identifiedBy> _:b1186iddOtlocdOtgovresourcesinstances16318278-85X-1 .
+_:b1186iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Local> .
+_:b1186iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "16318278-85X-1" .
+_:b1186iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bibframe/assigner> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bibframe/descriptionLevel> <http://id.loc.gov/ontologies/bibframe-2-6-0/> .
+_:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bflc/encodingLevel> <http://id.loc.gov/vocabulary/menclvl/7> .
+<http://id.loc.gov/vocabulary/menclvl/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bflc/EncodingLevel> .
+<http://id.loc.gov/vocabulary/menclvl/7> <http://www.w3.org/2000/01/rdf-schema#label> "minimal" .
+<http://id.loc.gov/vocabulary/menclvl/7> <http://id.loc.gov/ontologies/bibframe/code> "7" .
+_:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bibframe/descriptionConventions> <http://id.loc.gov/vocabulary/descriptionConventions/aacr> .
+<http://id.loc.gov/vocabulary/descriptionConventions/aacr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/DescriptionConventions> .
+<http://id.loc.gov/vocabulary/descriptionConventions/aacr> <http://www.w3.org/2000/01/rdf-schema#label> "Anglo-American cataloguing rules" .
+<http://id.loc.gov/vocabulary/descriptionConventions/aacr> <http://id.loc.gov/ontologies/bibframe/code> "aacr" .
+_:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bibframe/descriptionConventions> <http://id.loc.gov/vocabulary/descriptionConventions/gihc> .
+<http://id.loc.gov/vocabulary/descriptionConventions/gihc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/DescriptionConventions> .
+<http://id.loc.gov/vocabulary/descriptionConventions/gihc> <http://www.w3.org/2000/01/rdf-schema#label> "Graphic materials" .
+<http://id.loc.gov/vocabulary/descriptionConventions/gihc> <http://id.loc.gov/ontologies/bibframe/code> "gihc" .
+_:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bibframe/note> _:b1219iddOtlocdOtgovresourcesinstances16318278-85X-1 .
+_:b1219iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b1219iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/vocabulary/mnotetype/internal> .
+_:b1219iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://www.w3.org/2000/01/rdf-schema#label> "040 $aDLC$egihc$cDLC" .
+_:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bflc/marcKey> "906 $a7$bcbc$corignew$du$encip$f20$gy-printpho" .
+_:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/lclocal/d906> "=906 $a 7 $b cbc $c orignew $d u $e ncip $f 20 $g y-printpho" .
+_:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bflc/marcKey> "955 $aEL/MG 2010-07; qw09 2010-10 rev." .
+_:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/lclocal/d955> "=955 $a EL/MG 2010-07; qw09 2010-10 rev." .
+_:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/bflc/marcKey> "955 $aLCAP batch update 2025-06-01-04:00: LCAPM-861" .
+_:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/lclocal/d955> "=955 $a LCAP batch update 2025-06-01-04:00: LCAPM-861" .
+_:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/ambtin" .
+_:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/lilj" .
+_:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/flickrlilj" .
+_:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/diof" .
+_:b1184iddOtlocdOtgovresourcesinstances16318278-85X-1 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/civwar" .
+<http://id.loc.gov/resources/items/16318278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Item> .
+<http://id.loc.gov/resources/items/16318278> <http://id.loc.gov/ontologies/bibframe/heldBy> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+<http://id.loc.gov/resources/items/16318278> <http://id.loc.gov/ontologies/bibframe/immediateAcquisition> _:b1257iddOtlocdOtgovresourcesitems16318278 .
+_:b1257iddOtlocdOtgovresourcesitems16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/ImmediateAcquisition> .
+_:b1257iddOtlocdOtgovresourcesitems16318278 <http://www.w3.org/2000/01/rdf-schema#label> "Gift; Tom Liljenquist; 2010; (DLC/PP-2010:105)." .
+<http://id.loc.gov/resources/items/16318278> <http://purl.org/dc/terms/isPartOf> <http://id.loc.gov/resources/items> .
+<http://id.loc.gov/resources/items/16318278> <http://id.loc.gov/ontologies/bibframe/itemOf> <http://id.loc.gov/resources/instances/16318278> .
+<http://id.loc.gov/resources/instances/16318278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Instance> .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/title> _:b1264iddOtlocdOtgovresourcesitems16318278 .
+_:b1264iddOtlocdOtgovresourcesitems16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b1264iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bibframe/mainTitle> "[Corporal Sidney S. Goodridge of Company K, 20th Massachusetts Infantry Regiment and Company B, 4th Massachusetts Heavy Artillery Regiment with bayoneted musket in front of shebang at Camp Benton, near Edwards Ferry, Maryland]" .
+<http://id.loc.gov/resources/instances/16318278> <http://id.loc.gov/ontologies/bibframe/publicationStatement> "[between 1861 and 1865]" .
+<http://id.loc.gov/resources/items/16318278> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b1270iddOtlocdOtgovresourcesitems16318278 .
+_:b1270iddOtlocdOtgovresourcesitems16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b1270iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/n> .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://www.w3.org/2000/01/rdf-schema#label> "new" .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://id.loc.gov/ontologies/bibframe/code> "n" .
+_:b1270iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bibframe/date> "2010-07-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b1270iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+<http://id.loc.gov/resources/items/16318278> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b1291iddOtlocdOtgovresourcesitems16318278 .
+_:b1291iddOtlocdOtgovresourcesitems16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b1291iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/c> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/2000/01/rdf-schema#label> "changed" .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+_:b1291iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bibframe/date> "2017-09-29T16:43:26"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b1291iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+<http://id.loc.gov/resources/items/16318278> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b1312iddOtlocdOtgovresourcesitems16318278 .
+_:b1312iddOtlocdOtgovresourcesitems16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b1312iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/c> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/2000/01/rdf-schema#label> "changed" .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+_:b1312iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlcmrc> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress, Network Development and MARC Standards Office" .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "DLC-MRC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "dlcmrc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlcmrc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b1312iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bibframe/generationProcess> <https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.10.0> .
+_:b1312iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bibframe/date> "2025-08-17T01:31:30.199437-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://id.loc.gov/resources/items/16318278> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b1334iddOtlocdOtgovresourcesitems16318278 .
+_:b1334iddOtlocdOtgovresourcesitems16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b1334iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bibframe/descriptionLevel> <http://id.loc.gov/ontologies/bibframe-2-6-0/> .
+_:b1334iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bflc/encodingLevel> <http://id.loc.gov/vocabulary/menclvl/7> .
+<http://id.loc.gov/vocabulary/menclvl/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bflc/EncodingLevel> .
+<http://id.loc.gov/vocabulary/menclvl/7> <http://www.w3.org/2000/01/rdf-schema#label> "minimal" .
+<http://id.loc.gov/vocabulary/menclvl/7> <http://id.loc.gov/ontologies/bibframe/code> "7" .
+_:b1334iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bibframe/descriptionConventions> <http://id.loc.gov/vocabulary/descriptionConventions/aacr> .
+<http://id.loc.gov/vocabulary/descriptionConventions/aacr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/DescriptionConventions> .
+<http://id.loc.gov/vocabulary/descriptionConventions/aacr> <http://www.w3.org/2000/01/rdf-schema#label> "Anglo-American cataloguing rules" .
+<http://id.loc.gov/vocabulary/descriptionConventions/aacr> <http://id.loc.gov/ontologies/bibframe/code> "aacr" .
+_:b1334iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bibframe/identifiedBy> _:b1349iddOtlocdOtgovresourcesitems16318278 .
+_:b1349iddOtlocdOtgovresourcesitems16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Local> .
+_:b1349iddOtlocdOtgovresourcesitems16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "16318278" .
+_:b1349iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bibframe/assigner> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b1334iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bibframe/descriptionConventions> <http://id.loc.gov/vocabulary/descriptionConventions/gihc> .
+<http://id.loc.gov/vocabulary/descriptionConventions/gihc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/DescriptionConventions> .
+<http://id.loc.gov/vocabulary/descriptionConventions/gihc> <http://www.w3.org/2000/01/rdf-schema#label> "Graphic materials" .
+<http://id.loc.gov/vocabulary/descriptionConventions/gihc> <http://id.loc.gov/ontologies/bibframe/code> "gihc" .
+_:b1334iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bibframe/note> _:b1369iddOtlocdOtgovresourcesitems16318278 .
+_:b1369iddOtlocdOtgovresourcesitems16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b1369iddOtlocdOtgovresourcesitems16318278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/vocabulary/mnotetype/internal> .
+_:b1369iddOtlocdOtgovresourcesitems16318278 <http://www.w3.org/2000/01/rdf-schema#label> "040 $aDLC$egihc$cDLC" .
+_:b1334iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bflc/marcKey> "906 $a7$bcbc$corignew$du$encip$f20$gy-printpho" .
+_:b1334iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/lclocal/d906> "=906 $a 7 $b cbc $c orignew $d u $e ncip $f 20 $g y-printpho" .
+_:b1334iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bflc/marcKey> "955 $aEL/MG 2010-07; qw09 2010-10 rev." .
+_:b1334iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/lclocal/d955> "=955 $a EL/MG 2010-07; qw09 2010-10 rev." .
+_:b1334iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/bflc/marcKey> "955 $aLCAP batch update 2025-06-01-04:00: LCAPM-861" .
+_:b1334iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/lclocal/d955> "=955 $a LCAP batch update 2025-06-01-04:00: LCAPM-861" .
+_:b1334iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/ambtin" .
+_:b1334iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/lilj" .
+_:b1334iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/flickrlilj" .
+_:b1334iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/diof" .
+_:b1334iddOtlocdOtgovresourcesitems16318278 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $a pp/civwar" .

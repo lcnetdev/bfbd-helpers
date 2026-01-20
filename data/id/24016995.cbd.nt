@@ -1,0 +1,895 @@
+<http://id.loc.gov/resources/instances/24016995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Instance> .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bibframe/provisionActivity> _:b4iddOtlocdOtgovresourcesinstances24016995 .
+_:b4iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/ProvisionActivity> .
+_:b4iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Publication> .
+_:b4iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/date> "2025"^^<http://id.loc.gov/datatypes/edtf> .
+_:b4iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/place> <http://id.loc.gov/vocabulary/countries/mau> .
+<http://id.loc.gov/vocabulary/countries/mau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Place> .
+<http://id.loc.gov/vocabulary/countries/mau> <http://www.w3.org/2000/01/rdf-schema#label> "Massachusetts"@en .
+<http://id.loc.gov/vocabulary/countries/mau> <http://id.loc.gov/ontologies/bibframe/code> "mau"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b4iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bflc/simplePlace> "Cambridge, Massachusetts" .
+_:b4iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bflc/simplePlace> "London, England" .
+_:b4iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bflc/simpleAgent> "Harvard University Press" .
+_:b4iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bflc/simpleDate> "2025" .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bibframe/publicationStatement> "Cambridge, Massachusetts; London, England: Harvard University Press, 2025" .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bibframe/identifiedBy> _:b25iddOtlocdOtgovresourcesinstances24016995 .
+_:b25iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Lccn> .
+_:b25iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> " 2025000795" .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bibframe/identifiedBy> _:b29iddOtlocdOtgovresourcesinstances24016995 .
+_:b29iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Isbn> .
+_:b29iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "9780674997684" .
+_:b29iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/qualifier> "cloth" .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bibframe/responsibilityStatement> "edited and translated by Paul Potter" .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bibframe/title> _:b37iddOtlocdOtgovresourcesinstances24016995 .
+_:b37iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b37iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Hippocrates" .
+_:b37iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/partNumber> "Volume III" .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bibframe/title> _:b43iddOtlocdOtgovresourcesinstances24016995 .
+_:b43iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b43iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/vocabulary/vartitletype/spi> .
+_:b43iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Hippocrates" .
+_:b43iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/partNumber> "III" .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bflc/projectedProvisionDate> "2508" .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bibframe/extent> _:b52iddOtlocdOtgovresourcesinstances24016995 .
+_:b52iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Extent> .
+_:b52iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/2000/01/rdf-schema#label> "pages cm" .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bibframe/issuance> <http://id.loc.gov/vocabulary/issuance/mono> .
+<http://id.loc.gov/vocabulary/issuance/mono> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Issuance> .
+<http://id.loc.gov/vocabulary/issuance/mono> <http://www.w3.org/2000/01/rdf-schema#label> "single unit" .
+<http://id.loc.gov/vocabulary/issuance/mono> <http://id.loc.gov/ontologies/bibframe/code> "mono" .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bibframe/media> <http://id.loc.gov/vocabulary/mediaTypes/n> .
+<http://id.loc.gov/vocabulary/mediaTypes/n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Media> .
+<http://id.loc.gov/vocabulary/mediaTypes/n> <http://www.w3.org/2000/01/rdf-schema#label> "unmediated" .
+<http://id.loc.gov/vocabulary/mediaTypes/n> <http://id.loc.gov/ontologies/bibframe/code> "n" .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bibframe/carrier> <http://id.loc.gov/vocabulary/carriers/nc> .
+<http://id.loc.gov/vocabulary/carriers/nc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Carrier> .
+<http://id.loc.gov/vocabulary/carriers/nc> <http://www.w3.org/2000/01/rdf-schema#label> "volume" .
+<http://id.loc.gov/vocabulary/carriers/nc> <http://id.loc.gov/ontologies/bibframe/code> "nc" .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bibframe/note> _:b74iddOtlocdOtgovresourcesinstances24016995 .
+_:b74iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b74iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/vocabulary/mnotetype/biblio> .
+_:b74iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/2000/01/rdf-schema#label> "Includes bibliographical references and index." .
+<http://id.loc.gov/resources/instances/24016995> <http://purl.org/dc/terms/isPartOf> <http://id.loc.gov/resources/instances> .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bibframe/instanceOf> <http://id.loc.gov/resources/works/24016995> .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b81iddOtlocdOtgovresourcesinstances24016995 .
+_:b81iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b81iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/n> .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://www.w3.org/2000/01/rdf-schema#label> "new" .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://id.loc.gov/ontologies/bibframe/code> "n" .
+_:b81iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/date> "2025-02-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b81iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/agent> _:b91iddOtlocdOtgovresourcesinstances24016995 .
+_:b91iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+_:b91iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/code> "UPB/DLC" .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b95iddOtlocdOtgovresourcesinstances24016995 .
+_:b95iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b95iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/c> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/2000/01/rdf-schema#label> "changed" .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+_:b95iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/date> "2025-07-16T10:11:11"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b95iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/descriptionModifier> _:b105iddOtlocdOtgovresourcesinstances24016995 .
+_:b105iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+_:b105iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/code> "UPB/DLC" .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b109iddOtlocdOtgovresourcesinstances24016995 .
+_:b109iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b109iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/c> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/2000/01/rdf-schema#label> "changed" .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+_:b109iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/date> "2025-07-16"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b109iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b109iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/generationProcess> <https://github.com/lcnetdev/bibframe2marc/releases/tag/v2.10-dev> .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b131iddOtlocdOtgovresourcesinstances24016995 .
+_:b131iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b131iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/c> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/2000/01/rdf-schema#label> "changed" .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+_:b131iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlcmrc> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress, Network Development and MARC Standards Office" .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "DLC-MRC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "dlcmrc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlcmrc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b131iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/generationProcess> <https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.10.0> .
+_:b131iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/date> "2025-08-16T04:57:01.168961-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://id.loc.gov/resources/instances/24016995> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b153iddOtlocdOtgovresourcesinstances24016995 .
+_:b153iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b153iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/descriptionLevel> <http://id.loc.gov/ontologies/bibframe-2-6-0/> .
+_:b153iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bflc/encodingLevel> <http://id.loc.gov/vocabulary/menclvl/8> .
+<http://id.loc.gov/vocabulary/menclvl/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bflc/EncodingLevel> .
+<http://id.loc.gov/vocabulary/menclvl/8> <http://www.w3.org/2000/01/rdf-schema#label> "prepublication" .
+<http://id.loc.gov/vocabulary/menclvl/8> <http://id.loc.gov/ontologies/bibframe/code> "8" .
+_:b153iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/descriptionConventions> <http://id.loc.gov/vocabulary/descriptionConventions/isbd> .
+<http://id.loc.gov/vocabulary/descriptionConventions/isbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/DescriptionConventions> .
+<http://id.loc.gov/vocabulary/descriptionConventions/isbd> <http://www.w3.org/2000/01/rdf-schema#label> "ISBD: International standard bibliographic description" .
+<http://id.loc.gov/vocabulary/descriptionConventions/isbd> <http://id.loc.gov/ontologies/bibframe/code> "isbd" .
+_:b153iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/identifiedBy> _:b168iddOtlocdOtgovresourcesinstances24016995 .
+_:b168iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Local> .
+_:b168iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "24016995" .
+_:b168iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/assigner> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b153iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bflc/marcKey> "906 $a7$bcbc$corignew$d1$eecip$f20$gy-gencatlg" .
+_:b153iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/lclocal/d906> "=906 $a 7 $b cbc $c orignew $d 1 $e ecip $f 20 $g y-gencatlg" .
+_:b153iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bflc/marcKey> "9250 $aacquire$b1 shelf copy$xpolicy default" .
+_:b153iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/lclocal/d925> "=925 0 $a acquire $b 1 shelf copy $x policy default" .
+_:b153iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bflc/marcKey> "955 $bUPB 2025-02-03$erp05 2025-02-06 to Dewey$wxm08 2025-07-16 Telework" .
+_:b153iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/lclocal/d955> "=955 $b UPB 2025-02-03 $e rp05 2025-02-06 to Dewey $w xm08 2025-07-16 Telework" .
+_:b153iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/descriptionLanguage> <http://id.loc.gov/vocabulary/languages/eng> .
+<http://id.loc.gov/vocabulary/languages/eng> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Language> .
+<http://id.loc.gov/vocabulary/languages/eng> <http://www.w3.org/2000/01/rdf-schema#label> "English"@en .
+<http://id.loc.gov/vocabulary/languages/eng> <http://id.loc.gov/ontologies/bibframe/code> "eng"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b153iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/descriptionConventions> <http://id.loc.gov/vocabulary/descriptionConventions/rda> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/DescriptionConventions> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rda> <http://www.w3.org/2000/01/rdf-schema#label> "Resource description and access" .
+<http://id.loc.gov/vocabulary/descriptionConventions/rda> <http://id.loc.gov/ontologies/bibframe/code> "rda" .
+_:b153iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/note> _:b206iddOtlocdOtgovresourcesinstances24016995 .
+_:b206iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b206iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/vocabulary/mnotetype/internal> .
+_:b206iddOtlocdOtgovresourcesinstances24016995 <http://www.w3.org/2000/01/rdf-schema#label> "040 $aUPB/DLC$beng$erda$cDLC$dUPB/DLC$dDLC-MRC$dUPB/DLC" .
+_:b153iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/bibframe/descriptionAuthentication> <http://id.loc.gov/vocabulary/marcauthen/pcc> .
+<http://id.loc.gov/vocabulary/marcauthen/pcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/DescriptionAuthentication> .
+<http://id.loc.gov/vocabulary/marcauthen/pcc> <http://www.w3.org/2000/01/rdf-schema#label> "Program for Cooperative Cataloging" .
+<http://id.loc.gov/vocabulary/marcauthen/pcc> <http://id.loc.gov/ontologies/bibframe/code> "pcc" .
+_:b153iddOtlocdOtgovresourcesinstances24016995 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $e BIBFRAME $d 2025-07-16T10:09:43" .
+<http://id.loc.gov/resources/works/24016995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Work> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bflc/aap> "Hippocrates. Hippocrates. Volume III" .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bflc/aap-normalized> "hippocrateshippocratesvolumeiii" .
+<http://id.loc.gov/resources/works/24016995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Text> .
+<http://id.loc.gov/resources/works/24016995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Monograph> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/eng> .
+<http://id.loc.gov/vocabulary/languages/eng> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Language> .
+<http://id.loc.gov/vocabulary/languages/eng> <http://www.w3.org/2000/01/rdf-schema#label> "English"@en .
+<http://id.loc.gov/vocabulary/languages/eng> <http://id.loc.gov/ontologies/bibframe/code> "eng"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/grc> .
+<http://id.loc.gov/vocabulary/languages/grc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Language> .
+<http://id.loc.gov/vocabulary/languages/grc> <http://www.w3.org/2000/01/rdf-schema#label> "Greek, Ancient (to 1453)"@en .
+<http://id.loc.gov/vocabulary/languages/grc> <http://id.loc.gov/ontologies/bibframe/code> "grc"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/accompaniedBy> _:b238iddOtlocdOtgovresourcesworks24016995 .
+_:b238iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Work> .
+_:b238iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/vocabulary/resourceComponents/amt> .
+_:b238iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/eng> .
+<http://id.loc.gov/vocabulary/languages/eng> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Language> .
+<http://id.loc.gov/vocabulary/languages/eng> <http://www.w3.org/2000/01/rdf-schema#label> "English"@en .
+<http://id.loc.gov/vocabulary/languages/eng> <http://id.loc.gov/ontologies/bibframe/code> "eng"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/note> _:b247iddOtlocdOtgovresourcesworks24016995 .
+_:b247iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b247iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/vocabulary/resourceComponents/otx> .
+_:b247iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/grc> .
+<http://id.loc.gov/vocabulary/languages/grc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Language> .
+<http://id.loc.gov/vocabulary/languages/grc> <http://www.w3.org/2000/01/rdf-schema#label> "Greek, Ancient (to 1453)"@en .
+<http://id.loc.gov/vocabulary/languages/grc> <http://id.loc.gov/ontologies/bibframe/code> "grc"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/classification> _:b256iddOtlocdOtgovresourcesworks24016995 .
+_:b256iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/ClassificationLcc> .
+_:b256iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/classificationPortion> "R126" .
+_:b256iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/itemPortion> ".H4 2025" .
+_:b256iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/assigner> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b256iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/uba> .
+<http://id.loc.gov/vocabulary/mstatus/uba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/uba> <http://www.w3.org/2000/01/rdf-schema#label> "used by assigner" .
+<http://id.loc.gov/vocabulary/mstatus/uba> <http://id.loc.gov/ontologies/bibframe/code> "uba" .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/classification> _:b278iddOtlocdOtgovresourcesworks24016995 .
+_:b278iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/ClassificationDdc> .
+_:b278iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/classificationPortion> "610.938" .
+_:b278iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/source> _:b282iddOtlocdOtgovresourcesworks24016995 .
+_:b282iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Source> .
+_:b282iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/code> "23/eng/20250716" .
+_:b278iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/edition> "full" .
+_:b278iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/assigner> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/contribution> _:b298iddOtlocdOtgovresourcesworks24016995 .
+_:b298iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b298iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b298iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n79005643> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+<http://id.loc.gov/rwo/agents/n79005643> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates" .
+_:b298iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/aut> .
+<http://id.loc.gov/vocabulary/relators/aut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/aut> <http://www.w3.org/2000/01/rdf-schema#label> "author" .
+<http://id.loc.gov/vocabulary/relators/aut> <http://id.loc.gov/ontologies/bibframe/code> "aut" .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/title> _:b314iddOtlocdOtgovresourcesworks24016995 .
+_:b314iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b314iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Hippocrates" .
+_:b314iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/partNumber> "Volume III" .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/title> _:b320iddOtlocdOtgovresourcesworks24016995 .
+_:b320iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b320iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Hippocrates" .
+_:b320iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/partNumber> "Volume 3" .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/title> _:b326iddOtlocdOtgovresourcesworks24016995 .
+_:b326iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b326iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Hippocrates" .
+_:b326iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/partNumber> "Volume three" .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/content> <http://id.loc.gov/vocabulary/contentTypes/txt> .
+<http://id.loc.gov/vocabulary/contentTypes/txt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Content> .
+<http://id.loc.gov/vocabulary/contentTypes/txt> <http://www.w3.org/2000/01/rdf-schema#label> "text" .
+<http://id.loc.gov/vocabulary/contentTypes/txt> <http://id.loc.gov/ontologies/bibframe/code> "txt" .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/supplementaryContent> <http://id.loc.gov/vocabulary/msupplcont/bibliography> .
+<http://id.loc.gov/vocabulary/msupplcont/bibliography> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/SupplementaryContent> .
+<http://id.loc.gov/vocabulary/msupplcont/bibliography> <http://www.w3.org/2000/01/rdf-schema#label> "bibliography" .
+<http://id.loc.gov/vocabulary/msupplcont/bibliography> <http://id.loc.gov/ontologies/bibframe/code> "bibliography" .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/supplementaryContent> <http://id.loc.gov/vocabulary/msupplcont/index> .
+<http://id.loc.gov/vocabulary/msupplcont/index> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/SupplementaryContent> .
+<http://id.loc.gov/vocabulary/msupplcont/index> <http://www.w3.org/2000/01/rdf-schema#label> "index" .
+<http://id.loc.gov/vocabulary/msupplcont/index> <http://id.loc.gov/ontologies/bibframe/code> "index" .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/tableOfContents> _:b350iddOtlocdOtgovresourcesworks24016995 .
+_:b350iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/TableOfContents> .
+_:b350iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/2000/01/rdf-schema#label> "Wounds in the head -- In the surgery -- Fractures -- Joints -- Instruments of reduction." .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/summary> _:b354iddOtlocdOtgovresourcesworks24016995 .
+_:b354iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Summary> .
+_:b354iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/2000/01/rdf-schema#label> "\"This is the third volume in the Loeb Classical Library's complete edition of Hippocrates' invaluable texts, which provide essential information about the practice of medicine in antiquity and about Greek theories concerning the human body. The five treatises in this volume, integral parts of the Hippocratic collection, are devoted to the art of surgery in treating injuries or disorders of the bones and their articulations. Wounds in the Head includes an anatomical introduction and many methods useful in diagnosis, prognosis, and management; In the Surgery surveys the surgeon's office, staff, equipment, and general practice; Fractures and Joints deliver technical information with rhetorical flair; and Instruments of Reduction is a head-to-toe account of human bones, their injuries, and applicable treatments. This Loeb edition replaces the original by E. T. Withington\"-- Provided by publisher." .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/note> _:b358iddOtlocdOtgovresourcesworks24016995 .
+_:b358iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b358iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/vocabulary/mnotetype/lang> .
+_:b358iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/2000/01/rdf-schema#label> "Text in Greek with English translation on facing pages ; introduction and notes in English." .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/subject> <http://id.loc.gov/resources/hubs/77d24ae8-b3a9-5163-2123-acf0f0463f5b> .
+<http://id.loc.gov/resources/hubs/77d24ae8-b3a9-5163-2123-acf0f0463f5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Hub> .
+<http://id.loc.gov/resources/hubs/77d24ae8-b3a9-5163-2123-acf0f0463f5b> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates. De capitis vulneribus" .
+<http://id.loc.gov/resources/hubs/77d24ae8-b3a9-5163-2123-acf0f0463f5b> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tDe capitis vulneribus" .
+<http://id.loc.gov/resources/hubs/77d24ae8-b3a9-5163-2123-acf0f0463f5b> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tΠερὶ τῶν ἐν κεφαλῇ τρωμάτων"@zxx-grek .
+<http://id.loc.gov/resources/hubs/77d24ae8-b3a9-5163-2123-acf0f0463f5b> <http://id.loc.gov/ontologies/bibframe/contribution> _:b371iddOtlocdOtgovresourcesworks24016995 .
+_:b371iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b371iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b371iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n79005643> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+<http://id.loc.gov/rwo/agents/n79005643> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates" .
+_:b371iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/ctb> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://id.loc.gov/ontologies/bibframe/code> "ctb" .
+<http://id.loc.gov/resources/hubs/77d24ae8-b3a9-5163-2123-acf0f0463f5b> <http://id.loc.gov/ontologies/bibframe/title> _:b387iddOtlocdOtgovresourcesworks24016995 .
+_:b387iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b387iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "De capitis vulneribus" .
+<http://id.loc.gov/resources/hubs/77d24ae8-b3a9-5163-2123-acf0f0463f5b> <http://id.loc.gov/ontologies/bibframe/title> _:b391iddOtlocdOtgovresourcesworks24016995 .
+_:b391iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b391iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Περὶ τῶν ἐν κεφαλῇ τρωμάτων"@zxx-grek .
+<http://id.loc.gov/resources/hubs/77d24ae8-b3a9-5163-2123-acf0f0463f5b> <http://id.loc.gov/ontologies/bibframe/title> _:b395iddOtlocdOtgovresourcesworks24016995 .
+_:b395iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b395iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Peri tōn en kephalē trōmatōn"@zxx-latn .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/subject> <http://id.loc.gov/resources/hubs/9133ee33-05f7-3e34-95d8-fb2b3e2f32d8> .
+<http://id.loc.gov/resources/hubs/9133ee33-05f7-3e34-95d8-fb2b3e2f32d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Hub> .
+<http://id.loc.gov/resources/hubs/9133ee33-05f7-3e34-95d8-fb2b3e2f32d8> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates. De officina medici" .
+<http://id.loc.gov/resources/hubs/9133ee33-05f7-3e34-95d8-fb2b3e2f32d8> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tDe officina medici" .
+<http://id.loc.gov/resources/hubs/9133ee33-05f7-3e34-95d8-fb2b3e2f32d8> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tΚατ' ἰητρεῖον"@zxx-grek .
+<http://id.loc.gov/resources/hubs/9133ee33-05f7-3e34-95d8-fb2b3e2f32d8> <http://id.loc.gov/ontologies/bibframe/contribution> _:b407iddOtlocdOtgovresourcesworks24016995 .
+_:b407iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b407iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b407iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n79005643> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+<http://id.loc.gov/rwo/agents/n79005643> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates" .
+_:b407iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/ctb> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://id.loc.gov/ontologies/bibframe/code> "ctb" .
+<http://id.loc.gov/resources/hubs/9133ee33-05f7-3e34-95d8-fb2b3e2f32d8> <http://id.loc.gov/ontologies/bibframe/title> _:b423iddOtlocdOtgovresourcesworks24016995 .
+_:b423iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b423iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "De officina medici" .
+<http://id.loc.gov/resources/hubs/9133ee33-05f7-3e34-95d8-fb2b3e2f32d8> <http://id.loc.gov/ontologies/bibframe/title> _:b427iddOtlocdOtgovresourcesworks24016995 .
+_:b427iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b427iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Κατ' ἰητρεῖον"@zxx-grek .
+<http://id.loc.gov/resources/hubs/9133ee33-05f7-3e34-95d8-fb2b3e2f32d8> <http://id.loc.gov/ontologies/bibframe/title> _:b431iddOtlocdOtgovresourcesworks24016995 .
+_:b431iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b431iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Kat' iētreion"@zxx-latn .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/subject> <http://id.loc.gov/resources/hubs/8d4d6d18-8a5e-9e06-2391-155d51603b81> .
+<http://id.loc.gov/resources/hubs/8d4d6d18-8a5e-9e06-2391-155d51603b81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Hub> .
+<http://id.loc.gov/resources/hubs/8d4d6d18-8a5e-9e06-2391-155d51603b81> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates. De fracturis" .
+<http://id.loc.gov/resources/hubs/8d4d6d18-8a5e-9e06-2391-155d51603b81> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tDe fracturis" .
+<http://id.loc.gov/resources/hubs/8d4d6d18-8a5e-9e06-2391-155d51603b81> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tΠερὶ ἀγμῶν"@zxx-grek .
+<http://id.loc.gov/resources/hubs/8d4d6d18-8a5e-9e06-2391-155d51603b81> <http://id.loc.gov/ontologies/bibframe/contribution> _:b443iddOtlocdOtgovresourcesworks24016995 .
+_:b443iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b443iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b443iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n79005643> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+<http://id.loc.gov/rwo/agents/n79005643> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates" .
+_:b443iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/ctb> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://id.loc.gov/ontologies/bibframe/code> "ctb" .
+<http://id.loc.gov/resources/hubs/8d4d6d18-8a5e-9e06-2391-155d51603b81> <http://id.loc.gov/ontologies/bibframe/title> _:b459iddOtlocdOtgovresourcesworks24016995 .
+_:b459iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b459iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "De fracturis" .
+<http://id.loc.gov/resources/hubs/8d4d6d18-8a5e-9e06-2391-155d51603b81> <http://id.loc.gov/ontologies/bibframe/title> _:b463iddOtlocdOtgovresourcesworks24016995 .
+_:b463iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b463iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Περὶ ἀγμῶν"@zxx-grek .
+<http://id.loc.gov/resources/hubs/8d4d6d18-8a5e-9e06-2391-155d51603b81> <http://id.loc.gov/ontologies/bibframe/title> _:b467iddOtlocdOtgovresourcesworks24016995 .
+_:b467iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b467iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Peri agmōn"@zxx-latn .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/subject> <http://id.loc.gov/resources/hubs/7dcf0d3c-6514-1475-3416-ff47a9197e18> .
+<http://id.loc.gov/resources/hubs/7dcf0d3c-6514-1475-3416-ff47a9197e18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Hub> .
+<http://id.loc.gov/resources/hubs/7dcf0d3c-6514-1475-3416-ff47a9197e18> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates. De articulis" .
+<http://id.loc.gov/resources/hubs/7dcf0d3c-6514-1475-3416-ff47a9197e18> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tDe articulis" .
+<http://id.loc.gov/resources/hubs/7dcf0d3c-6514-1475-3416-ff47a9197e18> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tΠερὶ ἄρθρων"@zxx-grek .
+<http://id.loc.gov/resources/hubs/7dcf0d3c-6514-1475-3416-ff47a9197e18> <http://id.loc.gov/ontologies/bibframe/contribution> _:b479iddOtlocdOtgovresourcesworks24016995 .
+_:b479iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b479iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b479iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n79005643> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+<http://id.loc.gov/rwo/agents/n79005643> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates" .
+_:b479iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/ctb> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://id.loc.gov/ontologies/bibframe/code> "ctb" .
+<http://id.loc.gov/resources/hubs/7dcf0d3c-6514-1475-3416-ff47a9197e18> <http://id.loc.gov/ontologies/bibframe/title> _:b495iddOtlocdOtgovresourcesworks24016995 .
+_:b495iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b495iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "De articulis" .
+<http://id.loc.gov/resources/hubs/7dcf0d3c-6514-1475-3416-ff47a9197e18> <http://id.loc.gov/ontologies/bibframe/title> _:b499iddOtlocdOtgovresourcesworks24016995 .
+_:b499iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b499iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Περὶ ἄρθρων"@zxx-grek .
+<http://id.loc.gov/resources/hubs/7dcf0d3c-6514-1475-3416-ff47a9197e18> <http://id.loc.gov/ontologies/bibframe/title> _:b503iddOtlocdOtgovresourcesworks24016995 .
+_:b503iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b503iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Peri arthrōn"@zxx-latn .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/subject> <http://id.loc.gov/resources/hubs/137b9ceb-6692-6169-12b8-88e97177c059> .
+<http://id.loc.gov/resources/hubs/137b9ceb-6692-6169-12b8-88e97177c059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Hub> .
+<http://id.loc.gov/resources/hubs/137b9ceb-6692-6169-12b8-88e97177c059> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates. Vectiarius" .
+<http://id.loc.gov/resources/hubs/137b9ceb-6692-6169-12b8-88e97177c059> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tVectiarius" .
+<http://id.loc.gov/resources/hubs/137b9ceb-6692-6169-12b8-88e97177c059> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tΜοχλικόν"@zxx-grek .
+<http://id.loc.gov/resources/hubs/137b9ceb-6692-6169-12b8-88e97177c059> <http://id.loc.gov/ontologies/bibframe/contribution> _:b515iddOtlocdOtgovresourcesworks24016995 .
+_:b515iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b515iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b515iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n79005643> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+<http://id.loc.gov/rwo/agents/n79005643> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates" .
+_:b515iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/ctb> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://id.loc.gov/ontologies/bibframe/code> "ctb" .
+<http://id.loc.gov/resources/hubs/137b9ceb-6692-6169-12b8-88e97177c059> <http://id.loc.gov/ontologies/bibframe/title> _:b531iddOtlocdOtgovresourcesworks24016995 .
+_:b531iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b531iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Vectiarius" .
+<http://id.loc.gov/resources/hubs/137b9ceb-6692-6169-12b8-88e97177c059> <http://id.loc.gov/ontologies/bibframe/title> _:b535iddOtlocdOtgovresourcesworks24016995 .
+_:b535iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b535iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Μοχλικόν"@zxx-grek .
+<http://id.loc.gov/resources/hubs/137b9ceb-6692-6169-12b8-88e97177c059> <http://id.loc.gov/ontologies/bibframe/title> _:b539iddOtlocdOtgovresourcesworks24016995 .
+_:b539iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b539iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Mochlikon"@zxx-latn .
+<http://id.loc.gov/resources/hubs/137b9ceb-6692-6169-12b8-88e97177c059> <http://id.loc.gov/ontologies/bibframe/title> _:b543iddOtlocdOtgovresourcesworks24016995 .
+_:b543iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b543iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Μοχλικός"@zxx-grek .
+<http://id.loc.gov/resources/hubs/137b9ceb-6692-6169-12b8-88e97177c059> <http://id.loc.gov/ontologies/bibframe/title> _:b547iddOtlocdOtgovresourcesworks24016995 .
+_:b547iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b547iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Mochlikos"@zxx-latn .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/subject> <http://id.loc.gov/authorities/subjects/sh85083142> .
+<http://id.loc.gov/authorities/subjects/sh85083142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Topic> .
+<http://id.loc.gov/authorities/subjects/sh85083142> <http://www.w3.org/2000/01/rdf-schema#label> "Medicine, Greek and Roman"@en .
+<http://id.loc.gov/authorities/subjects/sh85083142> <http://id.loc.gov/ontologies/bflc/marcKey> "150 $aMedicine, Greek and Roman" .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/contribution> _:b557iddOtlocdOtgovresourcesworks24016995 .
+_:b557iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b557iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n81031783> .
+<http://id.loc.gov/rwo/agents/n81031783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n81031783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n81031783> <http://www.w3.org/2000/01/rdf-schema#label> "Potter, Paul, 1944-" .
+<http://id.loc.gov/rwo/agents/n81031783> <http://id.loc.gov/ontologies/bflc/marcKey> "1001 $aPotter, Paul,$d1944-" .
+_:b557iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/edt> .
+<http://id.loc.gov/vocabulary/relators/edt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/edt> <http://www.w3.org/2000/01/rdf-schema#label> "editor" .
+<http://id.loc.gov/vocabulary/relators/edt> <http://id.loc.gov/ontologies/bibframe/code> "edt" .
+_:b557iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/trl> .
+<http://id.loc.gov/vocabulary/relators/trl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/trl> <http://www.w3.org/2000/01/rdf-schema#label> "translator" .
+<http://id.loc.gov/vocabulary/relators/trl> <http://id.loc.gov/ontologies/bibframe/code> "trl" .
+<http://id.loc.gov/resources/works/24016995> <http://purl.org/dc/terms/isPartOf> <http://id.loc.gov/resources/works> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/relation> _:b579iddOtlocdOtgovresourcesworks24016995 .
+_:b579iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relation> .
+_:b579iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/relationship> <http://id.loc.gov/vocabulary/relationship/series> .
+<http://id.loc.gov/vocabulary/relationship/series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relationship> .
+<http://id.loc.gov/vocabulary/relationship/series> <http://www.w3.org/2000/01/rdf-schema#label> "series" .
+<http://id.loc.gov/vocabulary/relationship/series> <http://id.loc.gov/ontologies/bibframe/code> "series" .
+_:b579iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/seriesEnumeration> "LCL 149" .
+_:b579iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/associatedResource> _:b589iddOtlocdOtgovresourcesworks24016995 .
+_:b589iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Series> .
+_:b589iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bflc/Uncontrolled> .
+_:b589iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/t> .
+<http://id.loc.gov/vocabulary/mstatus/t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/t> <http://www.w3.org/2000/01/rdf-schema#label> "transcribed" .
+<http://id.loc.gov/vocabulary/mstatus/t> <http://id.loc.gov/ontologies/bibframe/code> "t" .
+_:b589iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/tr> .
+<http://id.loc.gov/vocabulary/mstatus/tr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/tr> <http://www.w3.org/2000/01/rdf-schema#label> "traced" .
+<http://id.loc.gov/vocabulary/mstatus/tr> <http://id.loc.gov/ontologies/bibframe/code> "tr" .
+_:b589iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/title> _:b604iddOtlocdOtgovresourcesworks24016995 .
+_:b604iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b604iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Loeb classical library" .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/relation> _:b608iddOtlocdOtgovresourcesworks24016995 .
+_:b608iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relation> .
+_:b608iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/relationship> <http://id.loc.gov/vocabulary/relationship/part> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relationship> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/2000/01/rdf-schema#label> "part" .
+<http://id.loc.gov/vocabulary/relationship/part> <http://id.loc.gov/ontologies/bibframe/code> "part" .
+_:b608iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/associatedResource> <http://id.loc.gov/resources/hubs/c671f6eb-cfd8-8e4a-1322-f57bdd450eaa> .
+<http://id.loc.gov/resources/hubs/c671f6eb-cfd8-8e4a-1322-f57bdd450eaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Hub> .
+<http://id.loc.gov/resources/hubs/c671f6eb-cfd8-8e4a-1322-f57bdd450eaa> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates. De capitis vulneribus. English" .
+<http://id.loc.gov/resources/hubs/c671f6eb-cfd8-8e4a-1322-f57bdd450eaa> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tDe capitis vulneribus.$lEnglish." .
+<http://id.loc.gov/resources/hubs/c671f6eb-cfd8-8e4a-1322-f57bdd450eaa> <http://id.loc.gov/ontologies/bibframe/contribution> _:b622iddOtlocdOtgovresourcesworks24016995 .
+_:b622iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b622iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b622iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n79005643> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+<http://id.loc.gov/rwo/agents/n79005643> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates" .
+_:b622iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/ctb> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://id.loc.gov/ontologies/bibframe/code> "ctb" .
+<http://id.loc.gov/resources/hubs/c671f6eb-cfd8-8e4a-1322-f57bdd450eaa> <http://id.loc.gov/ontologies/bibframe/title> _:b638iddOtlocdOtgovresourcesworks24016995 .
+_:b638iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b638iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "De capitis vulneribus. English." .
+<http://id.loc.gov/resources/hubs/c671f6eb-cfd8-8e4a-1322-f57bdd450eaa> <http://id.loc.gov/ontologies/bibframe/title> _:b642iddOtlocdOtgovresourcesworks24016995 .
+_:b642iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b642iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "On wounds in the head"@zxx-latn .
+<http://id.loc.gov/resources/hubs/c671f6eb-cfd8-8e4a-1322-f57bdd450eaa> <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/eng> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/relation> _:b647iddOtlocdOtgovresourcesworks24016995 .
+_:b647iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relation> .
+_:b647iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/relationship> <http://id.loc.gov/vocabulary/relationship/part> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relationship> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/2000/01/rdf-schema#label> "part" .
+<http://id.loc.gov/vocabulary/relationship/part> <http://id.loc.gov/ontologies/bibframe/code> "part" .
+_:b647iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/associatedResource> <http://id.loc.gov/resources/hubs/2bf88010-0a30-ca61-28ce-5c17687e5037> .
+<http://id.loc.gov/resources/hubs/2bf88010-0a30-ca61-28ce-5c17687e5037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Hub> .
+<http://id.loc.gov/resources/hubs/2bf88010-0a30-ca61-28ce-5c17687e5037> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates. De capitis vulneribus. Greek" .
+<http://id.loc.gov/resources/hubs/2bf88010-0a30-ca61-28ce-5c17687e5037> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tDe capitis vulneribus.$lGreek." .
+<http://id.loc.gov/resources/hubs/2bf88010-0a30-ca61-28ce-5c17687e5037> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tΠερὶ τῶν ἐν κεφαλῇ τρωμάτων"@zxx-grek .
+<http://id.loc.gov/resources/hubs/2bf88010-0a30-ca61-28ce-5c17687e5037> <http://id.loc.gov/ontologies/bibframe/contribution> _:b663iddOtlocdOtgovresourcesworks24016995 .
+_:b663iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b663iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b663iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n79005643> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+<http://id.loc.gov/rwo/agents/n79005643> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates" .
+_:b663iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/ctb> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://id.loc.gov/ontologies/bibframe/code> "ctb" .
+<http://id.loc.gov/resources/hubs/2bf88010-0a30-ca61-28ce-5c17687e5037> <http://id.loc.gov/ontologies/bibframe/title> _:b679iddOtlocdOtgovresourcesworks24016995 .
+_:b679iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b679iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "De capitis vulneribus. Greek." .
+<http://id.loc.gov/resources/hubs/2bf88010-0a30-ca61-28ce-5c17687e5037> <http://id.loc.gov/ontologies/bibframe/title> _:b683iddOtlocdOtgovresourcesworks24016995 .
+_:b683iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b683iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Περὶ τῶν ἐν κεφαλῇ τρωμάτων"@zxx-grek .
+<http://id.loc.gov/resources/hubs/2bf88010-0a30-ca61-28ce-5c17687e5037> <http://id.loc.gov/ontologies/bibframe/title> _:b687iddOtlocdOtgovresourcesworks24016995 .
+_:b687iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b687iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Peri tōn en kephalē trōmatōn"@zxx-latn .
+<http://id.loc.gov/resources/hubs/2bf88010-0a30-ca61-28ce-5c17687e5037> <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/grc> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/relation> _:b692iddOtlocdOtgovresourcesworks24016995 .
+_:b692iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relation> .
+_:b692iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/relationship> <http://id.loc.gov/vocabulary/relationship/part> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relationship> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/2000/01/rdf-schema#label> "part" .
+<http://id.loc.gov/vocabulary/relationship/part> <http://id.loc.gov/ontologies/bibframe/code> "part" .
+_:b692iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/associatedResource> <http://id.loc.gov/resources/hubs/3d71a023-0b4b-8cd1-59d7-4e71f138512d> .
+<http://id.loc.gov/resources/hubs/3d71a023-0b4b-8cd1-59d7-4e71f138512d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Hub> .
+<http://id.loc.gov/resources/hubs/3d71a023-0b4b-8cd1-59d7-4e71f138512d> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates. De officina medici. English" .
+<http://id.loc.gov/resources/hubs/3d71a023-0b4b-8cd1-59d7-4e71f138512d> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tDe officina medici.$lEnglish." .
+<http://id.loc.gov/resources/hubs/3d71a023-0b4b-8cd1-59d7-4e71f138512d> <http://id.loc.gov/ontologies/bibframe/contribution> _:b706iddOtlocdOtgovresourcesworks24016995 .
+_:b706iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b706iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b706iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n79005643> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+<http://id.loc.gov/rwo/agents/n79005643> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates" .
+_:b706iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/ctb> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://id.loc.gov/ontologies/bibframe/code> "ctb" .
+<http://id.loc.gov/resources/hubs/3d71a023-0b4b-8cd1-59d7-4e71f138512d> <http://id.loc.gov/ontologies/bibframe/title> _:b722iddOtlocdOtgovresourcesworks24016995 .
+_:b722iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b722iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "De officina medici. English." .
+<http://id.loc.gov/resources/hubs/3d71a023-0b4b-8cd1-59d7-4e71f138512d> <http://id.loc.gov/ontologies/bibframe/title> _:b726iddOtlocdOtgovresourcesworks24016995 .
+_:b726iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b726iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "In the surgery"@zxx-latn .
+<http://id.loc.gov/resources/hubs/3d71a023-0b4b-8cd1-59d7-4e71f138512d> <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/eng> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/relation> _:b731iddOtlocdOtgovresourcesworks24016995 .
+_:b731iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relation> .
+_:b731iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/relationship> <http://id.loc.gov/vocabulary/relationship/part> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relationship> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/2000/01/rdf-schema#label> "part" .
+<http://id.loc.gov/vocabulary/relationship/part> <http://id.loc.gov/ontologies/bibframe/code> "part" .
+_:b731iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/associatedResource> <http://id.loc.gov/resources/hubs/bc147f6e-05d3-502a-e44d-fd69ceb14aa9> .
+<http://id.loc.gov/resources/hubs/bc147f6e-05d3-502a-e44d-fd69ceb14aa9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Hub> .
+<http://id.loc.gov/resources/hubs/bc147f6e-05d3-502a-e44d-fd69ceb14aa9> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates. De officina medici. Greek" .
+<http://id.loc.gov/resources/hubs/bc147f6e-05d3-502a-e44d-fd69ceb14aa9> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tDe officina medici.$lGreek." .
+<http://id.loc.gov/resources/hubs/bc147f6e-05d3-502a-e44d-fd69ceb14aa9> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tἹπποκράτους Κατ' ἰητρεῖον"@zxx-grek .
+<http://id.loc.gov/resources/hubs/bc147f6e-05d3-502a-e44d-fd69ceb14aa9> <http://id.loc.gov/ontologies/bibframe/contribution> _:b747iddOtlocdOtgovresourcesworks24016995 .
+_:b747iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b747iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b747iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n79005643> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+<http://id.loc.gov/rwo/agents/n79005643> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates" .
+_:b747iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/ctb> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://id.loc.gov/ontologies/bibframe/code> "ctb" .
+<http://id.loc.gov/resources/hubs/bc147f6e-05d3-502a-e44d-fd69ceb14aa9> <http://id.loc.gov/ontologies/bibframe/title> _:b763iddOtlocdOtgovresourcesworks24016995 .
+_:b763iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b763iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "De officina medici. Greek." .
+<http://id.loc.gov/resources/hubs/bc147f6e-05d3-502a-e44d-fd69ceb14aa9> <http://id.loc.gov/ontologies/bibframe/title> _:b767iddOtlocdOtgovresourcesworks24016995 .
+_:b767iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b767iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Ἱπποκράτους Κατ' ἰητρεῖον"@zxx-grek .
+<http://id.loc.gov/resources/hubs/bc147f6e-05d3-502a-e44d-fd69ceb14aa9> <http://id.loc.gov/ontologies/bibframe/title> _:b771iddOtlocdOtgovresourcesworks24016995 .
+_:b771iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b771iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Hippokratous Kat' iētreion"@zxx-latn .
+<http://id.loc.gov/resources/hubs/bc147f6e-05d3-502a-e44d-fd69ceb14aa9> <http://id.loc.gov/ontologies/bibframe/title> _:b775iddOtlocdOtgovresourcesworks24016995 .
+_:b775iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b775iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Κατ' ἰητρεῖον"@zxx-grek .
+<http://id.loc.gov/resources/hubs/bc147f6e-05d3-502a-e44d-fd69ceb14aa9> <http://id.loc.gov/ontologies/bibframe/title> _:b779iddOtlocdOtgovresourcesworks24016995 .
+_:b779iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b779iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Kat' iētreion"@zxx-latn .
+<http://id.loc.gov/resources/hubs/bc147f6e-05d3-502a-e44d-fd69ceb14aa9> <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/grc> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/relation> _:b784iddOtlocdOtgovresourcesworks24016995 .
+_:b784iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relation> .
+_:b784iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/relationship> <http://id.loc.gov/vocabulary/relationship/part> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relationship> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/2000/01/rdf-schema#label> "part" .
+<http://id.loc.gov/vocabulary/relationship/part> <http://id.loc.gov/ontologies/bibframe/code> "part" .
+_:b784iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/associatedResource> <http://id.loc.gov/resources/hubs/aca07120-1ea2-28ea-cfaf-20d0e34f3a8f> .
+<http://id.loc.gov/resources/hubs/aca07120-1ea2-28ea-cfaf-20d0e34f3a8f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Hub> .
+<http://id.loc.gov/resources/hubs/aca07120-1ea2-28ea-cfaf-20d0e34f3a8f> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates. De fracturis. English" .
+<http://id.loc.gov/resources/hubs/aca07120-1ea2-28ea-cfaf-20d0e34f3a8f> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tDe fracturis.$lEnglish." .
+<http://id.loc.gov/resources/hubs/aca07120-1ea2-28ea-cfaf-20d0e34f3a8f> <http://id.loc.gov/ontologies/bibframe/contribution> _:b798iddOtlocdOtgovresourcesworks24016995 .
+_:b798iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b798iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b798iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n79005643> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+<http://id.loc.gov/rwo/agents/n79005643> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates" .
+_:b798iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/ctb> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://id.loc.gov/ontologies/bibframe/code> "ctb" .
+<http://id.loc.gov/resources/hubs/aca07120-1ea2-28ea-cfaf-20d0e34f3a8f> <http://id.loc.gov/ontologies/bibframe/title> _:b814iddOtlocdOtgovresourcesworks24016995 .
+_:b814iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b814iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "De fracturis. English." .
+<http://id.loc.gov/resources/hubs/aca07120-1ea2-28ea-cfaf-20d0e34f3a8f> <http://id.loc.gov/ontologies/bibframe/title> _:b818iddOtlocdOtgovresourcesworks24016995 .
+_:b818iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b818iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Fractures"@zxx-latn .
+<http://id.loc.gov/resources/hubs/aca07120-1ea2-28ea-cfaf-20d0e34f3a8f> <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/eng> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/relation> _:b823iddOtlocdOtgovresourcesworks24016995 .
+_:b823iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relation> .
+_:b823iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/relationship> <http://id.loc.gov/vocabulary/relationship/part> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relationship> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/2000/01/rdf-schema#label> "part" .
+<http://id.loc.gov/vocabulary/relationship/part> <http://id.loc.gov/ontologies/bibframe/code> "part" .
+_:b823iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/associatedResource> <http://id.loc.gov/resources/hubs/85560d44-f135-4adf-beaa-b50de09c36f6> .
+<http://id.loc.gov/resources/hubs/85560d44-f135-4adf-beaa-b50de09c36f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Hub> .
+<http://id.loc.gov/resources/hubs/85560d44-f135-4adf-beaa-b50de09c36f6> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates. De fracturis. Greek" .
+<http://id.loc.gov/resources/hubs/85560d44-f135-4adf-beaa-b50de09c36f6> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tDe fracturis.$lGreek." .
+<http://id.loc.gov/resources/hubs/85560d44-f135-4adf-beaa-b50de09c36f6> <http://id.loc.gov/ontologies/bibframe/contribution> _:b837iddOtlocdOtgovresourcesworks24016995 .
+_:b837iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b837iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b837iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n79005643> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+<http://id.loc.gov/rwo/agents/n79005643> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates" .
+_:b837iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/ctb> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://id.loc.gov/ontologies/bibframe/code> "ctb" .
+<http://id.loc.gov/resources/hubs/85560d44-f135-4adf-beaa-b50de09c36f6> <http://id.loc.gov/ontologies/bibframe/title> _:b853iddOtlocdOtgovresourcesworks24016995 .
+_:b853iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b853iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "De fracturis. Greek." .
+<http://id.loc.gov/resources/hubs/85560d44-f135-4adf-beaa-b50de09c36f6> <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/grc> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/relation> _:b858iddOtlocdOtgovresourcesworks24016995 .
+_:b858iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relation> .
+_:b858iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/relationship> <http://id.loc.gov/vocabulary/relationship/part> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relationship> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/2000/01/rdf-schema#label> "part" .
+<http://id.loc.gov/vocabulary/relationship/part> <http://id.loc.gov/ontologies/bibframe/code> "part" .
+_:b858iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/associatedResource> <http://id.loc.gov/resources/hubs/7b7d0271-ef28-7ee2-e984-a6c8a122a6c3> .
+<http://id.loc.gov/resources/hubs/7b7d0271-ef28-7ee2-e984-a6c8a122a6c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Hub> .
+<http://id.loc.gov/resources/hubs/7b7d0271-ef28-7ee2-e984-a6c8a122a6c3> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates. De articulis. English" .
+<http://id.loc.gov/resources/hubs/7b7d0271-ef28-7ee2-e984-a6c8a122a6c3> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tDe articulis.$lEnglish." .
+<http://id.loc.gov/resources/hubs/7b7d0271-ef28-7ee2-e984-a6c8a122a6c3> <http://id.loc.gov/ontologies/bibframe/contribution> _:b872iddOtlocdOtgovresourcesworks24016995 .
+_:b872iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b872iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b872iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n79005643> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+<http://id.loc.gov/rwo/agents/n79005643> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates" .
+_:b872iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/ctb> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://id.loc.gov/ontologies/bibframe/code> "ctb" .
+<http://id.loc.gov/resources/hubs/7b7d0271-ef28-7ee2-e984-a6c8a122a6c3> <http://id.loc.gov/ontologies/bibframe/title> _:b888iddOtlocdOtgovresourcesworks24016995 .
+_:b888iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b888iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "De articulis. English." .
+<http://id.loc.gov/resources/hubs/7b7d0271-ef28-7ee2-e984-a6c8a122a6c3> <http://id.loc.gov/ontologies/bibframe/title> _:b892iddOtlocdOtgovresourcesworks24016995 .
+_:b892iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b892iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "On joints"@zxx-latn .
+<http://id.loc.gov/resources/hubs/7b7d0271-ef28-7ee2-e984-a6c8a122a6c3> <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/eng> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/relation> _:b897iddOtlocdOtgovresourcesworks24016995 .
+_:b897iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relation> .
+_:b897iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/relationship> <http://id.loc.gov/vocabulary/relationship/part> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relationship> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/2000/01/rdf-schema#label> "part" .
+<http://id.loc.gov/vocabulary/relationship/part> <http://id.loc.gov/ontologies/bibframe/code> "part" .
+_:b897iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/associatedResource> <http://id.loc.gov/resources/hubs/96cd1e73-936c-34f2-8953-08653a4d1708> .
+<http://id.loc.gov/resources/hubs/96cd1e73-936c-34f2-8953-08653a4d1708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Hub> .
+<http://id.loc.gov/resources/hubs/96cd1e73-936c-34f2-8953-08653a4d1708> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates. De articulis. Greek" .
+<http://id.loc.gov/resources/hubs/96cd1e73-936c-34f2-8953-08653a4d1708> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tDe articulis.$lGreek." .
+<http://id.loc.gov/resources/hubs/96cd1e73-936c-34f2-8953-08653a4d1708> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tΠερὶ ἄρθρων"@zxx-grek .
+<http://id.loc.gov/resources/hubs/96cd1e73-936c-34f2-8953-08653a4d1708> <http://id.loc.gov/ontologies/bibframe/contribution> _:b913iddOtlocdOtgovresourcesworks24016995 .
+_:b913iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b913iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b913iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n79005643> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+<http://id.loc.gov/rwo/agents/n79005643> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates" .
+_:b913iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/ctb> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://id.loc.gov/ontologies/bibframe/code> "ctb" .
+<http://id.loc.gov/resources/hubs/96cd1e73-936c-34f2-8953-08653a4d1708> <http://id.loc.gov/ontologies/bibframe/title> _:b929iddOtlocdOtgovresourcesworks24016995 .
+_:b929iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b929iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "De articulis. Greek." .
+<http://id.loc.gov/resources/hubs/96cd1e73-936c-34f2-8953-08653a4d1708> <http://id.loc.gov/ontologies/bibframe/title> _:b933iddOtlocdOtgovresourcesworks24016995 .
+_:b933iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b933iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Περὶ ἄρθρων"@zxx-grek .
+<http://id.loc.gov/resources/hubs/96cd1e73-936c-34f2-8953-08653a4d1708> <http://id.loc.gov/ontologies/bibframe/title> _:b937iddOtlocdOtgovresourcesworks24016995 .
+_:b937iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b937iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Peri arthrōn"@zxx-latn .
+<http://id.loc.gov/resources/hubs/96cd1e73-936c-34f2-8953-08653a4d1708> <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/grc> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/relation> _:b942iddOtlocdOtgovresourcesworks24016995 .
+_:b942iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relation> .
+_:b942iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/relationship> <http://id.loc.gov/vocabulary/relationship/part> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relationship> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/2000/01/rdf-schema#label> "part" .
+<http://id.loc.gov/vocabulary/relationship/part> <http://id.loc.gov/ontologies/bibframe/code> "part" .
+_:b942iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/associatedResource> <http://id.loc.gov/resources/hubs/54af79a7-6618-1cd7-bbed-131aa0492326> .
+<http://id.loc.gov/resources/hubs/54af79a7-6618-1cd7-bbed-131aa0492326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Hub> .
+<http://id.loc.gov/resources/hubs/54af79a7-6618-1cd7-bbed-131aa0492326> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates. Vectiarius. English" .
+<http://id.loc.gov/resources/hubs/54af79a7-6618-1cd7-bbed-131aa0492326> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tVectiarius.$lEnglish." .
+<http://id.loc.gov/resources/hubs/54af79a7-6618-1cd7-bbed-131aa0492326> <http://id.loc.gov/ontologies/bibframe/contribution> _:b956iddOtlocdOtgovresourcesworks24016995 .
+_:b956iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b956iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b956iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n79005643> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+<http://id.loc.gov/rwo/agents/n79005643> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates" .
+_:b956iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/ctb> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://id.loc.gov/ontologies/bibframe/code> "ctb" .
+<http://id.loc.gov/resources/hubs/54af79a7-6618-1cd7-bbed-131aa0492326> <http://id.loc.gov/ontologies/bibframe/title> _:b972iddOtlocdOtgovresourcesworks24016995 .
+_:b972iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b972iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Vectiarius. English." .
+<http://id.loc.gov/resources/hubs/54af79a7-6618-1cd7-bbed-131aa0492326> <http://id.loc.gov/ontologies/bibframe/title> _:b976iddOtlocdOtgovresourcesworks24016995 .
+_:b976iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b976iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Instruments of reduction"@zxx-latn .
+<http://id.loc.gov/resources/hubs/54af79a7-6618-1cd7-bbed-131aa0492326> <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/eng> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/relation> _:b981iddOtlocdOtgovresourcesworks24016995 .
+_:b981iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relation> .
+_:b981iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/relationship> <http://id.loc.gov/vocabulary/relationship/part> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relationship> .
+<http://id.loc.gov/vocabulary/relationship/part> <http://www.w3.org/2000/01/rdf-schema#label> "part" .
+<http://id.loc.gov/vocabulary/relationship/part> <http://id.loc.gov/ontologies/bibframe/code> "part" .
+_:b981iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/associatedResource> <http://id.loc.gov/resources/hubs/a270b380-a170-4a00-f74f-087c11306dba> .
+<http://id.loc.gov/resources/hubs/a270b380-a170-4a00-f74f-087c11306dba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Hub> .
+<http://id.loc.gov/resources/hubs/a270b380-a170-4a00-f74f-087c11306dba> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates. Vectiarius. Greek" .
+<http://id.loc.gov/resources/hubs/a270b380-a170-4a00-f74f-087c11306dba> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tVectiarius.$lGreek." .
+<http://id.loc.gov/resources/hubs/a270b380-a170-4a00-f74f-087c11306dba> <http://id.loc.gov/ontologies/bibframe/contribution> _:b995iddOtlocdOtgovresourcesworks24016995 .
+_:b995iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b995iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b995iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n79005643> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+<http://id.loc.gov/rwo/agents/n79005643> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates" .
+_:b995iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/ctb> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://id.loc.gov/ontologies/bibframe/code> "ctb" .
+<http://id.loc.gov/resources/hubs/a270b380-a170-4a00-f74f-087c11306dba> <http://id.loc.gov/ontologies/bibframe/title> _:b1011iddOtlocdOtgovresourcesworks24016995 .
+_:b1011iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b1011iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Vectiarius. Greek." .
+<http://id.loc.gov/resources/hubs/a270b380-a170-4a00-f74f-087c11306dba> <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/grc> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/relation> _:b1016iddOtlocdOtgovresourcesworks24016995 .
+_:b1016iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relation> .
+_:b1016iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/relationship> <http://id.loc.gov/vocabulary/relationship/series> .
+<http://id.loc.gov/vocabulary/relationship/series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relationship> .
+<http://id.loc.gov/vocabulary/relationship/series> <http://www.w3.org/2000/01/rdf-schema#label> "series" .
+<http://id.loc.gov/vocabulary/relationship/series> <http://id.loc.gov/ontologies/bibframe/code> "series" .
+_:b1016iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/seriesEnumeration> "3." .
+_:b1016iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/associatedResource> <http://id.loc.gov/resources/hubs/3f355dee-1688-9f31-7254-9b9e824f3bb4> .
+<http://id.loc.gov/resources/hubs/3f355dee-1688-9f31-7254-9b9e824f3bb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Hub> .
+<http://id.loc.gov/resources/hubs/3f355dee-1688-9f31-7254-9b9e824f3bb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Series> .
+<http://id.loc.gov/resources/hubs/3f355dee-1688-9f31-7254-9b9e824f3bb4> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates. Works. English" .
+<http://id.loc.gov/resources/hubs/3f355dee-1688-9f31-7254-9b9e824f3bb4> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tWorks.$lEnglish." .
+<http://id.loc.gov/resources/hubs/3f355dee-1688-9f31-7254-9b9e824f3bb4> <http://id.loc.gov/ontologies/bibframe/contribution> _:b1033iddOtlocdOtgovresourcesworks24016995 .
+_:b1033iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b1033iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b1033iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n79005643> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+<http://id.loc.gov/rwo/agents/n79005643> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates" .
+_:b1033iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/ctb> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://id.loc.gov/ontologies/bibframe/code> "ctb" .
+<http://id.loc.gov/resources/hubs/3f355dee-1688-9f31-7254-9b9e824f3bb4> <http://id.loc.gov/ontologies/bibframe/title> _:b1049iddOtlocdOtgovresourcesworks24016995 .
+_:b1049iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b1049iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Works. English." .
+<http://id.loc.gov/resources/hubs/3f355dee-1688-9f31-7254-9b9e824f3bb4> <http://id.loc.gov/ontologies/bibframe/title> _:b1053iddOtlocdOtgovresourcesworks24016995 .
+_:b1053iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b1053iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Hippocrates"@zxx-latn .
+<http://id.loc.gov/resources/hubs/3f355dee-1688-9f31-7254-9b9e824f3bb4> <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/eng> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/relation> _:b1058iddOtlocdOtgovresourcesworks24016995 .
+_:b1058iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relation> .
+_:b1058iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/relationship> <http://id.loc.gov/vocabulary/relationship/series> .
+<http://id.loc.gov/vocabulary/relationship/series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relationship> .
+<http://id.loc.gov/vocabulary/relationship/series> <http://www.w3.org/2000/01/rdf-schema#label> "series" .
+<http://id.loc.gov/vocabulary/relationship/series> <http://id.loc.gov/ontologies/bibframe/code> "series" .
+_:b1058iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/seriesEnumeration> "3." .
+_:b1058iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/associatedResource> <http://id.loc.gov/resources/hubs/f7464f84-25a1-cea2-ff15-4bfea263bdc2> .
+<http://id.loc.gov/resources/hubs/f7464f84-25a1-cea2-ff15-4bfea263bdc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Hub> .
+<http://id.loc.gov/resources/hubs/f7464f84-25a1-cea2-ff15-4bfea263bdc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Series> .
+<http://id.loc.gov/resources/hubs/f7464f84-25a1-cea2-ff15-4bfea263bdc2> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates. Works. Greek" .
+<http://id.loc.gov/resources/hubs/f7464f84-25a1-cea2-ff15-4bfea263bdc2> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates.$tWorks.$lGreek." .
+<http://id.loc.gov/resources/hubs/f7464f84-25a1-cea2-ff15-4bfea263bdc2> <http://id.loc.gov/ontologies/bibframe/contribution> _:b1075iddOtlocdOtgovresourcesworks24016995 .
+_:b1075iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Contribution> .
+_:b1075iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/PrimaryContribution> .
+_:b1075iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/rwo/agents/n79005643> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> .
+<http://id.loc.gov/rwo/agents/n79005643> <http://www.w3.org/2000/01/rdf-schema#label> "Hippocrates" .
+<http://id.loc.gov/rwo/agents/n79005643> <http://id.loc.gov/ontologies/bflc/marcKey> "1000 $aHippocrates" .
+_:b1075iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/role> <http://id.loc.gov/vocabulary/relators/ctb> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Role> .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://id.loc.gov/vocabulary/relators/ctb> <http://id.loc.gov/ontologies/bibframe/code> "ctb" .
+<http://id.loc.gov/resources/hubs/f7464f84-25a1-cea2-ff15-4bfea263bdc2> <http://id.loc.gov/ontologies/bibframe/title> _:b1091iddOtlocdOtgovresourcesworks24016995 .
+_:b1091iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b1091iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Works. Greek." .
+<http://id.loc.gov/resources/hubs/f7464f84-25a1-cea2-ff15-4bfea263bdc2> <http://id.loc.gov/ontologies/bibframe/title> _:b1095iddOtlocdOtgovresourcesworks24016995 .
+_:b1095iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/VariantTitle> .
+_:b1095iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Hippocrates"@zxx-latn .
+<http://id.loc.gov/resources/hubs/f7464f84-25a1-cea2-ff15-4bfea263bdc2> <http://id.loc.gov/ontologies/bibframe/language> <http://id.loc.gov/vocabulary/languages/grc> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/relation> _:b1100iddOtlocdOtgovresourcesworks24016995 .
+_:b1100iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relation> .
+_:b1100iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/relationship> <http://id.loc.gov/vocabulary/relationship/series> .
+<http://id.loc.gov/vocabulary/relationship/series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Relationship> .
+<http://id.loc.gov/vocabulary/relationship/series> <http://www.w3.org/2000/01/rdf-schema#label> "series" .
+<http://id.loc.gov/vocabulary/relationship/series> <http://id.loc.gov/ontologies/bibframe/code> "series" .
+_:b1100iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/seriesEnumeration> "149." .
+_:b1100iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/associatedResource> <http://id.loc.gov/resources/hubs/25604025-cbfd-534f-0bcf-9493ff0f5e8a> .
+<http://id.loc.gov/resources/hubs/25604025-cbfd-534f-0bcf-9493ff0f5e8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Hub> .
+<http://id.loc.gov/resources/hubs/25604025-cbfd-534f-0bcf-9493ff0f5e8a> <http://www.w3.org/2000/01/rdf-schema#label> "Loeb classical library" .
+<http://id.loc.gov/resources/hubs/25604025-cbfd-534f-0bcf-9493ff0f5e8a> <http://id.loc.gov/ontologies/bflc/marcKey> "1300 $aLoeb classical library," .
+<http://id.loc.gov/resources/hubs/25604025-cbfd-534f-0bcf-9493ff0f5e8a> <http://id.loc.gov/ontologies/bibframe/title> _:b1116iddOtlocdOtgovresourcesworks24016995 .
+_:b1116iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Title> .
+_:b1116iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/mainTitle> "Loeb classical library" .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/hasInstance> <http://id.loc.gov/resources/instances/24016995> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b1121iddOtlocdOtgovresourcesworks24016995 .
+_:b1121iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b1121iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/n> .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://www.w3.org/2000/01/rdf-schema#label> "new" .
+<http://id.loc.gov/vocabulary/mstatus/n> <http://id.loc.gov/ontologies/bibframe/code> "n" .
+_:b1121iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/date> "2025-02-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:b1121iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> _:b1131iddOtlocdOtgovresourcesworks24016995 .
+_:b1131iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+_:b1131iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/code> "UPB/DLC" .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b1135iddOtlocdOtgovresourcesworks24016995 .
+_:b1135iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b1135iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/c> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/2000/01/rdf-schema#label> "changed" .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+_:b1135iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/date> "2025-07-16T10:11:11"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b1135iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/descriptionModifier> _:b1145iddOtlocdOtgovresourcesworks24016995 .
+_:b1145iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+_:b1145iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/code> "UPB/DLC" .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b1149iddOtlocdOtgovresourcesworks24016995 .
+_:b1149iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b1149iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/c> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/2000/01/rdf-schema#label> "changed" .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+_:b1149iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/date> "2025-07-16"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+_:b1149iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b1149iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/generationProcess> <https://github.com/lcnetdev/bibframe2marc/releases/tag/v2.10-dev> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b1171iddOtlocdOtgovresourcesworks24016995 .
+_:b1171iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b1171iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/status> <http://id.loc.gov/vocabulary/mstatus/c> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Status> .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://www.w3.org/2000/01/rdf-schema#label> "changed" .
+<http://id.loc.gov/vocabulary/mstatus/c> <http://id.loc.gov/ontologies/bibframe/code> "c" .
+_:b1171iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/agent> <http://id.loc.gov/vocabulary/organizations/dlcmrc> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Agent> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress, Network Development and MARC Standards Office" .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "DLC-MRC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "dlcmrc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlcmrc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlcmrc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b1171iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/generationProcess> <https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.10.0> .
+_:b1171iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/date> "2025-08-16T04:57:01.168961-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://id.loc.gov/resources/works/24016995> <http://id.loc.gov/ontologies/bibframe/adminMetadata> _:b1193iddOtlocdOtgovresourcesworks24016995 .
+_:b1193iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/AdminMetadata> .
+_:b1193iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/descriptionLevel> <http://id.loc.gov/ontologies/bibframe-2-6-0/> .
+_:b1193iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bflc/encodingLevel> <http://id.loc.gov/vocabulary/menclvl/8> .
+<http://id.loc.gov/vocabulary/menclvl/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bflc/EncodingLevel> .
+<http://id.loc.gov/vocabulary/menclvl/8> <http://www.w3.org/2000/01/rdf-schema#label> "prepublication" .
+<http://id.loc.gov/vocabulary/menclvl/8> <http://id.loc.gov/ontologies/bibframe/code> "8" .
+_:b1193iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/descriptionConventions> <http://id.loc.gov/vocabulary/descriptionConventions/isbd> .
+<http://id.loc.gov/vocabulary/descriptionConventions/isbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/DescriptionConventions> .
+<http://id.loc.gov/vocabulary/descriptionConventions/isbd> <http://www.w3.org/2000/01/rdf-schema#label> "ISBD: International standard bibliographic description" .
+<http://id.loc.gov/vocabulary/descriptionConventions/isbd> <http://id.loc.gov/ontologies/bibframe/code> "isbd" .
+_:b1193iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/identifiedBy> _:b1208iddOtlocdOtgovresourcesworks24016995 .
+_:b1208iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Local> .
+_:b1208iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "24016995" .
+_:b1208iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/assigner> <http://id.loc.gov/vocabulary/organizations/dlc> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Organization> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://www.w3.org/2000/01/rdf-schema#label> "United States, Library of Congress" .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "DLC"^^<http://id.loc.gov/datatypes/orgs/code> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "dlc"^^<http://id.loc.gov/datatypes/orgs/normalized> .
+<http://id.loc.gov/vocabulary/organizations/dlc> <http://id.loc.gov/ontologies/bibframe/code> "US-dlc"^^<http://id.loc.gov/datatypes/orgs/iso15511> .
+_:b1193iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bflc/marcKey> "906 $a7$bcbc$corignew$d1$eecip$f20$gy-gencatlg" .
+_:b1193iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/lclocal/d906> "=906 $a 7 $b cbc $c orignew $d 1 $e ecip $f 20 $g y-gencatlg" .
+_:b1193iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bflc/marcKey> "9250 $aacquire$b1 shelf copy$xpolicy default" .
+_:b1193iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/lclocal/d925> "=925 0 $a acquire $b 1 shelf copy $x policy default" .
+_:b1193iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bflc/marcKey> "955 $bUPB 2025-02-03$erp05 2025-02-06 to Dewey$wxm08 2025-07-16 Telework" .
+_:b1193iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/lclocal/d955> "=955 $b UPB 2025-02-03 $e rp05 2025-02-06 to Dewey $w xm08 2025-07-16 Telework" .
+_:b1193iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/descriptionLanguage> <http://id.loc.gov/vocabulary/languages/eng> .
+<http://id.loc.gov/vocabulary/languages/eng> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Language> .
+<http://id.loc.gov/vocabulary/languages/eng> <http://www.w3.org/2000/01/rdf-schema#label> "English"@en .
+<http://id.loc.gov/vocabulary/languages/eng> <http://id.loc.gov/ontologies/bibframe/code> "eng"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1193iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/descriptionConventions> <http://id.loc.gov/vocabulary/descriptionConventions/rda> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/DescriptionConventions> .
+<http://id.loc.gov/vocabulary/descriptionConventions/rda> <http://www.w3.org/2000/01/rdf-schema#label> "Resource description and access" .
+<http://id.loc.gov/vocabulary/descriptionConventions/rda> <http://id.loc.gov/ontologies/bibframe/code> "rda" .
+_:b1193iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/note> _:b1246iddOtlocdOtgovresourcesworks24016995 .
+_:b1246iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Note> .
+_:b1246iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/vocabulary/mnotetype/internal> .
+_:b1246iddOtlocdOtgovresourcesworks24016995 <http://www.w3.org/2000/01/rdf-schema#label> "040 $aUPB/DLC$beng$erda$cDLC$dUPB/DLC$dDLC-MRC$dUPB/DLC" .
+_:b1193iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/bibframe/descriptionAuthentication> <http://id.loc.gov/vocabulary/marcauthen/pcc> .
+<http://id.loc.gov/vocabulary/marcauthen/pcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/DescriptionAuthentication> .
+<http://id.loc.gov/vocabulary/marcauthen/pcc> <http://www.w3.org/2000/01/rdf-schema#label> "Program for Cooperative Cataloging" .
+<http://id.loc.gov/vocabulary/marcauthen/pcc> <http://id.loc.gov/ontologies/bibframe/code> "pcc" .
+_:b1193iddOtlocdOtgovresourcesworks24016995 <http://id.loc.gov/ontologies/lclocal/d985> "=985 $e BIBFRAME $d 2025-07-16T10:09:43" .

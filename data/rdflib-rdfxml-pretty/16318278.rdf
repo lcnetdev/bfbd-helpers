@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://id.loc.gov/vocabulary/mnotetype/"
+  xmlns:ns2="http://id.loc.gov/ontologies/bibframe/"
+  xmlns:ns3="http://id.loc.gov/ontologies/lclocal/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:ns4="http://www.loc.gov/mads/rdf/v1#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:ns5="http://id.loc.gov/ontologies/bflc/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <ns2:Instance rdf:about="http://id.loc.gov/resources/instances/16318278-85X-2">
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bflc/SecondaryInstance"/>
+    <ns2:issuance>
+      <ns2:Issuance rdf:about="http://id.loc.gov/vocabulary/issuance/mono">
+        <rdfs:label>single unit</rdfs:label>
+        <ns2:code>mono</ns2:code>
+      </ns2:Issuance>
+    </ns2:issuance>
+    <ns2:media>
+      <ns2:Media rdf:about="http://id.loc.gov/vocabulary/mediaTypes/c">
+        <rdfs:label>computer</rdfs:label>
+        <ns2:code>c</ns2:code>
+      </ns2:Media>
+    </ns2:media>
+    <ns2:carrier>
+      <ns2:Carrier rdf:about="http://id.loc.gov/vocabulary/carriers/cr">
+        <rdfs:label>online resource</rdfs:label>
+        <ns2:code>cr</ns2:code>
+      </ns2:Carrier>
+    </ns2:carrier>
+    <ns2:title>
+      <ns2:Title rdf:nodeID="N6a3bc0dbbb9b4e44b7b5990e46f9a310">
+        <ns2:mainTitle>digital file from original item, mat removed</ns2:mainTitle>
+      </ns2:Title>
+    </ns2:title>
+    <ns2:electronicLocator rdf:resource="http://hdl.loc.gov/loc.pnp/ppss.00352"/>
+    <dcterms:isPartOf rdf:resource="http://id.loc.gov/resources/instances"/>
+    <ns2:instanceOf>
+      <ns2:Work rdf:about="http://id.loc.gov/resources/works/16318278">
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/StillImage"/>
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Monograph"/>
+        <ns5:aap>[Corporal Sidney S. Goodridge of Company K, 20th Massachusetts Infantry Regiment and Company B, 4th Massachusetts Heavy Artillery Regiment with bayoneted musket in front of shebang at Camp Benton, near Edwards Ferry, Maryland]</ns5:aap>
+        <ns5:aap-normalized>[corporalsidneysgoodridgeofcompanyk20thmassachusettsinfantryregimentandcompanyb4thmassachusettsheavyartilleryregimentwithbayonetedmusketinfrontofshebangatcampbentonnearedwardsferrymaryland]</ns5:aap-normalized>
+        <ns2:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+        <ns2:genreForm rdf:resource="http://id.loc.gov/vocabulary/marcgt/gra"/>
+        <ns2:classification>
+          <ns2:ClassificationLcc rdf:nodeID="Ne5cf044c0641452098f15829e8b80a5a">
+            <ns2:classificationPortion>AMB/TIN</ns2:classificationPortion>
+            <ns2:itemPortion>no. 2520</ns2:itemPortion>
+            <ns2:assigner rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+            <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/uba"/>
+          </ns2:ClassificationLcc>
+        </ns2:classification>
+        <ns2:title>
+          <ns2:Title rdf:nodeID="Nb156f26493524ea4b5e551ec08bc213c">
+            <ns2:mainTitle>[Corporal Sidney S. Goodridge of Company K, 20th Massachusetts Infantry Regiment and Company B, 4th Massachusetts Heavy Artillery Regiment with bayoneted musket in front of shebang at Camp Benton, near Edwards Ferry, Maryland]</ns2:mainTitle>
+          </ns2:Title>
+        </ns2:title>
+        <ns2:content rdf:resource="http://id.loc.gov/vocabulary/contentTypes/sti"/>
+        <ns2:summary>
+          <ns2:Summary rdf:nodeID="N69e179f980e54844bd43cbb368c01c11">
+            <rdfs:label>Photo shows identified soldier in Union uniform.</rdfs:label>
+          </ns2:Summary>
+        </ns2:summary>
+        <ns2:note>
+          <ns2:Note rdf:nodeID="N02ccbe1f0d1548838a75454141f82a29">
+            <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/relnote"/>
+            <rdfs:label>Forms part of: Liljenquist Family Collection of Civil War Photographs (Library of Congress).</rdfs:label>
+          </ns2:Note>
+        </ns2:note>
+        <ns2:subject>
+          <ns2:Agent rdf:nodeID="Nc14d8aef08f44f7d9f8ed72dc2af6836">
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+            <rdfs:label>Goodridge, Sidney S., -1907</rdfs:label>
+            <ns5:aap-normalized>goodridgesidneys1907</ns5:aap-normalized>
+            <ns5:marcKey>60010$aGoodridge, Sidney S.,$d-1907.</ns5:marcKey>
+            <ns2:source rdf:resource="http://id.loc.gov/authorities/subjects"/>
+          </ns2:Agent>
+        </ns2:subject>
+        <ns2:subject>
+          <ns2:Topic rdf:nodeID="N54db1a78355e45d9aced5752273e9bfe">
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+            <ns4:authoritativeLabel>United States. Army. Massachusetts Infantry Regiment, 20th (1861-1865)--People--Maryland.</ns4:authoritativeLabel>
+            <ns4:componentList rdf:parseType="Collection">
+              <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/n91028264"/>
+              <ns4:Topic rdf:nodeID="N26d81044f83b43158167d6a91fa7c177">
+                <ns4:authoritativeLabel>People</ns4:authoritativeLabel>
+              </ns4:Topic>
+              <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/n79029831-781"/>
+            </ns4:componentList>
+            <ns5:aap-normalized>unitedstatesarmymassachusettsinfantryregiment20th(18611865)peoplemaryland</ns5:aap-normalized>
+          </ns2:Topic>
+        </ns2:subject>
+        <ns2:subject>
+          <ns2:Topic rdf:nodeID="N2ac6823c51ad40abb16820f370520f64">
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+            <ns4:authoritativeLabel>United States. Army. Massachusetts Heavy Artillery Regiment, 4th (1864-1865)--People--Maryland.</ns4:authoritativeLabel>
+            <ns4:componentList rdf:parseType="Collection">
+              <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/nr2003037032"/>
+              <ns4:Topic rdf:nodeID="Nde0fc98e42d241ae8d2ab694935686bb">
+                <ns4:authoritativeLabel>People</ns4:authoritativeLabel>
+              </ns4:Topic>
+              <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/n79029831-781"/>
+            </ns4:componentList>
+            <ns5:aap-normalized>unitedstatesarmymassachusettsheavyartilleryregiment4th(18641865)peoplemaryland</ns5:aap-normalized>
+          </ns2:Topic>
+        </ns2:subject>
+        <ns2:subject>
+          <ns2:Topic rdf:nodeID="Na18f839f80cb4c7ca68afd2f201358ed">
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+            <rdfs:label>Soldiers--Union--Maryland--1860-1870</rdfs:label>
+            <ns4:authoritativeLabel>Soldiers--Union--Maryland--1860-1870</ns4:authoritativeLabel>
+            <ns4:componentList rdf:parseType="Collection">
+              <rdf:Description rdf:about="http://id.loc.gov/vocabulary/graphicMaterials/tgm009848"/>
+              <ns4:Topic rdf:nodeID="N4cd03c66639d4ae4b6a6db1252d34e57">
+                <ns4:authoritativeLabel>Union</ns4:authoritativeLabel>
+              </ns4:Topic>
+              <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/n79029831-781"/>
+              <ns4:Temporal rdf:nodeID="Ne34e23c0030f4cc2ad85ce1b3eb6193a">
+                <ns4:authoritativeLabel>1860-1870</ns4:authoritativeLabel>
+              </ns4:Temporal>
+            </ns4:componentList>
+            <ns5:aap-normalized>soldiersunionmaryland18601870</ns5:aap-normalized>
+            <ns4:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/lctgm"/>
+            <ns2:source rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/lctgm"/>
+          </ns2:Topic>
+        </ns2:subject>
+        <ns2:subject>
+          <ns2:Topic rdf:nodeID="Nd974a09a7e9e4feda2ae9cc796e4166c">
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+            <rdfs:label>Military uniforms--Union--1860-1870</rdfs:label>
+            <ns4:authoritativeLabel>Military uniforms--Union--1860-1870</ns4:authoritativeLabel>
+            <ns4:componentList rdf:parseType="Collection">
+              <rdf:Description rdf:about="http://id.loc.gov/vocabulary/graphicMaterials/tgm006582"/>
+              <ns4:Topic rdf:nodeID="N4b111698a1f04279b856e936c6cb353c">
+                <ns4:authoritativeLabel>Union</ns4:authoritativeLabel>
+              </ns4:Topic>
+              <ns4:Temporal rdf:nodeID="Ncccdb6b694ca4793bbc0400de8cf220e">
+                <ns4:authoritativeLabel>1860-1870</ns4:authoritativeLabel>
+              </ns4:Temporal>
+            </ns4:componentList>
+            <ns5:aap-normalized>militaryuniformsunion18601870</ns5:aap-normalized>
+            <ns4:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/lctgm"/>
+            <ns2:source rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/lctgm"/>
+          </ns2:Topic>
+        </ns2:subject>
+        <ns2:subject>
+          <ns2:Topic rdf:nodeID="Na4205bf931864ea499e3fe3363e59a97">
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+            <rdfs:label>Huts--Maryland--1860-1870</rdfs:label>
+            <ns4:authoritativeLabel>Huts--Maryland--1860-1870</ns4:authoritativeLabel>
+            <ns4:componentList rdf:parseType="Collection">
+              <rdf:Description rdf:about="http://id.loc.gov/vocabulary/graphicMaterials/tgm005233"/>
+              <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/n79029831-781"/>
+              <ns4:Temporal rdf:nodeID="N6e442524a7a040ba9d82104f73d4f941">
+                <ns4:authoritativeLabel>1860-1870</ns4:authoritativeLabel>
+              </ns4:Temporal>
+            </ns4:componentList>
+            <ns5:aap-normalized>hutsmaryland18601870</ns5:aap-normalized>
+            <ns4:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/lctgm"/>
+            <ns2:source rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/lctgm"/>
+          </ns2:Topic>
+        </ns2:subject>
+        <ns2:subject>
+          <ns2:Topic rdf:nodeID="N5603652deb4d4b658582d8ba3b8c534a">
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+            <rdfs:label>Rifles--1860-1870</rdfs:label>
+            <ns4:authoritativeLabel>Rifles--1860-1870</ns4:authoritativeLabel>
+            <ns4:componentList rdf:parseType="Collection">
+              <rdf:Description rdf:about="http://id.loc.gov/vocabulary/graphicMaterials/tgm008914"/>
+              <ns4:Temporal rdf:nodeID="N6adafb8d510848acb10e441c74959473">
+                <ns4:authoritativeLabel>1860-1870</ns4:authoritativeLabel>
+              </ns4:Temporal>
+            </ns4:componentList>
+            <ns5:aap-normalized>rifles18601870</ns5:aap-normalized>
+            <ns4:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/lctgm"/>
+            <ns2:source rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/lctgm"/>
+          </ns2:Topic>
+        </ns2:subject>
+        <ns2:subject>
+          <ns2:Topic rdf:nodeID="Nfaa9113df8a24113bbec9e88eca22649">
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+            <rdfs:label>Bayonets--1860-1870</rdfs:label>
+            <ns4:authoritativeLabel>Bayonets--1860-1870</ns4:authoritativeLabel>
+            <ns4:componentList rdf:parseType="Collection">
+              <rdf:Description rdf:about="http://id.loc.gov/vocabulary/graphicMaterials/tgm000884"/>
+              <ns4:Temporal rdf:nodeID="N8a1ca116965d4942af2c4e196c5ae5a7">
+                <ns4:authoritativeLabel>1860-1870</ns4:authoritativeLabel>
+              </ns4:Temporal>
+            </ns4:componentList>
+            <ns5:aap-normalized>bayonets18601870</ns5:aap-normalized>
+            <ns4:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/lctgm"/>
+            <ns2:source rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/lctgm"/>
+          </ns2:Topic>
+        </ns2:subject>
+        <ns2:subject>
+          <ns2:Topic rdf:nodeID="Na999c4d7979445eeaea6bbc38102df9f">
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+            <rdfs:label>United States--History--Civil War, 1861-1865--Military personnel--Union</rdfs:label>
+            <ns4:authoritativeLabel>United States--History--Civil War, 1861-1865--Military personnel--Union</ns4:authoritativeLabel>
+            <ns4:componentList rdf:parseType="Collection">
+              <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/n78095330"/>
+              <ns4:Topic rdf:nodeID="N14d2d8790465404dad15dcd26a35bfe4">
+                <ns4:authoritativeLabel>History</ns4:authoritativeLabel>
+              </ns4:Topic>
+              <ns4:Temporal rdf:nodeID="N0bd2c2cc40a649d696958e27856357a1">
+                <ns4:authoritativeLabel>Civil War, 1861-1865</ns4:authoritativeLabel>
+              </ns4:Temporal>
+              <ns4:Topic rdf:nodeID="N3e2436bc273a4a0b9311098d5fdbc316">
+                <ns4:authoritativeLabel>Military personnel</ns4:authoritativeLabel>
+              </ns4:Topic>
+              <ns4:Topic rdf:nodeID="N103eec5237d2492bb93a22fd02f08ba3">
+                <ns4:authoritativeLabel>Union</ns4:authoritativeLabel>
+              </ns4:Topic>
+            </ns4:componentList>
+            <ns5:aap-normalized>unitedstateshistorycivilwar18611865militarypersonnelunion</ns5:aap-normalized>
+          </ns2:Topic>
+        </ns2:subject>
+        <ns2:subject>
+          <ns2:Topic rdf:nodeID="N3e1daaad4bf74de3962ebd326638474e">
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+            <rdfs:label>Portrait photographs--1860-1870</rdfs:label>
+            <ns4:authoritativeLabel>Portrait photographs--1860-1870</ns4:authoritativeLabel>
+            <ns4:componentList rdf:parseType="Collection">
+              <ns4:GenreForm rdf:nodeID="N96dec31a79b4462b93b85f324c14d2e1">
+                <ns4:authoritativeLabel>Portrait photographs</ns4:authoritativeLabel>
+              </ns4:GenreForm>
+              <ns4:Temporal rdf:nodeID="Necb7bbf21cd44acf81371675a8882c93">
+                <ns4:authoritativeLabel>1860-1870</ns4:authoritativeLabel>
+              </ns4:Temporal>
+            </ns4:componentList>
+            <ns5:aap-normalized>portraitphotographs18601870</ns5:aap-normalized>
+            <ns4:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc"/>
+            <ns2:source rdf:resource="http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc"/>
+          </ns2:Topic>
+        </ns2:subject>
+        <ns2:subject>
+          <ns2:Topic rdf:nodeID="N29ccc233e531494a8c9a2a298fbf7681">
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+            <rdfs:label>Tintypes--1860-1870</rdfs:label>
+            <ns4:authoritativeLabel>Tintypes--1860-1870</ns4:authoritativeLabel>
+            <ns4:componentList rdf:parseType="Collection">
+              <ns4:GenreForm rdf:nodeID="N909dd01b103c4172ade609c603652f48">
+                <ns4:authoritativeLabel>Tintypes</ns4:authoritativeLabel>
+              </ns4:GenreForm>
+              <ns4:Temporal rdf:nodeID="N1091f7d413fc436d8bfc0fbf024e97fe">
+                <ns4:authoritativeLabel>1860-1870</ns4:authoritativeLabel>
+              </ns4:Temporal>
+            </ns4:componentList>
+            <ns5:aap-normalized>tintypes18601870</ns5:aap-normalized>
+            <ns4:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc"/>
+            <ns2:source rdf:resource="http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc"/>
+          </ns2:Topic>
+        </ns2:subject>
+        <dcterms:isPartOf rdf:resource="http://id.loc.gov/resources/works"/>
+        <ns2:relation>
+          <ns2:Relation rdf:nodeID="N728589276cd74d7fb10a19766816dbc4">
+            <ns2:relationship rdf:resource="http://id.loc.gov/vocabulary/relationship/partof"/>
+            <ns2:associatedResource rdf:resource="http://id.loc.gov/resources/works/16341670"/>
+          </ns2:Relation>
+        </ns2:relation>
+        <ns2:relation>
+          <ns2:Relation rdf:nodeID="Nfea7295aafd8447aa4752b5edd66337c">
+            <ns2:relationship rdf:resource="http://id.loc.gov/vocabulary/relationship/partof"/>
+            <ns2:associatedResource rdf:resource="http://id.loc.gov/resources/works/16341713"/>
+          </ns2:Relation>
+        </ns2:relation>
+        <ns2:hasInstance rdf:resource="http://id.loc.gov/resources/instances/16318278"/>
+        <ns2:adminMetadata>
+          <ns2:AdminMetadata rdf:nodeID="N8adf214f42394a45928ed0e7873278cf">
+            <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/n"/>
+            <ns2:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-07-07</ns2:date>
+            <ns2:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+          </ns2:AdminMetadata>
+        </ns2:adminMetadata>
+        <ns2:adminMetadata>
+          <ns2:AdminMetadata rdf:nodeID="N3b98619c556541ef993222b2aa0d7a22">
+            <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/c"/>
+            <ns2:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-29T16:43:26</ns2:date>
+            <ns2:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+          </ns2:AdminMetadata>
+        </ns2:adminMetadata>
+        <ns2:adminMetadata>
+          <ns2:AdminMetadata rdf:nodeID="Ncbbc8dfe0ad34671b906695a0cf68ae1">
+            <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/c"/>
+            <ns2:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlcmrc"/>
+            <ns2:generationProcess rdf:resource="https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.10.0"/>
+            <ns2:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-17T01:31:30.199437-04:00</ns2:date>
+          </ns2:AdminMetadata>
+        </ns2:adminMetadata>
+        <ns2:adminMetadata>
+          <ns2:AdminMetadata rdf:nodeID="N46d04903f2744be3961dcc300df0ca30">
+            <ns2:descriptionLevel rdf:resource="http://id.loc.gov/ontologies/bibframe-2-6-0/"/>
+            <ns5:encodingLevel rdf:resource="http://id.loc.gov/vocabulary/menclvl/7"/>
+            <ns2:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr"/>
+            <ns2:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/gihc"/>
+            <ns2:identifiedBy>
+              <ns2:Local rdf:nodeID="Nb671d34def2f445998a17695e664b5ca">
+                <rdf:value>16318278</rdf:value>
+                <ns2:assigner rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+              </ns2:Local>
+            </ns2:identifiedBy>
+            <ns2:note>
+              <ns2:Note rdf:nodeID="N7e44597897854870a638653acf170eda">
+                <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/internal"/>
+                <rdfs:label>040 $aDLC$egihc$cDLC</rdfs:label>
+              </ns2:Note>
+            </ns2:note>
+            <ns5:marcKey>906 $a7$bcbc$corignew$du$encip$f20$gy-printpho</ns5:marcKey>
+            <ns5:marcKey>955 $aEL/MG 2010-07; qw09 2010-10 rev.</ns5:marcKey>
+            <ns5:marcKey>955 $aLCAP batch update 2025-06-01-04:00: LCAPM-861</ns5:marcKey>
+            <ns3:d906>=906 $a 7 $b cbc $c orignew $d u $e ncip $f 20 $g y-printpho</ns3:d906>
+            <ns3:d955>=955 $a EL/MG 2010-07; qw09 2010-10 rev.</ns3:d955>
+            <ns3:d955>=955 $a LCAP batch update 2025-06-01-04:00: LCAPM-861</ns3:d955>
+            <ns3:d985>=985 $a pp/ambtin</ns3:d985>
+            <ns3:d985>=985 $a pp/lilj</ns3:d985>
+            <ns3:d985>=985 $a pp/flickrlilj</ns3:d985>
+            <ns3:d985>=985 $a pp/diof</ns3:d985>
+            <ns3:d985>=985 $a pp/civwar</ns3:d985>
+          </ns2:AdminMetadata>
+        </ns2:adminMetadata>
+      </ns2:Work>
+    </ns2:instanceOf>
+    <ns2:adminMetadata>
+      <ns2:AdminMetadata rdf:nodeID="N40896467a9444d96be29a15dc32fb2bd">
+        <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/n"/>
+        <ns2:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-07-07</ns2:date>
+        <ns2:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+      </ns2:AdminMetadata>
+    </ns2:adminMetadata>
+    <ns2:adminMetadata>
+      <ns2:AdminMetadata rdf:nodeID="N6dfaae3e10804701845c8941bda7e0f9">
+        <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/c"/>
+        <ns2:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-29T16:43:26</ns2:date>
+        <ns2:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+      </ns2:AdminMetadata>
+    </ns2:adminMetadata>
+    <ns2:adminMetadata>
+      <ns2:AdminMetadata rdf:nodeID="N03e732cdf9b44fd28cb05de42bc669d3">
+        <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/c"/>
+        <ns2:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlcmrc"/>
+        <ns2:generationProcess rdf:resource="https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.10.0"/>
+        <ns2:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-17T01:31:30.199437-04:00</ns2:date>
+      </ns2:AdminMetadata>
+    </ns2:adminMetadata>
+    <ns2:adminMetadata>
+      <ns2:AdminMetadata rdf:nodeID="N611c286846d64a5bacc3bbef45ee46e7">
+        <ns2:identifiedBy>
+          <ns2:Local rdf:nodeID="N468035d1b49b4c1b93e3c5f80b58c0ea">
+            <rdf:value>16318278-85X-2</rdf:value>
+            <ns2:assigner rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+          </ns2:Local>
+        </ns2:identifiedBy>
+        <ns2:descriptionLevel rdf:resource="http://id.loc.gov/ontologies/bibframe-2-6-0/"/>
+        <ns5:encodingLevel rdf:resource="http://id.loc.gov/vocabulary/menclvl/7"/>
+        <ns2:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr"/>
+        <ns2:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/gihc"/>
+        <ns2:note>
+          <ns2:Note rdf:nodeID="N57d6ff5bf8d94374a4a18b2b1af21a69">
+            <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/internal"/>
+            <rdfs:label>040 $aDLC$egihc$cDLC</rdfs:label>
+          </ns2:Note>
+        </ns2:note>
+        <ns5:marcKey>906 $a7$bcbc$corignew$du$encip$f20$gy-printpho</ns5:marcKey>
+        <ns5:marcKey>955 $aEL/MG 2010-07; qw09 2010-10 rev.</ns5:marcKey>
+        <ns5:marcKey>955 $aLCAP batch update 2025-06-01-04:00: LCAPM-861</ns5:marcKey>
+        <ns3:d906>=906 $a 7 $b cbc $c orignew $d u $e ncip $f 20 $g y-printpho</ns3:d906>
+        <ns3:d955>=955 $a EL/MG 2010-07; qw09 2010-10 rev.</ns3:d955>
+        <ns3:d955>=955 $a LCAP batch update 2025-06-01-04:00: LCAPM-861</ns3:d955>
+        <ns3:d985>=985 $a pp/ambtin</ns3:d985>
+        <ns3:d985>=985 $a pp/lilj</ns3:d985>
+        <ns3:d985>=985 $a pp/flickrlilj</ns3:d985>
+        <ns3:d985>=985 $a pp/diof</ns3:d985>
+        <ns3:d985>=985 $a pp/civwar</ns3:d985>
+      </ns2:AdminMetadata>
+    </ns2:adminMetadata>
+  </ns2:Instance>
+  <ns2:Instance rdf:about="http://id.loc.gov/resources/instances/16318278-85X-1">
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bflc/SecondaryInstance"/>
+    <ns2:issuance rdf:resource="http://id.loc.gov/vocabulary/issuance/mono"/>
+    <ns2:media rdf:resource="http://id.loc.gov/vocabulary/mediaTypes/c"/>
+    <ns2:carrier rdf:resource="http://id.loc.gov/vocabulary/carriers/cr"/>
+    <ns2:title>
+      <ns2:Title rdf:nodeID="N2937900fa09444b693e365ff5bce9517">
+        <ns2:mainTitle>digital file from original item</ns2:mainTitle>
+      </ns2:Title>
+    </ns2:title>
+    <ns2:electronicLocator rdf:resource="http://hdl.loc.gov/loc.pnp/ppmsca.27385"/>
+    <dcterms:isPartOf rdf:resource="http://id.loc.gov/resources/instances"/>
+    <ns2:instanceOf rdf:resource="http://id.loc.gov/resources/works/16318278"/>
+    <ns2:adminMetadata>
+      <ns2:AdminMetadata rdf:nodeID="N09829393900141d7b5e2bf83c6846d45">
+        <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/n"/>
+        <ns2:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-07-07</ns2:date>
+        <ns2:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+      </ns2:AdminMetadata>
+    </ns2:adminMetadata>
+    <ns2:adminMetadata>
+      <ns2:AdminMetadata rdf:nodeID="N56f73893edfd4cb1b50055445ac8ad54">
+        <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/c"/>
+        <ns2:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-29T16:43:26</ns2:date>
+        <ns2:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+      </ns2:AdminMetadata>
+    </ns2:adminMetadata>
+    <ns2:adminMetadata>
+      <ns2:AdminMetadata rdf:nodeID="N08ce98c0365546e9903c80114fa2a47a">
+        <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/c"/>
+        <ns2:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlcmrc"/>
+        <ns2:generationProcess rdf:resource="https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.10.0"/>
+        <ns2:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-17T01:31:30.199437-04:00</ns2:date>
+      </ns2:AdminMetadata>
+    </ns2:adminMetadata>
+    <ns2:adminMetadata>
+      <ns2:AdminMetadata rdf:nodeID="N9fa6d87ab6484121b17b525fe83de284">
+        <ns2:identifiedBy>
+          <ns2:Local rdf:nodeID="Nca8d108ff93d47b68710433c06b66e1f">
+            <rdf:value>16318278-85X-1</rdf:value>
+            <ns2:assigner rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+          </ns2:Local>
+        </ns2:identifiedBy>
+        <ns2:descriptionLevel rdf:resource="http://id.loc.gov/ontologies/bibframe-2-6-0/"/>
+        <ns5:encodingLevel rdf:resource="http://id.loc.gov/vocabulary/menclvl/7"/>
+        <ns2:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr"/>
+        <ns2:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/gihc"/>
+        <ns2:note>
+          <ns2:Note rdf:nodeID="N9aa937580732421e9dbd516379e7aaec">
+            <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/internal"/>
+            <rdfs:label>040 $aDLC$egihc$cDLC</rdfs:label>
+          </ns2:Note>
+        </ns2:note>
+        <ns5:marcKey>906 $a7$bcbc$corignew$du$encip$f20$gy-printpho</ns5:marcKey>
+        <ns5:marcKey>955 $aEL/MG 2010-07; qw09 2010-10 rev.</ns5:marcKey>
+        <ns5:marcKey>955 $aLCAP batch update 2025-06-01-04:00: LCAPM-861</ns5:marcKey>
+        <ns3:d906>=906 $a 7 $b cbc $c orignew $d u $e ncip $f 20 $g y-printpho</ns3:d906>
+        <ns3:d955>=955 $a EL/MG 2010-07; qw09 2010-10 rev.</ns3:d955>
+        <ns3:d955>=955 $a LCAP batch update 2025-06-01-04:00: LCAPM-861</ns3:d955>
+        <ns3:d985>=985 $a pp/ambtin</ns3:d985>
+        <ns3:d985>=985 $a pp/lilj</ns3:d985>
+        <ns3:d985>=985 $a pp/flickrlilj</ns3:d985>
+        <ns3:d985>=985 $a pp/diof</ns3:d985>
+        <ns3:d985>=985 $a pp/civwar</ns3:d985>
+      </ns2:AdminMetadata>
+    </ns2:adminMetadata>
+  </ns2:Instance>
+  <ns2:Source rdf:about="http://id.loc.gov/authorities/subjects">
+    <rdfs:label xml:lang="en">Library of Congress Subject Headings</rdfs:label>
+  </ns2:Source>
+  <ns2:Instance rdf:about="http://id.loc.gov/resources/instances/16341670">
+    <ns2:title>
+      <ns2:Title rdf:nodeID="N2bccc9906d454a7083db30e6bfb8e58c">
+        <ns2:mainTitle>Ambrotype/Tintype photograph filing series (Library of Congress)</ns2:mainTitle>
+      </ns2:Title>
+    </ns2:title>
+    <ns2:identifiedBy>
+      <ns2:Lccn rdf:nodeID="N76fcc2d30b6b44e5b9699057cfcda9b3">
+        <rdf:value> 2010650518</rdf:value>
+      </ns2:Lccn>
+    </ns2:identifiedBy>
+    <ns2:publicationStatement>ca. 1851-1900.</ns2:publicationStatement>
+    <ns2:extent>
+      <ns2:Extent rdf:nodeID="N7d452a40be6d4a3db2280dbb2a07927b">
+        <rdfs:label>approximately 2,200 photographs</rdfs:label>
+        <ns2:note>
+          <ns2:Note rdf:nodeID="N5ced0a591b1d41dba5e5efee911c229a">
+            <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/physical"/>
+            <rdfs:label>ambrotypes and tintypes, many with some hand-coloring.</rdfs:label>
+          </ns2:Note>
+        </ns2:note>
+      </ns2:Extent>
+    </ns2:extent>
+  </ns2:Instance>
+  <ns2:Instance rdf:about="http://id.loc.gov/resources/instances/16318278">
+    <ns2:issuance rdf:resource="http://id.loc.gov/vocabulary/issuance/mono"/>
+    <ns2:genreForm>
+      <ns2:GenreForm rdf:about="http://id.loc.gov/vocabulary/graphicMaterials/tgm007718">
+        <rdfs:label xml:lang="en">Photographic prints</rdfs:label>
+      </ns2:GenreForm>
+    </ns2:genreForm>
+    <ns2:colorContent>
+      <ns2:ColorContent rdf:about="http://id.loc.gov/vocabulary/mcolor/blw">
+        <rdfs:label>black and white</rdfs:label>
+        <ns2:code>blw</ns2:code>
+      </ns2:ColorContent>
+    </ns2:colorContent>
+    <ns2:baseMaterial>
+      <ns2:BaseMaterial rdf:about="http://id.loc.gov/vocabulary/mmaterial/mtl">
+        <rdfs:label>metal</rdfs:label>
+        <ns2:code>mtl</ns2:code>
+      </ns2:BaseMaterial>
+    </ns2:baseMaterial>
+    <ns2:provisionActivity>
+      <ns2:ProvisionActivity rdf:nodeID="N1762c07da8c34cd3ac1e8e1644b309c3">
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Publication"/>
+        <ns2:date rdf:datatype="http://id.loc.gov/datatypes/edtf">1861~/1865~</ns2:date>
+        <ns2:place rdf:resource="http://id.loc.gov/vocabulary/countries/xxu"/>
+        <ns5:simpleDate>[between 1861 and 1865]</ns5:simpleDate>
+      </ns2:ProvisionActivity>
+    </ns2:provisionActivity>
+    <ns2:publicationStatement>[between 1861 and 1865]</ns2:publicationStatement>
+    <ns2:identifiedBy>
+      <ns2:Lccn rdf:nodeID="Nb5702be913a74924a75ab1bb14da1b0b">
+        <rdf:value> 2010650331</rdf:value>
+      </ns2:Lccn>
+    </ns2:identifiedBy>
+    <ns2:acquisitionSource>
+      <ns2:AcquisitionSource rdf:nodeID="N6e0cd65da9504b9d948d637fd76dac87">
+        <ns2:identifiedBy>
+          <ns2:StockNumber rdf:nodeID="Ne00c941d0af741bdbf8f220f486921bc">
+            <rdf:value>LC-DIG-ppmsca-27385</rdf:value>
+          </ns2:StockNumber>
+        </ns2:identifiedBy>
+        <rdfs:label>DLC</rdfs:label>
+        <ns2:acquisitionTerms>(digital file from original item)</ns2:acquisitionTerms>
+      </ns2:AcquisitionSource>
+    </ns2:acquisitionSource>
+    <ns2:title>
+      <ns2:Title rdf:nodeID="Na7a9b63785c34cf7a8cc5f5c9a50122d">
+        <ns2:mainTitle>[Corporal Sidney S. Goodridge of Company K, 20th Massachusetts Infantry Regiment and Company B, 4th Massachusetts Heavy Artillery Regiment with bayoneted musket in front of shebang at Camp Benton, near Edwards Ferry, Maryland]</ns2:mainTitle>
+      </ns2:Title>
+    </ns2:title>
+    <ns2:title>
+      <ns2:Title rdf:nodeID="N88d8a12b0a1f4d829a68d858055a44a2">
+        <ns2:mainTitle>[Corporal Sidney S. Goodridge of Company K, 20th Massachusetts Infantry Regiment and Company B, 4th Massachusetts Heavy Artillery Regiment with bayoneted musket in front of shebang at Camp Benton, near Edwards Ferry, Maryland]</ns2:mainTitle>
+      </ns2:Title>
+    </ns2:title>
+    <ns2:extent>
+      <ns2:Extent rdf:nodeID="N8ecff60c2f88498c99afb500f90c3455">
+        <rdfs:label>1 photograph</rdfs:label>
+        <ns2:note>
+          <ns2:Note rdf:nodeID="Nb234ff831fc84e039946f91020503aee">
+            <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/physical"/>
+            <rdfs:label>ninth-plate tintype, hand-colored</rdfs:label>
+          </ns2:Note>
+        </ns2:note>
+      </ns2:Extent>
+    </ns2:extent>
+    <ns2:dimensions>7.6 x 6.6 cm (case)</ns2:dimensions>
+    <ns2:media>
+      <ns2:Media rdf:about="http://id.loc.gov/vocabulary/mediaTypes/n">
+        <rdfs:label>unmediated</rdfs:label>
+        <ns2:code>n</ns2:code>
+      </ns2:Media>
+    </ns2:media>
+    <ns2:media rdf:resource="http://id.loc.gov/vocabulary/mediaTypes/c"/>
+    <ns2:carrier>
+      <ns2:Carrier rdf:about="http://id.loc.gov/vocabulary/carriers/nb">
+        <rdfs:label>sheet</rdfs:label>
+        <ns2:code>nb</ns2:code>
+      </ns2:Carrier>
+    </ns2:carrier>
+    <ns2:carrier rdf:resource="http://id.loc.gov/vocabulary/carriers/cr"/>
+    <ns2:note>
+      <ns2:Note rdf:nodeID="N69cacd650b6545348942c975199e040e">
+        <rdfs:label>Title devised by Library staff.</rdfs:label>
+      </ns2:Note>
+    </ns2:note>
+    <ns2:note>
+      <ns2:Note rdf:nodeID="Nb5859c9d248746eca4c1e777f532c61f">
+        <rdfs:label>Case: Berg, no. 3-273.</rdfs:label>
+      </ns2:Note>
+    </ns2:note>
+    <ns2:note>
+      <ns2:Note rdf:nodeID="N3ed1f833ae5e435dbaa07421dce97c5b">
+        <rdfs:label>Additional information in collections file.</rdfs:label>
+      </ns2:Note>
+    </ns2:note>
+    <ns2:note>
+      <ns2:Note rdf:nodeID="N97e2ba81cbd24118841f950d223660f3">
+        <rdfs:label>Digital photo with mat removed by Mike O'Donnell.</rdfs:label>
+      </ns2:Note>
+    </ns2:note>
+    <ns2:note>
+      <ns2:Note rdf:nodeID="Nb4476cebb38a4b75acafb1eadbb5f865">
+        <rdfs:label>More information about this collection is available at</rdfs:label>
+        <ns2:electronicLocator rdf:resource="http://hdl.loc.gov/loc.pnp/pp.lilj"/>
+      </ns2:Note>
+    </ns2:note>
+    <ns2:note>
+      <ns2:Note rdf:nodeID="N357ed28003004b5d9dd97c741f85863a">
+        <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/related"/>
+        <rdfs:label>Published in: Military images. East Stroudsburg, Pa., March-April 1997 (XVIII, 5), cover.</rdfs:label>
+      </ns2:Note>
+    </ns2:note>
+    <ns2:usageAndAccessPolicy>
+      <ns2:AccessPolicy rdf:nodeID="N1ff5e4be1ab14fcb890aa2dafb89b9be">
+        <rdfs:label>Use digital images. Original served only by appointment because material requires special handling. For more information see: (http://www.loc.gov/rr/print/info/617_apptonly.html)</rdfs:label>
+      </ns2:AccessPolicy>
+    </ns2:usageAndAccessPolicy>
+    <ns2:usageAndAccessPolicy>
+      <ns2:UsePolicy rdf:nodeID="Nb1a608a579994dc89a80a654dccfbf64">
+        <rdfs:label>No known restrictions on publication.</rdfs:label>
+      </ns2:UsePolicy>
+    </ns2:usageAndAccessPolicy>
+    <ns2:custodialHistory>Purchased from: The Horse Soldier, Cashtown, Pennsylvania, 2002.</ns2:custodialHistory>
+    <dcterms:isPartOf rdf:resource="http://id.loc.gov/resources/instances"/>
+    <ns2:instanceOf rdf:resource="http://id.loc.gov/resources/works/16318278"/>
+    <ns2:hasItem>
+      <ns2:Item rdf:about="http://id.loc.gov/resources/items/16318278">
+        <ns2:heldBy rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+        <ns2:immediateAcquisition>
+          <ns2:ImmediateAcquisition rdf:nodeID="N4345b11248674132a471706c76cadeee">
+            <rdfs:label>Gift; Tom Liljenquist; 2010; (DLC/PP-2010:105).</rdfs:label>
+          </ns2:ImmediateAcquisition>
+        </ns2:immediateAcquisition>
+        <dcterms:isPartOf rdf:resource="http://id.loc.gov/resources/items"/>
+        <ns2:itemOf rdf:resource="http://id.loc.gov/resources/instances/16318278"/>
+        <ns2:adminMetadata>
+          <ns2:AdminMetadata rdf:nodeID="N20398b82997345f69bc676e7cb8c2f16">
+            <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/n"/>
+            <ns2:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-07-07</ns2:date>
+            <ns2:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+          </ns2:AdminMetadata>
+        </ns2:adminMetadata>
+        <ns2:adminMetadata>
+          <ns2:AdminMetadata rdf:nodeID="N2d813c7ba4aa4104bb0d86ad785d866b">
+            <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/c"/>
+            <ns2:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-29T16:43:26</ns2:date>
+            <ns2:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+          </ns2:AdminMetadata>
+        </ns2:adminMetadata>
+        <ns2:adminMetadata>
+          <ns2:AdminMetadata rdf:nodeID="Na63e90b2f7b84f56a409352d824fbe5d">
+            <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/c"/>
+            <ns2:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlcmrc"/>
+            <ns2:generationProcess rdf:resource="https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.10.0"/>
+            <ns2:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-17T01:31:30.199437-04:00</ns2:date>
+          </ns2:AdminMetadata>
+        </ns2:adminMetadata>
+        <ns2:adminMetadata>
+          <ns2:AdminMetadata rdf:nodeID="Nab51b35fa2eb408f950f96b97678950d">
+            <ns2:descriptionLevel rdf:resource="http://id.loc.gov/ontologies/bibframe-2-6-0/"/>
+            <ns5:encodingLevel rdf:resource="http://id.loc.gov/vocabulary/menclvl/7"/>
+            <ns2:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr"/>
+            <ns2:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/gihc"/>
+            <ns2:identifiedBy>
+              <ns2:Local rdf:nodeID="N0a001f8b7a034cf498bfb49ee60c96dc">
+                <rdf:value>16318278</rdf:value>
+                <ns2:assigner rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+              </ns2:Local>
+            </ns2:identifiedBy>
+            <ns2:note>
+              <ns2:Note rdf:nodeID="N5b5d78174171417a8a57c2c0f1640981">
+                <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/internal"/>
+                <rdfs:label>040 $aDLC$egihc$cDLC</rdfs:label>
+              </ns2:Note>
+            </ns2:note>
+            <ns5:marcKey>906 $a7$bcbc$corignew$du$encip$f20$gy-printpho</ns5:marcKey>
+            <ns5:marcKey>955 $aEL/MG 2010-07; qw09 2010-10 rev.</ns5:marcKey>
+            <ns5:marcKey>955 $aLCAP batch update 2025-06-01-04:00: LCAPM-861</ns5:marcKey>
+            <ns3:d906>=906 $a 7 $b cbc $c orignew $d u $e ncip $f 20 $g y-printpho</ns3:d906>
+            <ns3:d955>=955 $a EL/MG 2010-07; qw09 2010-10 rev.</ns3:d955>
+            <ns3:d955>=955 $a LCAP batch update 2025-06-01-04:00: LCAPM-861</ns3:d955>
+            <ns3:d985>=985 $a pp/ambtin</ns3:d985>
+            <ns3:d985>=985 $a pp/lilj</ns3:d985>
+            <ns3:d985>=985 $a pp/flickrlilj</ns3:d985>
+            <ns3:d985>=985 $a pp/diof</ns3:d985>
+            <ns3:d985>=985 $a pp/civwar</ns3:d985>
+          </ns2:AdminMetadata>
+        </ns2:adminMetadata>
+      </ns2:Item>
+    </ns2:hasItem>
+    <ns2:adminMetadata>
+      <ns2:AdminMetadata rdf:nodeID="Nc28948fbb7944e87a855e92857faa14f">
+        <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/n"/>
+        <ns2:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-07-07</ns2:date>
+        <ns2:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+      </ns2:AdminMetadata>
+    </ns2:adminMetadata>
+    <ns2:adminMetadata>
+      <ns2:AdminMetadata rdf:nodeID="N07b3472f43234fc182d99b2cfba48d92">
+        <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/c"/>
+        <ns2:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-29T16:43:26</ns2:date>
+        <ns2:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+      </ns2:AdminMetadata>
+    </ns2:adminMetadata>
+    <ns2:adminMetadata>
+      <ns2:AdminMetadata rdf:nodeID="N6715d718b98d4363bb9f3685859cae07">
+        <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/c"/>
+        <ns2:agent rdf:resource="http://id.loc.gov/vocabulary/organizations/dlcmrc"/>
+        <ns2:generationProcess rdf:resource="https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.10.0"/>
+        <ns2:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-17T01:31:30.199437-04:00</ns2:date>
+      </ns2:AdminMetadata>
+    </ns2:adminMetadata>
+    <ns2:adminMetadata>
+      <ns2:AdminMetadata rdf:nodeID="Nc815a698cfd54e58bb327e103db36338">
+        <ns2:descriptionLevel rdf:resource="http://id.loc.gov/ontologies/bibframe-2-6-0/"/>
+        <ns5:encodingLevel rdf:resource="http://id.loc.gov/vocabulary/menclvl/7"/>
+        <ns2:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr"/>
+        <ns2:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/gihc"/>
+        <ns2:identifiedBy>
+          <ns2:Local rdf:nodeID="N33cb1ba777004f558389007763d6ae3a">
+            <rdf:value>16318278</rdf:value>
+            <ns2:assigner rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+          </ns2:Local>
+        </ns2:identifiedBy>
+        <ns2:note>
+          <ns2:Note rdf:nodeID="N7125e6c9046b48f08c60895eb5287ff8">
+            <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/internal"/>
+            <rdfs:label>040 $aDLC$egihc$cDLC</rdfs:label>
+          </ns2:Note>
+        </ns2:note>
+        <ns5:marcKey>906 $a7$bcbc$corignew$du$encip$f20$gy-printpho</ns5:marcKey>
+        <ns5:marcKey>955 $aEL/MG 2010-07; qw09 2010-10 rev.</ns5:marcKey>
+        <ns5:marcKey>955 $aLCAP batch update 2025-06-01-04:00: LCAPM-861</ns5:marcKey>
+        <ns3:d906>=906 $a 7 $b cbc $c orignew $d u $e ncip $f 20 $g y-printpho</ns3:d906>
+        <ns3:d955>=955 $a EL/MG 2010-07; qw09 2010-10 rev.</ns3:d955>
+        <ns3:d955>=955 $a LCAP batch update 2025-06-01-04:00: LCAPM-861</ns3:d955>
+        <ns3:d985>=985 $a pp/ambtin</ns3:d985>
+        <ns3:d985>=985 $a pp/lilj</ns3:d985>
+        <ns3:d985>=985 $a pp/flickrlilj</ns3:d985>
+        <ns3:d985>=985 $a pp/diof</ns3:d985>
+        <ns3:d985>=985 $a pp/civwar</ns3:d985>
+      </ns2:AdminMetadata>
+    </ns2:adminMetadata>
+  </ns2:Instance>
+  <ns4:CorporateName rdf:about="http://id.loc.gov/rwo/agents/nr2003037032">
+    <rdfs:label>United States. Army. Massachusetts Heavy Artillery Regiment, 4th (1864-1865)</rdfs:label>
+    <ns5:marcKey>1101 $aUnited States.$bArmy.$bMassachusetts Heavy Artillery Regiment, 4th (1864-1865)</ns5:marcKey>
+  </ns4:CorporateName>
+  <ns2:Work rdf:about="http://id.loc.gov/resources/works/16341713">
+    <rdfs:label>Liljenquist, Thomas Richard, 1952-. [Liljenquist Family Collection (Library of Congress)]</rdfs:label>
+    <ns2:contribution>
+      <ns2:Contribution rdf:nodeID="N9427427ba70e4f9bb9c56ce29ca136a9">
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/PrimaryContribution"/>
+        <ns2:agent>
+          <ns2:Agent rdf:nodeID="N8cb4a1c6fc474ba3810a722a314811c5">
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+            <rdfs:label>Liljenquist, Thomas Richard, 1952-</rdfs:label>
+            <ns5:marcKey>1001 $aLiljenquist, Thomas Richard,$d1952-$ecollector.</ns5:marcKey>
+          </ns2:Agent>
+        </ns2:agent>
+        <ns2:role rdf:resource="http://id.loc.gov/vocabulary/relators/col"/>
+      </ns2:Contribution>
+    </ns2:contribution>
+    <ns2:contribution>
+      <ns2:Contribution rdf:nodeID="Ncd63a52e92cc4fbabc0d6bb381ade33c">
+        <ns2:agent>
+          <ns2:Agent rdf:nodeID="N717761ba78ce4e08ad27f323c3e26e1c">
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+            <rdfs:label>Liljenquist, Jason George, 1991-</rdfs:label>
+            <ns5:marcKey>7001 $aLiljenquist, Jason George,$d1991-$ecollector.</ns5:marcKey>
+          </ns2:Agent>
+        </ns2:agent>
+        <ns2:role rdf:resource="http://id.loc.gov/vocabulary/relators/col"/>
+      </ns2:Contribution>
+    </ns2:contribution>
+    <ns2:contribution>
+      <ns2:Contribution rdf:nodeID="N2f4f80fa993047e3817c09456c5d829a">
+        <ns2:agent>
+          <ns2:Agent rdf:nodeID="N9e60fd2282d84905b52c015dcd1859fb">
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+            <rdfs:label>Liljenquist, Brandon Paul, 1993-</rdfs:label>
+            <ns5:marcKey>7001 $aLiljenquist, Brandon Paul,$d1993-$ecollector.</ns5:marcKey>
+          </ns2:Agent>
+        </ns2:agent>
+        <ns2:role rdf:resource="http://id.loc.gov/vocabulary/relators/col"/>
+      </ns2:Contribution>
+    </ns2:contribution>
+    <ns2:contribution>
+      <ns2:Contribution rdf:nodeID="Na907c3cdab7d4126a7c0e10c83f4673d">
+        <ns2:agent>
+          <ns2:Agent rdf:nodeID="N167b5e8dc3d245af8b681cdfb9dc9977">
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+            <rdfs:label>Liljenquist, Christian Blaine, 1997-</rdfs:label>
+            <ns5:marcKey>7001 $aLiljenquist, Christian Blaine,$d1997-$ecollector.</ns5:marcKey>
+          </ns2:Agent>
+        </ns2:agent>
+        <ns2:role rdf:resource="http://id.loc.gov/vocabulary/relators/col"/>
+      </ns2:Contribution>
+    </ns2:contribution>
+    <ns2:classification>
+      <ns2:ClassificationLcc rdf:nodeID="Ne73a9aea8ba04acaa0213d56ba9d4902">
+        <ns2:classificationPortion>Guide Record</ns2:classificationPortion>
+        <ns2:assigner rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+        <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/uba"/>
+      </ns2:ClassificationLcc>
+    </ns2:classification>
+    <ns2:title>
+      <ns2:Title rdf:nodeID="Nfae9fc72b4a64cbf804990b4a8d35b66">
+        <ns2:mainTitle>[Liljenquist Family Collection (Library of Congress)]</ns2:mainTitle>
+      </ns2:Title>
+    </ns2:title>
+    <ns2:title>
+      <ns2:VariantTitle rdf:nodeID="N9a610c718ea247f39191ecb997602b2a">
+        <ns2:mainTitle>Liljenquist Family Collection of Civil War Photographs (Library of Congress)</ns2:mainTitle>
+      </ns2:VariantTitle>
+    </ns2:title>
+    <ns2:title>
+      <ns2:VariantTitle rdf:nodeID="N4270dda3d9aa4833b0784ca9d43d829d">
+        <ns2:mainTitle>Liljenquist Family Collection of Civil War Ambrotypes and Tintypes (Library of Congress)</ns2:mainTitle>
+      </ns2:VariantTitle>
+    </ns2:title>
+    <ns2:language>
+      <ns2:Language rdf:about="http://id.loc.gov/vocabulary/languages/eng">
+        <rdfs:label xml:lang="en">English</rdfs:label>
+        <ns2:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eng</ns2:code>
+      </ns2:Language>
+    </ns2:language>
+    <ns2:hasInstance>
+      <ns2:Instance rdf:about="http://id.loc.gov/resources/instances/16341713">
+        <ns2:title>
+          <ns2:Title rdf:nodeID="Ncc7b56a736eb40e49b994417019249f7">
+            <ns2:mainTitle>[Liljenquist Family Collection (Library of Congress)]</ns2:mainTitle>
+          </ns2:Title>
+        </ns2:title>
+        <ns2:identifiedBy>
+          <ns2:Lccn rdf:nodeID="Nc93b76e608c749689976139291181e0c">
+            <rdf:value> 2010650519</rdf:value>
+          </ns2:Lccn>
+        </ns2:identifiedBy>
+        <ns2:identifiedBy>
+          <ns2:Lccn rdf:nodeID="Nec550bf218a9460298d19992404c5c58">
+            <rdf:value>mm2016086110</rdf:value>
+            <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/cancinv"/>
+          </ns2:Lccn>
+        </ns2:identifiedBy>
+        <ns2:publicationStatement>[between ca. 1850 and ca. 1950, bulk between 1861 and 1865]</ns2:publicationStatement>
+        <ns2:extent>
+          <ns2:Extent rdf:nodeID="N65fa2d39d1cd45138ec21902a7700fe9">
+            <rdfs:label>ca. 2,050 photographs</rdfs:label>
+            <ns2:note>
+              <ns2:Note rdf:nodeID="Na52660c2ff5f4c5394410973bc671d46">
+                <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/physical"/>
+                <rdfs:label>ambrotypes and tintypes, many hand-colored</rdfs:label>
+              </ns2:Note>
+            </ns2:note>
+          </ns2:Extent>
+        </ns2:extent>
+      </ns2:Instance>
+    </ns2:hasInstance>
+  </ns2:Work>
+  <ns2:DescriptionConventions rdf:about="http://id.loc.gov/vocabulary/descriptionConventions/aacr">
+    <rdfs:label>Anglo-American cataloguing rules</rdfs:label>
+    <ns2:code>aacr</ns2:code>
+  </ns2:DescriptionConventions>
+  <ns2:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlcmrc">
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Organization"/>
+    <rdfs:label>United States, Library of Congress, Network Development and MARC Standards Office</rdfs:label>
+    <ns2:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC-MRC</ns2:code>
+    <ns2:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlcmrc</ns2:code>
+    <ns2:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlcmrc</ns2:code>
+  </ns2:Agent>
+  <ns4:Topic rdf:about="http://id.loc.gov/vocabulary/graphicMaterials/tgm000884">
+    <rdfs:label xml:lang="en">Bayonets</rdfs:label>
+  </ns4:Topic>
+  <ns2:DescriptionConventions rdf:about="http://id.loc.gov/vocabulary/descriptionConventions/gihc">
+    <rdfs:label>Graphic materials</rdfs:label>
+    <ns2:code>gihc</ns2:code>
+  </ns2:DescriptionConventions>
+  <ns2:Content rdf:about="http://id.loc.gov/vocabulary/contentTypes/sti">
+    <rdfs:label>still image</rdfs:label>
+    <ns2:code>sti</ns2:code>
+  </ns2:Content>
+  <ns2:Work rdf:about="http://id.loc.gov/resources/works/16341670">
+    <rdfs:label>Ambrotype/Tintype photograph filing series (Library of Congress)</rdfs:label>
+    <ns2:classification>
+      <ns2:ClassificationLcc rdf:nodeID="N34d9ec83b67a44b4be257b980664f71f">
+        <ns2:classificationPortion>Guide Record (Filing series: AMB/TIN)</ns2:classificationPortion>
+        <ns2:assigner rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+        <ns2:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/uba"/>
+      </ns2:ClassificationLcc>
+    </ns2:classification>
+    <ns2:title>
+      <ns2:Title rdf:nodeID="Ne6d3df94674c4e40aee1320405b94d6d">
+        <ns2:mainTitle>Ambrotype/Tintype photograph filing series (Library of Congress)</ns2:mainTitle>
+      </ns2:Title>
+    </ns2:title>
+    <ns2:title>
+      <ns2:VariantTitle rdf:nodeID="N71b1b9b470fb4fb5b8ea217927251f96">
+        <ns2:mainTitle>Ambrotype/Tintype collection (Library of Congress)</ns2:mainTitle>
+      </ns2:VariantTitle>
+    </ns2:title>
+    <ns2:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+    <ns2:hasInstance rdf:resource="http://id.loc.gov/resources/instances/16341670"/>
+  </ns2:Work>
+  <ns2:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/uba">
+    <rdfs:label>used by assigner</rdfs:label>
+    <ns2:code>uba</ns2:code>
+  </ns2:Status>
+  <ns2:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Organization"/>
+    <rdfs:label>United States, Library of Congress</rdfs:label>
+    <ns2:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC</ns2:code>
+    <ns2:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlc</ns2:code>
+    <ns2:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlc</ns2:code>
+  </ns2:Agent>
+  <ns4:Topic rdf:about="http://id.loc.gov/vocabulary/graphicMaterials/tgm008914">
+    <rdfs:label xml:lang="en">Rifles</rdfs:label>
+  </ns4:Topic>
+  <ns2:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/n">
+    <rdfs:label>new</rdfs:label>
+    <ns2:code>n</ns2:code>
+  </ns2:Status>
+  <ns2:Place rdf:about="http://id.loc.gov/vocabulary/countries/xxu">
+    <rdfs:label xml:lang="en">United States</rdfs:label>
+    <ns2:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">xxu</ns2:code>
+  </ns2:Place>
+  <ns2:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/c">
+    <rdfs:label>changed</rdfs:label>
+    <ns2:code>c</ns2:code>
+  </ns2:Status>
+  <ns4:Authority rdf:about="http://id.loc.gov/vocabulary/subjectSchemes/lctgm">
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Source"/>
+    <rdfs:label>Thesaurus for graphic materials: TGM I, Subject terms</rdfs:label>
+    <ns2:code>lctgm</ns2:code>
+  </ns4:Authority>
+  <ns2:GenreForm rdf:about="http://id.loc.gov/vocabulary/marcgt/gra">
+    <rdfs:label>graphic</rdfs:label>
+    <ns2:code>gra</ns2:code>
+  </ns2:GenreForm>
+  <ns4:Authority rdf:about="http://id.loc.gov/vocabulary/genreFormSchemes/gmgpc">
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Source"/>
+    <rdfs:label>Thesaurus for graphic materials: TGM II, Genre and physical characteristic terms</rdfs:label>
+    <ns2:code>gmgpc</ns2:code>
+  </ns4:Authority>
+  <ns4:CorporateName rdf:about="http://id.loc.gov/rwo/agents/n91028264">
+    <rdfs:label>United States. Army. Massachusetts Infantry Regiment, 20th (1861-1865)</rdfs:label>
+    <ns5:marcKey>11010$aUnited States.$bArmy.$bMassachusetts Infantry Regiment, 20th (1861-1865)</ns5:marcKey>
+  </ns4:CorporateName>
+  <ns4:Topic rdf:about="http://id.loc.gov/vocabulary/graphicMaterials/tgm009848">
+    <rdfs:label xml:lang="en">Soldiers</rdfs:label>
+  </ns4:Topic>
+  <ns5:EncodingLevel rdf:about="http://id.loc.gov/vocabulary/menclvl/7">
+    <rdfs:label>minimal</rdfs:label>
+    <ns2:code>7</ns2:code>
+  </ns5:EncodingLevel>
+  <ns4:Topic rdf:about="http://id.loc.gov/vocabulary/graphicMaterials/tgm006582">
+    <rdfs:label xml:lang="en">Military uniforms</rdfs:label>
+  </ns4:Topic>
+  <ns4:Geographic rdf:about="http://id.loc.gov/rwo/agents/n78095330">
+    <rdfs:label>United States</rdfs:label>
+    <ns5:marcKey>151 $aUnited States</ns5:marcKey>
+    <ns2:code rdf:datatype="http://id.loc.gov/datatypes/codes/gac">n-us---</ns2:code>
+  </ns4:Geographic>
+  <ns2:Relationship rdf:about="http://id.loc.gov/vocabulary/relationship/partof">
+    <rdfs:label>part of</rdfs:label>
+    <ns2:code>partof</ns2:code>
+  </ns2:Relationship>
+  <ns2:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/cancinv">
+    <rdfs:label>invalid</rdfs:label>
+  </ns2:Status>
+  <ns4:Geographic rdf:about="http://id.loc.gov/rwo/agents/n79029831-781">
+    <rdfs:label>Maryland</rdfs:label>
+    <ns5:marcKey>181 $zMaryland</ns5:marcKey>
+  </ns4:Geographic>
+  <ns4:Topic rdf:about="http://id.loc.gov/vocabulary/graphicMaterials/tgm005233">
+    <rdfs:label xml:lang="en">Huts</rdfs:label>
+  </ns4:Topic>
+  <ns2:Role rdf:about="http://id.loc.gov/vocabulary/relators/col">
+    <rdfs:label>collector</rdfs:label>
+    <ns2:code>col</ns2:code>
+  </ns2:Role>
+</rdf:RDF>

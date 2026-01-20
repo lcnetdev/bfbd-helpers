@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nsmap>
+    <nsm ns="http://id.loc.gov/ontologies/bibframe/">bf</nsm>
+    <nsm ns="http://id.loc.gov/ontologies/bflc/">bflc</nsm>
+    <nsm ns="http://www.loc.gov/mads/rdf/v1#">madsrdf</nsm>
+    <nsm ns="http://id.loc.gov/ontologies/lclocal/">lclocal</nsm>
+    <nsm ns="http://purl.org/dc/terms/">dcterms</nsm>
+</nsmap>
